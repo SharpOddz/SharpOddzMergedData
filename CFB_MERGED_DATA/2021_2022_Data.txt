@@ -29,7 +29,7 @@
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,33/11
-	Team_2_First_Down_att-succ,33/11
+	Team_2_First_Down_att-succ,31/11
 	Team_1_Field_Goal_Made,[27]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -70,7 +70,7 @@
 	Team_1_Explosive_passes,1
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,27/4
-	Team_2_First_Down_att-succ,27/18
+	Team_2_First_Down_att-succ,43/18
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[24]
 	Team_1_Field_Goal_Missed,[]
@@ -111,7 +111,7 @@
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,32/12
-	Team_2_First_Down_att-succ,32/14
+	Team_2_First_Down_att-succ,31/14
 	Team_1_Field_Goal_Made,[48]
 	Team_2_Field_Goal_Made,[27]
 	Team_1_Field_Goal_Missed,[]
@@ -152,7 +152,7 @@
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,32/14
-	Team_2_First_Down_att-succ,32/7
+	Team_2_First_Down_att-succ,34/7
 	Team_1_Field_Goal_Made,[35,27,33]
 	Team_2_Field_Goal_Made,[38,27]
 	Team_1_Field_Goal_Missed,[]
@@ -203,7 +203,6 @@
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Southern Utah , San Jose State
 {
 	ESPN_GAME_ID,401282050
 	SHARPODDZ_GAME_ID,120215
@@ -235,7 +234,7 @@ Southern Utah , San Jose State
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,3
 	Team_1_First_Down_att-succ,31/13
-	Team_2_First_Down_att-succ,31/8
+	Team_2_First_Down_att-succ,23/8
 	Team_1_Field_Goal_Made,[27]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[52]
@@ -276,7 +275,7 @@ Southern Utah , San Jose State
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,22/9
-	Team_2_First_Down_att-succ,22/8
+	Team_2_First_Down_att-succ,34/8
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -327,7 +326,6 @@ Southern Utah , San Jose State
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-The Citadel , Coastal Carolina
 {
 	ESPN_GAME_ID,401309834
 	SHARPODDZ_GAME_ID,120218
@@ -359,7 +357,7 @@ The Citadel , Coastal Carolina
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,27/11
-	Team_2_First_Down_att-succ,27/19
+	Team_2_First_Down_att-succ,35/19
 	Team_1_Field_Goal_Made,[51]
 	Team_2_Field_Goal_Made,[25]
 	Team_1_Field_Goal_Missed,[]
@@ -400,7 +398,7 @@ The Citadel , Coastal Carolina
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,26/6
-	Team_2_First_Down_att-succ,26/14
+	Team_2_First_Down_att-succ,35/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -441,7 +439,7 @@ The Citadel , Coastal Carolina
 	Team_1_Explosive_passes,14
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,31/12
-	Team_2_First_Down_att-succ,31/18
+	Team_2_First_Down_att-succ,39/18
 	Team_1_Field_Goal_Made,[31]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -482,7 +480,7 @@ The Citadel , Coastal Carolina
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,29/14
-	Team_2_First_Down_att-succ,29/10
+	Team_2_First_Down_att-succ,32/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[35]
 	Team_1_Field_Goal_Missed,[]
@@ -533,7 +531,6 @@ The Citadel , Coastal Carolina
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Wagner , Buffalo
 {
 	ESPN_GAME_ID,401282607
 	SHARPODDZ_GAME_ID,1202113
@@ -565,7 +562,7 @@ Wagner , Buffalo
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,27/8
-	Team_2_First_Down_att-succ,27/17
+	Team_2_First_Down_att-succ,35/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[34]
 	Team_1_Field_Goal_Missed,[]
@@ -606,7 +603,7 @@ Wagner , Buffalo
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,30/12
-	Team_2_First_Down_att-succ,30/17
+	Team_2_First_Down_att-succ,33/17
 	Team_1_Field_Goal_Made,[38,39]
 	Team_2_Field_Goal_Made,[21,43]
 	Team_1_Field_Goal_Missed,[]
@@ -657,7 +654,6 @@ Wagner , Buffalo
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-UC Davis , Tulsa
 {
 	ESPN_GAME_ID,401281952
 	SHARPODDZ_GAME_ID,1202116
@@ -689,7 +685,7 @@ UC Davis , Tulsa
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,24/11
-	Team_2_First_Down_att-succ,24/21
+	Team_2_First_Down_att-succ,41/21
 	Team_1_Field_Goal_Made,[42,50]
 	Team_2_Field_Goal_Made,[43]
 	Team_1_Field_Goal_Missed,[]
@@ -730,7 +726,7 @@ UC Davis , Tulsa
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,17
 	Team_1_First_Down_att-succ,33/8
-	Team_2_First_Down_att-succ,33/13
+	Team_2_First_Down_att-succ,36/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[30]
 	Team_1_Field_Goal_Missed,[28]
@@ -781,7 +777,6 @@ UC Davis , Tulsa
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Houston Baptist , New Mexico
 {
 	ESPN_GAME_ID,401282051
 	SHARPODDZ_GAME_ID,1202119
@@ -823,7 +818,6 @@ Houston Baptist , New Mexico
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Long Island University , Florida International
 {
 	ESPN_GAME_ID,401310694
 	SHARPODDZ_GAME_ID,1202120
@@ -865,7 +859,6 @@ Long Island University , Florida International
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Eastern Washington , UNLV
 {
 	ESPN_GAME_ID,401309937
 	SHARPODDZ_GAME_ID,1202121
@@ -938,7 +931,7 @@ Eastern Washington , UNLV
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,34/16
-	Team_2_First_Down_att-succ,34/13
+	Team_2_First_Down_att-succ,32/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[32]
 	Team_1_Field_Goal_Missed,[]
@@ -989,7 +982,6 @@ Eastern Washington , UNLV
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Old Dominion , Wake Forest
 {
 	ESPN_GAME_ID,401309541
 	SHARPODDZ_GAME_ID,1202124
@@ -1031,7 +1023,6 @@ Old Dominion , Wake Forest
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-St. Francis (PA) , Eastern Michigan
 {
 	ESPN_GAME_ID,401287888
 	SHARPODDZ_GAME_ID,1202125
@@ -1063,7 +1054,7 @@ St. Francis (PA) , Eastern Michigan
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,25/10
-	Team_2_First_Down_att-succ,25/8
+	Team_2_First_Down_att-succ,27/8
 	Team_1_Field_Goal_Made,[46]
 	Team_2_Field_Goal_Made,[30]
 	Team_1_Field_Goal_Missed,[]
@@ -1104,7 +1095,7 @@ St. Francis (PA) , Eastern Michigan
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,35/11
-	Team_2_First_Down_att-succ,35/11
+	Team_2_First_Down_att-succ,32/11
 	Team_1_Field_Goal_Made,[37]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -1145,7 +1136,7 @@ St. Francis (PA) , Eastern Michigan
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,24/9
-	Team_2_First_Down_att-succ,24/12
+	Team_2_First_Down_att-succ,31/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -1196,7 +1187,6 @@ St. Francis (PA) , Eastern Michigan
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-South Dakota State , Colorado State
 {
 	ESPN_GAME_ID,401281942
 	SHARPODDZ_GAME_ID,1202129
@@ -1228,7 +1218,7 @@ South Dakota State , Colorado State
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,35/16
-	Team_2_First_Down_att-succ,35/12
+	Team_2_First_Down_att-succ,30/12
 	Team_1_Field_Goal_Made,[38,51,40]
 	Team_2_Field_Goal_Made,[37,28]
 	Team_1_Field_Goal_Missed,[]
@@ -1269,7 +1259,7 @@ South Dakota State , Colorado State
 	Team_1_Explosive_passes,14
 	Team_2_Explosive_passes,16
 	Team_1_First_Down_att-succ,39/10
-	Team_2_First_Down_att-succ,39/18
+	Team_2_First_Down_att-succ,37/18
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[41]
@@ -1351,7 +1341,7 @@ South Dakota State , Colorado State
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,15
 	Team_1_First_Down_att-succ,32/14
-	Team_2_First_Down_att-succ,32/19
+	Team_2_First_Down_att-succ,40/19
 	Team_1_Field_Goal_Made,[30]
 	Team_2_Field_Goal_Made,[49,36]
 	Team_1_Field_Goal_Missed,[25]
@@ -1392,7 +1382,7 @@ South Dakota State , Colorado State
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,24/3
-	Team_2_First_Down_att-succ,24/11
+	Team_2_First_Down_att-succ,30/11
 	Team_1_Field_Goal_Made,[41]
 	Team_2_Field_Goal_Made,[35,40,21]
 	Team_1_Field_Goal_Missed,[]
@@ -1433,7 +1423,7 @@ South Dakota State , Colorado State
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,31/3
-	Team_2_First_Down_att-succ,31/20
+	Team_2_First_Down_att-succ,35/20
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -1474,7 +1464,7 @@ South Dakota State , Colorado State
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,36/13
-	Team_2_First_Down_att-succ,36/18
+	Team_2_First_Down_att-succ,32/18
 	Team_1_Field_Goal_Made,[33,39,22]
 	Team_2_Field_Goal_Made,[25]
 	Team_1_Field_Goal_Missed,[]
@@ -1515,7 +1505,7 @@ South Dakota State , Colorado State
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,22/7
-	Team_2_First_Down_att-succ,22/14
+	Team_2_First_Down_att-succ,40/14
 	Team_1_Field_Goal_Made,[24]
 	Team_2_Field_Goal_Made,[43]
 	Team_1_Field_Goal_Missed,[24]
@@ -1556,7 +1546,7 @@ South Dakota State , Colorado State
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,34/15
-	Team_2_First_Down_att-succ,34/12
+	Team_2_First_Down_att-succ,36/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -1607,7 +1597,6 @@ South Dakota State , Colorado State
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-San Jose State , USC
 {
 	ESPN_GAME_ID,401281948
 	SHARPODDZ_GAME_ID,1202139
@@ -1639,7 +1628,7 @@ San Jose State , USC
 	Team_1_Explosive_passes,15
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,33/10
-	Team_2_First_Down_att-succ,33/13
+	Team_2_First_Down_att-succ,29/13
 	Team_1_Field_Goal_Made,[26,33]
 	Team_2_Field_Goal_Made,[43]
 	Team_1_Field_Goal_Missed,[]
@@ -1680,7 +1669,7 @@ San Jose State , USC
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,27/6
-	Team_2_First_Down_att-succ,27/13
+	Team_2_First_Down_att-succ,29/13
 	Team_1_Field_Goal_Made,[36,41]
 	Team_2_Field_Goal_Made,[41,35]
 	Team_1_Field_Goal_Missed,[]
@@ -1721,7 +1710,7 @@ San Jose State , USC
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,23/4
-	Team_2_First_Down_att-succ,23/18
+	Team_2_First_Down_att-succ,34/18
 	Team_1_Field_Goal_Made,[26,22,50]
 	Team_2_Field_Goal_Made,[50]
 	Team_1_Field_Goal_Missed,[]
@@ -1803,7 +1792,7 @@ San Jose State , USC
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,25/4
-	Team_2_First_Down_att-succ,25/17
+	Team_2_First_Down_att-succ,33/17
 	Team_1_Field_Goal_Made,[29]
 	Team_2_Field_Goal_Made,[45]
 	Team_1_Field_Goal_Missed,[]
@@ -1844,7 +1833,7 @@ San Jose State , USC
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,22/6
-	Team_2_First_Down_att-succ,22/15
+	Team_2_First_Down_att-succ,33/15
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -1885,7 +1874,7 @@ San Jose State , USC
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,27/6
-	Team_2_First_Down_att-succ,27/12
+	Team_2_First_Down_att-succ,28/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[37,20]
 	Team_1_Field_Goal_Missed,[]
@@ -1926,7 +1915,7 @@ San Jose State , USC
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,26/5
-	Team_2_First_Down_att-succ,26/16
+	Team_2_First_Down_att-succ,35/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[25]
 	Team_1_Field_Goal_Missed,[]
@@ -1967,7 +1956,7 @@ San Jose State , USC
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,23/10
-	Team_2_First_Down_att-succ,23/8
+	Team_2_First_Down_att-succ,19/8
 	Team_1_Field_Goal_Made,[30]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -2008,7 +1997,7 @@ San Jose State , USC
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,22/8
-	Team_2_First_Down_att-succ,22/10
+	Team_2_First_Down_att-succ,25/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[40]
 	Team_1_Field_Goal_Missed,[]
@@ -2049,7 +2038,7 @@ San Jose State , USC
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,19/9
-	Team_2_First_Down_att-succ,19/6
+	Team_2_First_Down_att-succ,14/6
 	Team_1_Field_Goal_Made,[22]
 	Team_2_Field_Goal_Made,[33]
 	Team_1_Field_Goal_Missed,[]
@@ -2090,7 +2079,7 @@ San Jose State , USC
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,22/10
-	Team_2_First_Down_att-succ,22/16
+	Team_2_First_Down_att-succ,43/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -2141,7 +2130,6 @@ San Jose State , USC
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Rice , Arkansas
 {
 	ESPN_GAME_ID,401310861
 	SHARPODDZ_GAME_ID,1202152
@@ -2183,7 +2171,6 @@ Rice , Arkansas
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Lafayette , Air Force
 {
 	ESPN_GAME_ID,401282174
 	SHARPODDZ_GAME_ID,1202153
@@ -2215,7 +2202,7 @@ Lafayette , Air Force
 	Team_1_Explosive_passes,14
 	Team_2_Explosive_passes,2
 	Team_1_First_Down_att-succ,36/15
-	Team_2_First_Down_att-succ,36/12
+	Team_2_First_Down_att-succ,39/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -2256,7 +2243,7 @@ Lafayette , Air Force
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,29/11
-	Team_2_First_Down_att-succ,29/17
+	Team_2_First_Down_att-succ,33/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[45,21,26]
 	Team_1_Field_Goal_Missed,[]
@@ -2297,7 +2284,7 @@ Lafayette , Air Force
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,16
 	Team_1_First_Down_att-succ,27/10
-	Team_2_First_Down_att-succ,27/19
+	Team_2_First_Down_att-succ,35/19
 	Team_1_Field_Goal_Made,[20,33]
 	Team_2_Field_Goal_Made,[52]
 	Team_1_Field_Goal_Missed,[]
@@ -2338,7 +2325,7 @@ Lafayette , Air Force
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,41/15
-	Team_2_First_Down_att-succ,41/15
+	Team_2_First_Down_att-succ,37/15
 	Team_1_Field_Goal_Made,[51]
 	Team_2_Field_Goal_Made,[44]
 	Team_1_Field_Goal_Missed,[]
@@ -2389,7 +2376,6 @@ Lafayette , Air Force
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-UMass , Pittsburgh
 {
 	ESPN_GAME_ID,401310697
 	SHARPODDZ_GAME_ID,1202158
@@ -2421,7 +2407,7 @@ UMass , Pittsburgh
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,29/10
-	Team_2_First_Down_att-succ,29/14
+	Team_2_First_Down_att-succ,30/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -2462,7 +2448,7 @@ UMass , Pittsburgh
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,31/11
-	Team_2_First_Down_att-succ,31/14
+	Team_2_First_Down_att-succ,38/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[41]
 	Team_1_Field_Goal_Missed,[]
@@ -2513,7 +2499,6 @@ UMass , Pittsburgh
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Gardner-Webb , Georgia Southern
 {
 	ESPN_GAME_ID,401281944
 	SHARPODDZ_GAME_ID,1202161
@@ -2545,7 +2530,7 @@ Gardner-Webb , Georgia Southern
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,32/12
-	Team_2_First_Down_att-succ,32/28
+	Team_2_First_Down_att-succ,40/28
 	Team_1_Field_Goal_Made,[40]
 	Team_2_Field_Goal_Made,[44]
 	Team_1_Field_Goal_Missed,[]
@@ -2586,7 +2571,7 @@ Gardner-Webb , Georgia Southern
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,20/8
-	Team_2_First_Down_att-succ,20/14
+	Team_2_First_Down_att-succ,31/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[36]
 	Team_1_Field_Goal_Missed,[]
@@ -2637,7 +2622,6 @@ Gardner-Webb , Georgia Southern
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Monmouth , Middle Tennessee
 {
 	ESPN_GAME_ID,401282611
 	SHARPODDZ_GAME_ID,1202164
@@ -2679,7 +2663,6 @@ Monmouth , Middle Tennessee
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Syracuse , Ohio
 {
 	ESPN_GAME_ID,401282819
 	SHARPODDZ_GAME_ID,1202165
@@ -2711,7 +2694,7 @@ Syracuse , Ohio
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,16
 	Team_1_First_Down_att-succ,30/10
-	Team_2_First_Down_att-succ,30/15
+	Team_2_First_Down_att-succ,39/15
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[48,39,22]
 	Team_1_Field_Goal_Missed,[]
@@ -2752,7 +2735,7 @@ Syracuse , Ohio
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,25/11
-	Team_2_First_Down_att-succ,25/10
+	Team_2_First_Down_att-succ,29/10
 	Team_1_Field_Goal_Made,[34]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -2793,7 +2776,7 @@ Syracuse , Ohio
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,15
 	Team_1_First_Down_att-succ,38/13
-	Team_2_First_Down_att-succ,38/11
+	Team_2_First_Down_att-succ,30/11
 	Team_1_Field_Goal_Made,[51,30,48,33]
 	Team_2_Field_Goal_Made,[35]
 	Team_1_Field_Goal_Missed,[]
@@ -2834,7 +2817,7 @@ Syracuse , Ohio
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,36/16
-	Team_2_First_Down_att-succ,36/12
+	Team_2_First_Down_att-succ,31/12
 	Team_1_Field_Goal_Made,[40,43,26]
 	Team_2_Field_Goal_Made,[21,38]
 	Team_1_Field_Goal_Missed,[]
@@ -2875,7 +2858,7 @@ Syracuse , Ohio
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,28/13
-	Team_2_First_Down_att-succ,28/21
+	Team_2_First_Down_att-succ,45/21
 	Team_1_Field_Goal_Made,[35]
 	Team_2_Field_Goal_Made,[26,33,24,38,25]
 	Team_1_Field_Goal_Missed,[]
@@ -2916,7 +2899,7 @@ Syracuse , Ohio
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,30/14
-	Team_2_First_Down_att-succ,30/14
+	Team_2_First_Down_att-succ,33/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[33,49]
 	Team_1_Field_Goal_Missed,[]
@@ -2998,7 +2981,7 @@ Syracuse , Ohio
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,28/9
-	Team_2_First_Down_att-succ,28/13
+	Team_2_First_Down_att-succ,37/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -3039,7 +3022,7 @@ Syracuse , Ohio
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,23/8
-	Team_2_First_Down_att-succ,23/12
+	Team_2_First_Down_att-succ,35/12
 	Team_1_Field_Goal_Made,[31]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -3080,7 +3063,7 @@ Syracuse , Ohio
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,25/8
-	Team_2_First_Down_att-succ,25/14
+	Team_2_First_Down_att-succ,37/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[51,38,48,22]
 	Team_1_Field_Goal_Missed,[]
@@ -3121,7 +3104,7 @@ Syracuse , Ohio
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,35/13
-	Team_2_First_Down_att-succ,35/11
+	Team_2_First_Down_att-succ,34/11
 	Team_1_Field_Goal_Made,[32,28,27]
 	Team_2_Field_Goal_Made,[52,53,32]
 	Team_1_Field_Goal_Missed,[]
@@ -3172,7 +3155,6 @@ Syracuse , Ohio
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Northern Illinois , Georgia Tech
 {
 	ESPN_GAME_ID,401282613
 	SHARPODDZ_GAME_ID,1202177
@@ -3204,7 +3186,7 @@ Northern Illinois , Georgia Tech
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,15
 	Team_1_First_Down_att-succ,24/9
-	Team_2_First_Down_att-succ,24/16
+	Team_2_First_Down_att-succ,32/16
 	Team_1_Field_Goal_Made,[42,36]
 	Team_2_Field_Goal_Made,[39,25]
 	Team_1_Field_Goal_Missed,[]
@@ -3255,7 +3237,6 @@ Northern Illinois , Georgia Tech
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-East Tennessee State , Vanderbilt
 {
 	ESPN_GAME_ID,401282177
 	SHARPODDZ_GAME_ID,1202179
@@ -3297,7 +3278,6 @@ East Tennessee State , Vanderbilt
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Southern Miss , South Alabama
 {
 	ESPN_GAME_ID,401287891
 	SHARPODDZ_GAME_ID,1202180
@@ -3339,7 +3319,6 @@ Southern Miss , South Alabama
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Duquesne , TCU
 {
 	ESPN_GAME_ID,401282178
 	SHARPODDZ_GAME_ID,1202181
@@ -3371,7 +3350,7 @@ Duquesne , TCU
 	Team_1_Explosive_passes,1
 	Team_2_Explosive_passes,1
 	Team_1_First_Down_att-succ,8/3
-	Team_2_First_Down_att-succ,8/1
+	Team_2_First_Down_att-succ,5/1
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[22]
 	Team_1_Field_Goal_Missed,[]
@@ -3412,7 +3391,7 @@ Duquesne , TCU
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,29/13
-	Team_2_First_Down_att-succ,29/12
+	Team_2_First_Down_att-succ,28/12
 	Team_1_Field_Goal_Made,[44,35,49,47]
 	Team_2_Field_Goal_Made,[24,40]
 	Team_1_Field_Goal_Missed,[]
@@ -3453,7 +3432,7 @@ Duquesne , TCU
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,29/11
-	Team_2_First_Down_att-succ,29/24
+	Team_2_First_Down_att-succ,38/24
 	Team_1_Field_Goal_Made,[40]
 	Team_2_Field_Goal_Made,[28,37]
 	Team_1_Field_Goal_Missed,[]
@@ -3504,7 +3483,6 @@ Duquesne , TCU
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-New Mexico State , San Diego State
 {
 	ESPN_GAME_ID,401309840
 	SHARPODDZ_GAME_ID,1202185
@@ -3536,7 +3514,7 @@ New Mexico State , San Diego State
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,34/12
-	Team_2_First_Down_att-succ,34/10
+	Team_2_First_Down_att-succ,24/10
 	Team_1_Field_Goal_Made,[23,39]
 	Team_2_Field_Goal_Made,[35,31,26]
 	Team_1_Field_Goal_Missed,[]
@@ -3587,7 +3565,6 @@ New Mexico State , San Diego State
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Portland State , Hawai'i
 {
 	ESPN_GAME_ID,401282614
 	SHARPODDZ_GAME_ID,1202187
@@ -3619,7 +3596,7 @@ Portland State , Hawai'i
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,31/9
-	Team_2_First_Down_att-succ,31/11
+	Team_2_First_Down_att-succ,34/11
 	Team_1_Field_Goal_Made,[48]
 	Team_2_Field_Goal_Made,[43]
 	Team_1_Field_Goal_Missed,[]
@@ -3660,7 +3637,7 @@ Portland State , Hawai'i
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,15
 	Team_1_First_Down_att-succ,33/14
-	Team_2_First_Down_att-succ,33/26
+	Team_2_First_Down_att-succ,43/26
 	Team_1_Field_Goal_Made,[38]
 	Team_2_Field_Goal_Made,[47,22,38]
 	Team_1_Field_Goal_Missed,[]
@@ -3701,7 +3678,7 @@ Portland State , Hawai'i
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,27/9
-	Team_2_First_Down_att-succ,27/19
+	Team_2_First_Down_att-succ,34/19
 	Team_1_Field_Goal_Made,[46]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -3742,7 +3719,7 @@ Portland State , Hawai'i
 	Team_1_Explosive_passes,1
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,29/5
-	Team_2_First_Down_att-succ,29/14
+	Team_2_First_Down_att-succ,33/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[36]
 	Team_1_Field_Goal_Missed,[]
@@ -3783,7 +3760,7 @@ Portland State , Hawai'i
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,35/11
-	Team_2_First_Down_att-succ,35/17
+	Team_2_First_Down_att-succ,31/17
 	Team_1_Field_Goal_Made,[33]
 	Team_2_Field_Goal_Made,[39]
 	Team_1_Field_Goal_Missed,[]
@@ -3824,7 +3801,7 @@ Portland State , Hawai'i
 	Team_1_Explosive_passes,15
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,37/17
-	Team_2_First_Down_att-succ,37/10
+	Team_2_First_Down_att-succ,31/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -3865,7 +3842,7 @@ Portland State , Hawai'i
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,25/12
-	Team_2_First_Down_att-succ,25/14
+	Team_2_First_Down_att-succ,34/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[30,40]
 	Team_1_Field_Goal_Missed,[]
@@ -3906,7 +3883,7 @@ Portland State , Hawai'i
 	Team_1_Explosive_passes,1
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,27/10
-	Team_2_First_Down_att-succ,27/16
+	Team_2_First_Down_att-succ,30/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -3947,7 +3924,7 @@ Portland State , Hawai'i
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,23
 	Team_1_First_Down_att-succ,34/12
-	Team_2_First_Down_att-succ,34/23
+	Team_2_First_Down_att-succ,41/23
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -3988,7 +3965,7 @@ Portland State , Hawai'i
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,16
 	Team_1_First_Down_att-succ,24/3
-	Team_2_First_Down_att-succ,24/18
+	Team_2_First_Down_att-succ,40/18
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[56,46]
 	Team_1_Field_Goal_Missed,[]
@@ -4029,7 +4006,7 @@ Portland State , Hawai'i
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,26/7
-	Team_2_First_Down_att-succ,26/9
+	Team_2_First_Down_att-succ,28/9
 	Team_1_Field_Goal_Made,[41]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[53]
@@ -4070,7 +4047,7 @@ Portland State , Hawai'i
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,24/5
-	Team_2_First_Down_att-succ,24/16
+	Team_2_First_Down_att-succ,42/16
 	Team_1_Field_Goal_Made,[27]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -4111,7 +4088,7 @@ Portland State , Hawai'i
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,27/7
-	Team_2_First_Down_att-succ,27/15
+	Team_2_First_Down_att-succ,31/15
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[33]
@@ -4152,7 +4129,7 @@ Portland State , Hawai'i
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,30/10
-	Team_2_First_Down_att-succ,30/16
+	Team_2_First_Down_att-succ,38/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -4193,7 +4170,7 @@ Portland State , Hawai'i
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,24/8
-	Team_2_First_Down_att-succ,24/14
+	Team_2_First_Down_att-succ,35/14
 	Team_1_Field_Goal_Made,[51,22]
 	Team_2_Field_Goal_Made,[23]
 	Team_1_Field_Goal_Missed,[50]
@@ -4234,7 +4211,7 @@ Portland State , Hawai'i
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,31/11
-	Team_2_First_Down_att-succ,31/23
+	Team_2_First_Down_att-succ,37/23
 	Team_1_Field_Goal_Made,[24,23]
 	Team_2_Field_Goal_Made,[45,26,22]
 	Team_1_Field_Goal_Missed,[]
@@ -4275,7 +4252,7 @@ Portland State , Hawai'i
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,35/23
-	Team_2_First_Down_att-succ,35/14
+	Team_2_First_Down_att-succ,34/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[25,32]
 	Team_1_Field_Goal_Missed,[]
@@ -4316,7 +4293,7 @@ Portland State , Hawai'i
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,27/8
-	Team_2_First_Down_att-succ,27/20
+	Team_2_First_Down_att-succ,34/20
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[49]
@@ -4357,7 +4334,7 @@ Portland State , Hawai'i
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,26/13
-	Team_2_First_Down_att-succ,26/17
+	Team_2_First_Down_att-succ,32/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[24,24,44,22]
 	Team_1_Field_Goal_Missed,[52]
@@ -4398,7 +4375,7 @@ Portland State , Hawai'i
 	Team_1_Explosive_passes,1
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,13/4
-	Team_2_First_Down_att-succ,13/21
+	Team_2_First_Down_att-succ,38/21
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[33,39]
 	Team_1_Field_Goal_Missed,[]
@@ -4449,7 +4426,6 @@ Portland State , Hawai'i
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Middle Tennessee , Virginia Tech
 {
 	ESPN_GAME_ID,401282063
 	SHARPODDZ_GAME_ID,22021108
@@ -4481,7 +4457,7 @@ Middle Tennessee , Virginia Tech
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,34/13
-	Team_2_First_Down_att-succ,34/23
+	Team_2_First_Down_att-succ,40/23
 	Team_1_Field_Goal_Made,[30]
 	Team_2_Field_Goal_Made,[26]
 	Team_1_Field_Goal_Missed,[]
@@ -4522,7 +4498,7 @@ Middle Tennessee , Virginia Tech
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,24/11
-	Team_2_First_Down_att-succ,24/13
+	Team_2_First_Down_att-succ,32/13
 	Team_1_Field_Goal_Made,[47]
 	Team_2_Field_Goal_Made,[37,21]
 	Team_1_Field_Goal_Missed,[49]
@@ -4563,7 +4539,7 @@ Middle Tennessee , Virginia Tech
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,31/15
-	Team_2_First_Down_att-succ,31/19
+	Team_2_First_Down_att-succ,38/19
 	Team_1_Field_Goal_Made,[22]
 	Team_2_Field_Goal_Made,[27,38,43]
 	Team_1_Field_Goal_Missed,[]
@@ -4604,7 +4580,7 @@ Middle Tennessee , Virginia Tech
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,22/8
-	Team_2_First_Down_att-succ,22/19
+	Team_2_First_Down_att-succ,38/19
 	Team_1_Field_Goal_Made,[28]
 	Team_2_Field_Goal_Made,[22]
 	Team_1_Field_Goal_Missed,[]
@@ -4645,7 +4621,7 @@ Middle Tennessee , Virginia Tech
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,15
 	Team_1_First_Down_att-succ,31/10
-	Team_2_First_Down_att-succ,31/17
+	Team_2_First_Down_att-succ,38/17
 	Team_1_Field_Goal_Made,[37]
 	Team_2_Field_Goal_Made,[29]
 	Team_1_Field_Goal_Missed,[]
@@ -4686,7 +4662,7 @@ Middle Tennessee , Virginia Tech
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,29/8
-	Team_2_First_Down_att-succ,29/14
+	Team_2_First_Down_att-succ,30/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[34,23]
 	Team_1_Field_Goal_Missed,[]
@@ -4727,7 +4703,7 @@ Middle Tennessee , Virginia Tech
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,17
 	Team_1_First_Down_att-succ,31/15
-	Team_2_First_Down_att-succ,31/22
+	Team_2_First_Down_att-succ,43/22
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -4768,7 +4744,7 @@ Middle Tennessee , Virginia Tech
 	Team_1_Explosive_passes,18
 	Team_2_Explosive_passes,2
 	Team_1_First_Down_att-succ,31/18
-	Team_2_First_Down_att-succ,31/11
+	Team_2_First_Down_att-succ,32/11
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[31]
 	Team_1_Field_Goal_Missed,[]
@@ -4809,7 +4785,7 @@ Middle Tennessee , Virginia Tech
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,30/9
-	Team_2_First_Down_att-succ,30/16
+	Team_2_First_Down_att-succ,35/16
 	Team_1_Field_Goal_Made,[43]
 	Team_2_Field_Goal_Made,[20]
 	Team_1_Field_Goal_Missed,[]
@@ -4850,7 +4826,7 @@ Middle Tennessee , Virginia Tech
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,32/12
-	Team_2_First_Down_att-succ,32/9
+	Team_2_First_Down_att-succ,26/9
 	Team_1_Field_Goal_Made,[39,36]
 	Team_2_Field_Goal_Made,[26]
 	Team_1_Field_Goal_Missed,[]
@@ -4891,7 +4867,7 @@ Middle Tennessee , Virginia Tech
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,34/11
-	Team_2_First_Down_att-succ,34/8
+	Team_2_First_Down_att-succ,39/8
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -4932,7 +4908,7 @@ Middle Tennessee , Virginia Tech
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,24/5
-	Team_2_First_Down_att-succ,24/13
+	Team_2_First_Down_att-succ,31/13
 	Team_1_Field_Goal_Made,[46]
 	Team_2_Field_Goal_Made,[31]
 	Team_1_Field_Goal_Missed,[]
@@ -4973,7 +4949,7 @@ Middle Tennessee , Virginia Tech
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,30/11
-	Team_2_First_Down_att-succ,30/14
+	Team_2_First_Down_att-succ,31/14
 	Team_1_Field_Goal_Made,[41]
 	Team_2_Field_Goal_Made,[46,22]
 	Team_1_Field_Goal_Missed,[]
@@ -5014,7 +4990,7 @@ Middle Tennessee , Virginia Tech
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,30/12
-	Team_2_First_Down_att-succ,30/27
+	Team_2_First_Down_att-succ,32/27
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -5055,7 +5031,7 @@ Middle Tennessee , Virginia Tech
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,29/10
-	Team_2_First_Down_att-succ,29/8
+	Team_2_First_Down_att-succ,25/8
 	Team_1_Field_Goal_Made,[46,45]
 	Team_2_Field_Goal_Made,[50]
 	Team_1_Field_Goal_Missed,[]
@@ -5096,7 +5072,7 @@ Middle Tennessee , Virginia Tech
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,2
 	Team_1_First_Down_att-succ,25/7
-	Team_2_First_Down_att-succ,25/12
+	Team_2_First_Down_att-succ,29/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[47]
 	Team_1_Field_Goal_Missed,[]
@@ -5137,7 +5113,7 @@ Middle Tennessee , Virginia Tech
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,32/8
-	Team_2_First_Down_att-succ,32/9
+	Team_2_First_Down_att-succ,29/9
 	Team_1_Field_Goal_Made,[20]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -5188,7 +5164,6 @@ Middle Tennessee , Virginia Tech
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Morgan State , Tulane
 {
 	ESPN_GAME_ID,401309547
 	SHARPODDZ_GAME_ID,22021126
@@ -5220,7 +5195,7 @@ Morgan State , Tulane
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,35/17
-	Team_2_First_Down_att-succ,35/13
+	Team_2_First_Down_att-succ,34/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[46]
 	Team_1_Field_Goal_Missed,[]
@@ -5302,7 +5277,7 @@ Morgan State , Tulane
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,35/14
-	Team_2_First_Down_att-succ,35/6
+	Team_2_First_Down_att-succ,24/6
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -5343,7 +5318,7 @@ Morgan State , Tulane
 	Team_1_Explosive_passes,15
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,36/20
-	Team_2_First_Down_att-succ,36/4
+	Team_2_First_Down_att-succ,23/4
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -5384,7 +5359,7 @@ Morgan State , Tulane
 	Team_1_Explosive_passes,1
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,14/3
-	Team_2_First_Down_att-succ,14/16
+	Team_2_First_Down_att-succ,38/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -5425,7 +5400,7 @@ Morgan State , Tulane
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,14
 	Team_1_First_Down_att-succ,45/21
-	Team_2_First_Down_att-succ,45/21
+	Team_2_First_Down_att-succ,49/21
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -5466,7 +5441,7 @@ Morgan State , Tulane
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,26/16
-	Team_2_First_Down_att-succ,26/4
+	Team_2_First_Down_att-succ,21/4
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -5507,7 +5482,7 @@ Morgan State , Tulane
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,33/9
-	Team_2_First_Down_att-succ,33/7
+	Team_2_First_Down_att-succ,27/7
 	Team_1_Field_Goal_Made,[45]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[52,50,42]
@@ -5548,7 +5523,7 @@ Morgan State , Tulane
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,26/11
-	Team_2_First_Down_att-succ,26/17
+	Team_2_First_Down_att-succ,41/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -5589,7 +5564,7 @@ Morgan State , Tulane
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,29/15
-	Team_2_First_Down_att-succ,29/13
+	Team_2_First_Down_att-succ,42/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[39]
 	Team_1_Field_Goal_Missed,[40,40]
@@ -5630,7 +5605,7 @@ Morgan State , Tulane
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,2
 	Team_1_First_Down_att-succ,26/6
-	Team_2_First_Down_att-succ,26/5
+	Team_2_First_Down_att-succ,18/5
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[23]
 	Team_1_Field_Goal_Missed,[35]
@@ -5671,7 +5646,7 @@ Morgan State , Tulane
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,34/12
-	Team_2_First_Down_att-succ,34/6
+	Team_2_First_Down_att-succ,25/6
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -5712,7 +5687,7 @@ Morgan State , Tulane
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,19/4
-	Team_2_First_Down_att-succ,19/16
+	Team_2_First_Down_att-succ,41/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[18]
@@ -5753,7 +5728,7 @@ Morgan State , Tulane
 	Team_1_Explosive_passes,0
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,17/2
-	Team_2_First_Down_att-succ,17/14
+	Team_2_First_Down_att-succ,35/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -5794,7 +5769,7 @@ Morgan State , Tulane
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,24/8
-	Team_2_First_Down_att-succ,24/14
+	Team_2_First_Down_att-succ,34/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[35]
@@ -5835,7 +5810,7 @@ Morgan State , Tulane
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,19/3
-	Team_2_First_Down_att-succ,19/7
+	Team_2_First_Down_att-succ,25/7
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -5876,7 +5851,7 @@ Morgan State , Tulane
 	Team_1_Explosive_passes,15
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,37/19
-	Team_2_First_Down_att-succ,37/17
+	Team_2_First_Down_att-succ,34/17
 	Team_1_Field_Goal_Made,[46]
 	Team_2_Field_Goal_Made,[23]
 	Team_1_Field_Goal_Missed,[]
@@ -5927,7 +5902,6 @@ Morgan State , Tulane
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-North Carolina Central , Marshall
 {
 	ESPN_GAME_ID,401282189
 	SHARPODDZ_GAME_ID,22021144
@@ -5959,7 +5933,7 @@ North Carolina Central , Marshall
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,32/11
-	Team_2_First_Down_att-succ,32/9
+	Team_2_First_Down_att-succ,26/9
 	Team_1_Field_Goal_Made,[38]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[41]
@@ -6000,7 +5974,7 @@ North Carolina Central , Marshall
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,19
 	Team_1_First_Down_att-succ,30/9
-	Team_2_First_Down_att-succ,30/24
+	Team_2_First_Down_att-succ,43/24
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -6041,7 +6015,7 @@ North Carolina Central , Marshall
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,33/10
-	Team_2_First_Down_att-succ,33/13
+	Team_2_First_Down_att-succ,30/13
 	Team_1_Field_Goal_Made,[45]
 	Team_2_Field_Goal_Made,[32]
 	Team_1_Field_Goal_Missed,[48]
@@ -6082,7 +6056,7 @@ North Carolina Central , Marshall
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,32/15
-	Team_2_First_Down_att-succ,32/12
+	Team_2_First_Down_att-succ,33/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -6123,7 +6097,7 @@ North Carolina Central , Marshall
 	Team_1_Explosive_passes,26
 	Team_2_Explosive_passes,16
 	Team_1_First_Down_att-succ,67/31
-	Team_2_First_Down_att-succ,67/16
+	Team_2_First_Down_att-succ,47/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[44]
 	Team_1_Field_Goal_Missed,[]
@@ -6164,7 +6138,7 @@ North Carolina Central , Marshall
 	Team_1_Explosive_passes,14
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,40/16
-	Team_2_First_Down_att-succ,40/17
+	Team_2_First_Down_att-succ,33/17
 	Team_1_Field_Goal_Made,[19,22]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -6205,7 +6179,7 @@ North Carolina Central , Marshall
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,22/7
-	Team_2_First_Down_att-succ,22/18
+	Team_2_First_Down_att-succ,38/18
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[24,18,23,33]
 	Team_1_Field_Goal_Missed,[]
@@ -6246,7 +6220,7 @@ North Carolina Central , Marshall
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,23/5
-	Team_2_First_Down_att-succ,23/10
+	Team_2_First_Down_att-succ,33/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[40,25,34]
 	Team_1_Field_Goal_Missed,[47]
@@ -6369,7 +6343,7 @@ North Carolina Central , Marshall
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,27/9
-	Team_2_First_Down_att-succ,27/19
+	Team_2_First_Down_att-succ,33/19
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[37]
 	Team_1_Field_Goal_Missed,[]
@@ -6410,7 +6384,7 @@ North Carolina Central , Marshall
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,29/11
-	Team_2_First_Down_att-succ,29/18
+	Team_2_First_Down_att-succ,35/18
 	Team_1_Field_Goal_Made,[32]
 	Team_2_Field_Goal_Made,[34]
 	Team_1_Field_Goal_Missed,[47]
@@ -6461,7 +6435,6 @@ North Carolina Central , Marshall
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Stephen F. Austin , Texas Tech
 {
 	ESPN_GAME_ID,401301003
 	SHARPODDZ_GAME_ID,22021157
@@ -6493,7 +6466,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,21
 	Team_1_First_Down_att-succ,34/12
-	Team_2_First_Down_att-succ,34/22
+	Team_2_First_Down_att-succ,50/22
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[48,37,34]
 	Team_1_Field_Goal_Missed,[32]
@@ -6534,7 +6507,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,15
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,34/12
-	Team_2_First_Down_att-succ,34/15
+	Team_2_First_Down_att-succ,29/15
 	Team_1_Field_Goal_Made,[42]
 	Team_2_Field_Goal_Made,[46,28]
 	Team_1_Field_Goal_Missed,[]
@@ -6575,7 +6548,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,33/10
-	Team_2_First_Down_att-succ,33/19
+	Team_2_First_Down_att-succ,39/19
 	Team_1_Field_Goal_Made,[43,33]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -6616,7 +6589,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,33/13
-	Team_2_First_Down_att-succ,33/17
+	Team_2_First_Down_att-succ,37/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -6657,7 +6630,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,3
 	Team_1_First_Down_att-succ,24/9
-	Team_2_First_Down_att-succ,24/10
+	Team_2_First_Down_att-succ,31/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -6698,7 +6671,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,1
 	Team_2_Explosive_passes,14
 	Team_1_First_Down_att-succ,21/6
-	Team_2_First_Down_att-succ,21/23
+	Team_2_First_Down_att-succ,39/23
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[38,34]
 	Team_1_Field_Goal_Missed,[45]
@@ -6739,7 +6712,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,24/4
-	Team_2_First_Down_att-succ,24/9
+	Team_2_First_Down_att-succ,29/9
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[55,56]
 	Team_1_Field_Goal_Missed,[]
@@ -6780,7 +6753,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,33/12
-	Team_2_First_Down_att-succ,33/13
+	Team_2_First_Down_att-succ,35/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[53]
 	Team_1_Field_Goal_Missed,[]
@@ -6821,7 +6794,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,1
 	Team_1_First_Down_att-succ,30/12
-	Team_2_First_Down_att-succ,30/15
+	Team_2_First_Down_att-succ,31/15
 	Team_1_Field_Goal_Made,[28]
 	Team_2_Field_Goal_Made,[52]
 	Team_1_Field_Goal_Missed,[]
@@ -6903,7 +6876,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,2
 	Team_1_First_Down_att-succ,32/12
-	Team_2_First_Down_att-succ,32/7
+	Team_2_First_Down_att-succ,24/7
 	Team_1_Field_Goal_Made,[32]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[57]
@@ -6944,7 +6917,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,16
 	Team_1_First_Down_att-succ,29/11
-	Team_2_First_Down_att-succ,29/17
+	Team_2_First_Down_att-succ,36/17
 	Team_1_Field_Goal_Made,[47]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[38]
@@ -6985,7 +6958,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,14
 	Team_1_First_Down_att-succ,30/10
-	Team_2_First_Down_att-succ,30/18
+	Team_2_First_Down_att-succ,36/18
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[34]
@@ -7067,7 +7040,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,26/10
-	Team_2_First_Down_att-succ,26/22
+	Team_2_First_Down_att-succ,42/22
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[31]
@@ -7108,7 +7081,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,14
 	Team_1_First_Down_att-succ,33/18
-	Team_2_First_Down_att-succ,33/13
+	Team_2_First_Down_att-succ,35/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -7149,7 +7122,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,36/21
-	Team_2_First_Down_att-succ,36/11
+	Team_2_First_Down_att-succ,30/11
 	Team_1_Field_Goal_Made,[32]
 	Team_2_Field_Goal_Made,[25]
 	Team_1_Field_Goal_Missed,[32]
@@ -7190,7 +7163,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,29/12
-	Team_2_First_Down_att-succ,29/16
+	Team_2_First_Down_att-succ,34/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[25]
 	Team_1_Field_Goal_Missed,[]
@@ -7231,7 +7204,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,26/1
-	Team_2_First_Down_att-succ,26/17
+	Team_2_First_Down_att-succ,38/17
 	Team_1_Field_Goal_Made,[37,27]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -7272,7 +7245,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,28/12
-	Team_2_First_Down_att-succ,28/15
+	Team_2_First_Down_att-succ,33/15
 	Team_1_Field_Goal_Made,[51]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[50,35]
@@ -7313,7 +7286,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,25/10
-	Team_2_First_Down_att-succ,25/17
+	Team_2_First_Down_att-succ,36/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[40,35]
 	Team_1_Field_Goal_Missed,[]
@@ -7354,7 +7327,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,29/12
-	Team_2_First_Down_att-succ,29/10
+	Team_2_First_Down_att-succ,32/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -7395,7 +7368,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,35/11
-	Team_2_First_Down_att-succ,35/7
+	Team_2_First_Down_att-succ,30/7
 	Team_1_Field_Goal_Made,[22,22]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -7436,7 +7409,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,23/9
-	Team_2_First_Down_att-succ,23/14
+	Team_2_First_Down_att-succ,34/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -7518,7 +7491,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,19
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,41/16
-	Team_2_First_Down_att-succ,41/14
+	Team_2_First_Down_att-succ,33/14
 	Team_1_Field_Goal_Made,[22,31]
 	Team_2_Field_Goal_Made,[43,44]
 	Team_1_Field_Goal_Missed,[]
@@ -7559,7 +7532,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,36/11
-	Team_2_First_Down_att-succ,36/15
+	Team_2_First_Down_att-succ,34/15
 	Team_1_Field_Goal_Made,[45,43]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -7600,7 +7573,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,36/12
-	Team_2_First_Down_att-succ,36/11
+	Team_2_First_Down_att-succ,28/11
 	Team_1_Field_Goal_Made,[34,34]
 	Team_2_Field_Goal_Made,[28,30]
 	Team_1_Field_Goal_Missed,[]
@@ -7641,7 +7614,7 @@ Stephen F. Austin , Texas Tech
 	Team_1_Explosive_passes,21
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,50/24
-	Team_2_First_Down_att-succ,50/15
+	Team_2_First_Down_att-succ,27/15
 	Team_1_Field_Goal_Made,[21,39]
 	Team_2_Field_Goal_Made,[39]
 	Team_1_Field_Goal_Missed,[]
@@ -7692,7 +7665,6 @@ Stephen F. Austin , Texas Tech
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Iowa State , UNLV
 {
 	ESPN_GAME_ID,401282636
 	SHARPODDZ_GAME_ID,32021187
@@ -7724,7 +7696,7 @@ Iowa State , UNLV
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,31/9
-	Team_2_First_Down_att-succ,31/7
+	Team_2_First_Down_att-succ,27/7
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[24]
@@ -7765,7 +7737,7 @@ Iowa State , UNLV
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,30/14
-	Team_2_First_Down_att-succ,30/10
+	Team_2_First_Down_att-succ,28/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[36]
 	Team_1_Field_Goal_Missed,[23]
@@ -7806,7 +7778,7 @@ Iowa State , UNLV
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,25/11
-	Team_2_First_Down_att-succ,25/25
+	Team_2_First_Down_att-succ,48/25
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[27]
@@ -7847,7 +7819,7 @@ Iowa State , UNLV
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,33/9
-	Team_2_First_Down_att-succ,33/11
+	Team_2_First_Down_att-succ,31/11
 	Team_1_Field_Goal_Made,[40]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -7888,7 +7860,7 @@ Iowa State , UNLV
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,24/7
-	Team_2_First_Down_att-succ,24/19
+	Team_2_First_Down_att-succ,37/19
 	Team_1_Field_Goal_Made,[32]
 	Team_2_Field_Goal_Made,[25]
 	Team_1_Field_Goal_Missed,[]
@@ -7929,7 +7901,7 @@ Iowa State , UNLV
 	Team_1_Explosive_passes,21
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,39/17
-	Team_2_First_Down_att-succ,39/20
+	Team_2_First_Down_att-succ,40/20
 	Team_1_Field_Goal_Made,[34]
 	Team_2_Field_Goal_Made,[36]
 	Team_1_Field_Goal_Missed,[]
@@ -7970,7 +7942,7 @@ Iowa State , UNLV
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,15
 	Team_1_First_Down_att-succ,32/15
-	Team_2_First_Down_att-succ,32/16
+	Team_2_First_Down_att-succ,42/16
 	Team_1_Field_Goal_Made,[23]
 	Team_2_Field_Goal_Made,[55]
 	Team_1_Field_Goal_Missed,[39]
@@ -8011,7 +7983,7 @@ Iowa State , UNLV
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,23/7
-	Team_2_First_Down_att-succ,23/12
+	Team_2_First_Down_att-succ,36/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -8093,7 +8065,7 @@ Iowa State , UNLV
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,28/16
-	Team_2_First_Down_att-succ,28/16
+	Team_2_First_Down_att-succ,31/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[43]
 	Team_1_Field_Goal_Missed,[]
@@ -8134,7 +8106,7 @@ Iowa State , UNLV
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,27/9
-	Team_2_First_Down_att-succ,27/17
+	Team_2_First_Down_att-succ,36/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[41]
@@ -8175,7 +8147,7 @@ Iowa State , UNLV
 	Team_1_Explosive_passes,14
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,42/18
-	Team_2_First_Down_att-succ,42/16
+	Team_2_First_Down_att-succ,34/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[43]
@@ -8216,7 +8188,7 @@ Iowa State , UNLV
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,26/7
-	Team_2_First_Down_att-succ,26/15
+	Team_2_First_Down_att-succ,37/15
 	Team_1_Field_Goal_Made,[37]
 	Team_2_Field_Goal_Made,[48,28]
 	Team_1_Field_Goal_Missed,[]
@@ -8257,7 +8229,7 @@ Iowa State , UNLV
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,22/11
-	Team_2_First_Down_att-succ,22/7
+	Team_2_First_Down_att-succ,24/7
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[32]
 	Team_1_Field_Goal_Missed,[]
@@ -8298,7 +8270,7 @@ Iowa State , UNLV
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,3
 	Team_1_First_Down_att-succ,17/3
-	Team_2_First_Down_att-succ,17/11
+	Team_2_First_Down_att-succ,32/11
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[28]
 	Team_1_Field_Goal_Missed,[]
@@ -8339,7 +8311,7 @@ Iowa State , UNLV
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,3
 	Team_1_First_Down_att-succ,35/13
-	Team_2_First_Down_att-succ,35/6
+	Team_2_First_Down_att-succ,17/6
 	Team_1_Field_Goal_Made,[33]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[24,46]
@@ -8380,7 +8352,7 @@ Iowa State , UNLV
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,22/8
-	Team_2_First_Down_att-succ,22/16
+	Team_2_First_Down_att-succ,33/16
 	Team_1_Field_Goal_Made,[46]
 	Team_2_Field_Goal_Made,[37]
 	Team_1_Field_Goal_Missed,[]
@@ -8421,7 +8393,7 @@ Iowa State , UNLV
 	Team_1_Explosive_passes,15
 	Team_2_Explosive_passes,14
 	Team_1_First_Down_att-succ,40/20
-	Team_2_First_Down_att-succ,40/7
+	Team_2_First_Down_att-succ,35/7
 	Team_1_Field_Goal_Made,[29,24]
 	Team_2_Field_Goal_Made,[47]
 	Team_1_Field_Goal_Missed,[]
@@ -8462,7 +8434,7 @@ Iowa State , UNLV
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,27/10
-	Team_2_First_Down_att-succ,27/10
+	Team_2_First_Down_att-succ,30/10
 	Team_1_Field_Goal_Made,[53,41]
 	Team_2_Field_Goal_Made,[34]
 	Team_1_Field_Goal_Missed,[]
@@ -8544,7 +8516,7 @@ Iowa State , UNLV
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,2
 	Team_1_First_Down_att-succ,36/21
-	Team_2_First_Down_att-succ,36/7
+	Team_2_First_Down_att-succ,20/7
 	Team_1_Field_Goal_Made,[48]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -8595,7 +8567,6 @@ Iowa State , UNLV
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Long Island University , Miami (OH)
 {
 	ESPN_GAME_ID,401309550
 	SHARPODDZ_GAME_ID,32021209
@@ -8627,7 +8598,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,24/9
-	Team_2_First_Down_att-succ,24/17
+	Team_2_First_Down_att-succ,33/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -8668,7 +8639,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,28/8
-	Team_2_First_Down_att-succ,28/16
+	Team_2_First_Down_att-succ,37/16
 	Team_1_Field_Goal_Made,[46]
 	Team_2_Field_Goal_Made,[44,45,28]
 	Team_1_Field_Goal_Missed,[]
@@ -8709,7 +8680,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,26/10
-	Team_2_First_Down_att-succ,26/10
+	Team_2_First_Down_att-succ,31/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -8750,7 +8721,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,35/15
-	Team_2_First_Down_att-succ,35/10
+	Team_2_First_Down_att-succ,28/10
 	Team_1_Field_Goal_Made,[34]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -8791,7 +8762,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,28/14
-	Team_2_First_Down_att-succ,28/13
+	Team_2_First_Down_att-succ,35/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[42,22]
 	Team_1_Field_Goal_Missed,[]
@@ -8832,7 +8803,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,39/17
-	Team_2_First_Down_att-succ,39/9
+	Team_2_First_Down_att-succ,21/9
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -8873,7 +8844,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,14
 	Team_1_First_Down_att-succ,37/12
-	Team_2_First_Down_att-succ,37/19
+	Team_2_First_Down_att-succ,44/19
 	Team_1_Field_Goal_Made,[25]
 	Team_2_Field_Goal_Made,[23,27,50]
 	Team_1_Field_Goal_Missed,[]
@@ -8914,7 +8885,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,32/8
-	Team_2_First_Down_att-succ,32/15
+	Team_2_First_Down_att-succ,30/15
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[24]
 	Team_1_Field_Goal_Missed,[40]
@@ -8955,7 +8926,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,34/9
-	Team_2_First_Down_att-succ,34/7
+	Team_2_First_Down_att-succ,28/7
 	Team_1_Field_Goal_Made,[31,42,29,47,23]
 	Team_2_Field_Goal_Made,[43,38]
 	Team_1_Field_Goal_Missed,[]
@@ -8996,7 +8967,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,16
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,37/14
-	Team_2_First_Down_att-succ,37/18
+	Team_2_First_Down_att-succ,35/18
 	Team_1_Field_Goal_Made,[43]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[37,20]
@@ -9037,7 +9008,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,15
 	Team_1_First_Down_att-succ,30/11
-	Team_2_First_Down_att-succ,30/19
+	Team_2_First_Down_att-succ,41/19
 	Team_1_Field_Goal_Made,[26]
 	Team_2_Field_Goal_Made,[38]
 	Team_1_Field_Goal_Missed,[34]
@@ -9078,7 +9049,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,29/11
-	Team_2_First_Down_att-succ,29/17
+	Team_2_First_Down_att-succ,32/17
 	Team_1_Field_Goal_Made,[47]
 	Team_2_Field_Goal_Made,[43,36]
 	Team_1_Field_Goal_Missed,[]
@@ -9119,7 +9090,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,24/11
-	Team_2_First_Down_att-succ,24/10
+	Team_2_First_Down_att-succ,37/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[30,38]
 	Team_1_Field_Goal_Missed,[]
@@ -9160,7 +9131,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,26/8
-	Team_2_First_Down_att-succ,26/18
+	Team_2_First_Down_att-succ,47/18
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[23]
 	Team_1_Field_Goal_Missed,[]
@@ -9242,7 +9213,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,26/11
-	Team_2_First_Down_att-succ,26/10
+	Team_2_First_Down_att-succ,32/10
 	Team_1_Field_Goal_Made,[43]
 	Team_2_Field_Goal_Made,[31]
 	Team_1_Field_Goal_Missed,[]
@@ -9283,7 +9254,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,28/8
-	Team_2_First_Down_att-succ,28/13
+	Team_2_First_Down_att-succ,29/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -9324,7 +9295,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,14
 	Team_1_First_Down_att-succ,24/5
-	Team_2_First_Down_att-succ,24/23
+	Team_2_First_Down_att-succ,40/23
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[21,28]
 	Team_1_Field_Goal_Missed,[32]
@@ -9365,7 +9336,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,31/10
-	Team_2_First_Down_att-succ,31/11
+	Team_2_First_Down_att-succ,33/11
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[46]
 	Team_1_Field_Goal_Missed,[]
@@ -9406,7 +9377,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,0
 	Team_2_Explosive_passes,14
 	Team_1_First_Down_att-succ,17/2
-	Team_2_First_Down_att-succ,17/15
+	Team_2_First_Down_att-succ,33/15
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[22]
 	Team_1_Field_Goal_Missed,[]
@@ -9447,7 +9418,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,34/11
-	Team_2_First_Down_att-succ,34/12
+	Team_2_First_Down_att-succ,32/12
 	Team_1_Field_Goal_Made,[49]
 	Team_2_Field_Goal_Made,[49]
 	Team_1_Field_Goal_Missed,[45,45]
@@ -9488,7 +9459,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,16
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,36/16
-	Team_2_First_Down_att-succ,36/21
+	Team_2_First_Down_att-succ,40/21
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[33,37]
 	Team_1_Field_Goal_Missed,[]
@@ -9529,7 +9500,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,1
 	Team_1_First_Down_att-succ,36/13
-	Team_2_First_Down_att-succ,36/8
+	Team_2_First_Down_att-succ,24/8
 	Team_1_Field_Goal_Made,[43]
 	Team_2_Field_Goal_Made,[51]
 	Team_1_Field_Goal_Missed,[]
@@ -9570,7 +9541,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,15
 	Team_1_First_Down_att-succ,27/6
-	Team_2_First_Down_att-succ,27/15
+	Team_2_First_Down_att-succ,31/15
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -9611,7 +9582,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,2
 	Team_1_First_Down_att-succ,27/4
-	Team_2_First_Down_att-succ,27/7
+	Team_2_First_Down_att-succ,31/7
 	Team_1_Field_Goal_Made,[23,30]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -9652,7 +9623,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,21/6
-	Team_2_First_Down_att-succ,21/19
+	Team_2_First_Down_att-succ,35/19
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[32]
 	Team_1_Field_Goal_Missed,[48]
@@ -9693,7 +9664,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,15
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,37/10
-	Team_2_First_Down_att-succ,37/9
+	Team_2_First_Down_att-succ,33/9
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[15]
 	Team_1_Field_Goal_Missed,[]
@@ -9734,7 +9705,7 @@ Long Island University , Miami (OH)
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,33/14
-	Team_2_First_Down_att-succ,33/12
+	Team_2_First_Down_att-succ,35/12
 	Team_1_Field_Goal_Made,[46,35]
 	Team_2_Field_Goal_Made,[34]
 	Team_1_Field_Goal_Missed,[]
@@ -9785,7 +9756,6 @@ Long Island University , Miami (OH)
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Rice , Texas
 {
 	ESPN_GAME_ID,401309607
 	SHARPODDZ_GAME_ID,32021238
@@ -9827,7 +9797,6 @@ Rice , Texas
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Jackson State , UL Monroe
 {
 	ESPN_GAME_ID,401309608
 	SHARPODDZ_GAME_ID,32021239
@@ -9859,7 +9828,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,27/6
-	Team_2_First_Down_att-succ,27/13
+	Team_2_First_Down_att-succ,30/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -9900,7 +9869,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,35/10
-	Team_2_First_Down_att-succ,35/17
+	Team_2_First_Down_att-succ,33/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -9941,7 +9910,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,27/12
-	Team_2_First_Down_att-succ,27/11
+	Team_2_First_Down_att-succ,31/11
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[40]
 	Team_1_Field_Goal_Missed,[41]
@@ -9982,7 +9951,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,25/6
-	Team_2_First_Down_att-succ,25/13
+	Team_2_First_Down_att-succ,35/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[31,24]
 	Team_1_Field_Goal_Missed,[]
@@ -10023,7 +9992,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,31/10
-	Team_2_First_Down_att-succ,31/18
+	Team_2_First_Down_att-succ,34/18
 	Team_1_Field_Goal_Made,[26]
 	Team_2_Field_Goal_Made,[25,23]
 	Team_1_Field_Goal_Missed,[]
@@ -10064,7 +10033,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,33/18
-	Team_2_First_Down_att-succ,33/18
+	Team_2_First_Down_att-succ,46/18
 	Team_1_Field_Goal_Made,[22,33,46]
 	Team_2_Field_Goal_Made,[45]
 	Team_1_Field_Goal_Missed,[32]
@@ -10105,7 +10074,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,14
 	Team_1_First_Down_att-succ,30/8
-	Team_2_First_Down_att-succ,30/16
+	Team_2_First_Down_att-succ,34/16
 	Team_1_Field_Goal_Made,[30]
 	Team_2_Field_Goal_Made,[25,31]
 	Team_1_Field_Goal_Missed,[]
@@ -10146,7 +10115,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,16
 	Team_1_First_Down_att-succ,34/16
-	Team_2_First_Down_att-succ,34/15
+	Team_2_First_Down_att-succ,40/15
 	Team_1_Field_Goal_Made,[26]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -10187,7 +10156,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,19
 	Team_1_First_Down_att-succ,34/16
-	Team_2_First_Down_att-succ,34/23
+	Team_2_First_Down_att-succ,42/23
 	Team_1_Field_Goal_Made,[46,23,35]
 	Team_2_Field_Goal_Made,[21]
 	Team_1_Field_Goal_Missed,[]
@@ -10269,7 +10238,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,24/5
-	Team_2_First_Down_att-succ,24/13
+	Team_2_First_Down_att-succ,29/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -10310,7 +10279,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,1
 	Team_1_First_Down_att-succ,38/21
-	Team_2_First_Down_att-succ,38/0
+	Team_2_First_Down_att-succ,17/0
 	Team_1_Field_Goal_Made,[31]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -10351,7 +10320,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,44/13
-	Team_2_First_Down_att-succ,44/7
+	Team_2_First_Down_att-succ,27/7
 	Team_1_Field_Goal_Made,[28]
 	Team_2_Field_Goal_Made,[21,43]
 	Team_1_Field_Goal_Missed,[40]
@@ -10392,7 +10361,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,27/9
-	Team_2_First_Down_att-succ,27/10
+	Team_2_First_Down_att-succ,28/10
 	Team_1_Field_Goal_Made,[25,21]
 	Team_2_Field_Goal_Made,[28,35,30]
 	Team_1_Field_Goal_Missed,[]
@@ -10474,7 +10443,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,27/11
-	Team_2_First_Down_att-succ,27/12
+	Team_2_First_Down_att-succ,28/12
 	Team_1_Field_Goal_Made,[39]
 	Team_2_Field_Goal_Made,[29]
 	Team_1_Field_Goal_Missed,[]
@@ -10515,7 +10484,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,28/12
-	Team_2_First_Down_att-succ,28/13
+	Team_2_First_Down_att-succ,35/13
 	Team_1_Field_Goal_Made,[49]
 	Team_2_Field_Goal_Made,[46,24]
 	Team_1_Field_Goal_Missed,[]
@@ -10556,7 +10525,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,20/6
-	Team_2_First_Down_att-succ,20/14
+	Team_2_First_Down_att-succ,40/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -10597,7 +10566,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,32/10
-	Team_2_First_Down_att-succ,32/24
+	Team_2_First_Down_att-succ,35/24
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[32]
 	Team_1_Field_Goal_Missed,[43]
@@ -10638,7 +10607,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,25/8
-	Team_2_First_Down_att-succ,25/14
+	Team_2_First_Down_att-succ,35/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[47]
 	Team_1_Field_Goal_Missed,[]
@@ -10679,7 +10648,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,30/13
-	Team_2_First_Down_att-succ,30/11
+	Team_2_First_Down_att-succ,36/11
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[39]
@@ -10720,7 +10689,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,41/12
-	Team_2_First_Down_att-succ,41/13
+	Team_2_First_Down_att-succ,25/13
 	Team_1_Field_Goal_Made,[40,38,39]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[47]
@@ -10761,7 +10730,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,29/13
-	Team_2_First_Down_att-succ,29/19
+	Team_2_First_Down_att-succ,28/19
 	Team_1_Field_Goal_Made,[29,42]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -10802,7 +10771,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,22/11
-	Team_2_First_Down_att-succ,22/13
+	Team_2_First_Down_att-succ,35/13
 	Team_1_Field_Goal_Made,[35]
 	Team_2_Field_Goal_Made,[38]
 	Team_1_Field_Goal_Missed,[]
@@ -10843,7 +10812,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,32/16
-	Team_2_First_Down_att-succ,32/8
+	Team_2_First_Down_att-succ,24/8
 	Team_1_Field_Goal_Made,[40,25]
 	Team_2_Field_Goal_Made,[32,20]
 	Team_1_Field_Goal_Missed,[29]
@@ -10884,7 +10853,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,39/18
-	Team_2_First_Down_att-succ,39/11
+	Team_2_First_Down_att-succ,19/11
 	Team_1_Field_Goal_Made,[28,28]
 	Team_2_Field_Goal_Made,[26,27]
 	Team_1_Field_Goal_Missed,[]
@@ -10966,7 +10935,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,33/11
-	Team_2_First_Down_att-succ,33/12
+	Team_2_First_Down_att-succ,34/12
 	Team_1_Field_Goal_Made,[32]
 	Team_2_Field_Goal_Made,[40,23,27,45]
 	Team_1_Field_Goal_Missed,[]
@@ -11007,7 +10976,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,31/18
-	Team_2_First_Down_att-succ,31/10
+	Team_2_First_Down_att-succ,25/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[53]
@@ -11048,7 +11017,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,25/13
-	Team_2_First_Down_att-succ,25/16
+	Team_2_First_Down_att-succ,37/16
 	Team_1_Field_Goal_Made,[32,45]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -11089,7 +11058,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,22/8
-	Team_2_First_Down_att-succ,22/17
+	Team_2_First_Down_att-succ,42/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[23]
 	Team_1_Field_Goal_Missed,[]
@@ -11171,7 +11140,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,17
 	Team_1_First_Down_att-succ,33/12
-	Team_2_First_Down_att-succ,33/19
+	Team_2_First_Down_att-succ,44/19
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[35]
 	Team_1_Field_Goal_Missed,[28]
@@ -11212,7 +11181,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,15
 	Team_1_First_Down_att-succ,23/4
-	Team_2_First_Down_att-succ,23/24
+	Team_2_First_Down_att-succ,45/24
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -11253,7 +11222,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,25/11
-	Team_2_First_Down_att-succ,25/11
+	Team_2_First_Down_att-succ,29/11
 	Team_1_Field_Goal_Made,[38]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -11294,7 +11263,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,2
 	Team_1_First_Down_att-succ,27/5
-	Team_2_First_Down_att-succ,27/12
+	Team_2_First_Down_att-succ,29/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[36]
 	Team_1_Field_Goal_Missed,[]
@@ -11335,7 +11304,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,28/12
-	Team_2_First_Down_att-succ,28/12
+	Team_2_First_Down_att-succ,33/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[24,26]
 	Team_1_Field_Goal_Missed,[31]
@@ -11376,7 +11345,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,39/14
-	Team_2_First_Down_att-succ,39/9
+	Team_2_First_Down_att-succ,30/9
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[40,30]
 	Team_1_Field_Goal_Missed,[]
@@ -11417,7 +11386,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,32/13
-	Team_2_First_Down_att-succ,32/19
+	Team_2_First_Down_att-succ,37/19
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -11458,7 +11427,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,21/3
-	Team_2_First_Down_att-succ,21/14
+	Team_2_First_Down_att-succ,34/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[47,31]
 	Team_1_Field_Goal_Missed,[48]
@@ -11499,7 +11468,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,0
 	Team_1_First_Down_att-succ,21/5
-	Team_2_First_Down_att-succ,21/7
+	Team_2_First_Down_att-succ,26/7
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -11540,7 +11509,7 @@ Jackson State , UL Monroe
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,39/13
-	Team_2_First_Down_att-succ,39/14
+	Team_2_First_Down_att-succ,34/14
 	Team_1_Field_Goal_Made,[28,32]
 	Team_2_Field_Goal_Made,[20]
 	Team_1_Field_Goal_Missed,[50]
@@ -11591,7 +11560,6 @@ Jackson State , UL Monroe
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Central Connecticut , Miami
 {
 	ESPN_GAME_ID,401309554
 	SHARPODDZ_GAME_ID,42021282
@@ -11623,7 +11591,7 @@ Central Connecticut , Miami
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,24/8
-	Team_2_First_Down_att-succ,24/13
+	Team_2_First_Down_att-succ,29/13
 	Team_1_Field_Goal_Made,[32]
 	Team_2_Field_Goal_Made,[30]
 	Team_1_Field_Goal_Missed,[]
@@ -11664,7 +11632,7 @@ Central Connecticut , Miami
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,29/11
-	Team_2_First_Down_att-succ,29/11
+	Team_2_First_Down_att-succ,31/11
 	Team_1_Field_Goal_Made,[43,22]
 	Team_2_Field_Goal_Made,[45,27,29,47]
 	Team_1_Field_Goal_Missed,[41]
@@ -11705,7 +11673,7 @@ Central Connecticut , Miami
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,15
 	Team_1_First_Down_att-succ,31/16
-	Team_2_First_Down_att-succ,31/15
+	Team_2_First_Down_att-succ,42/15
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[36]
 	Team_1_Field_Goal_Missed,[]
@@ -11746,7 +11714,7 @@ Central Connecticut , Miami
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,25/9
-	Team_2_First_Down_att-succ,25/20
+	Team_2_First_Down_att-succ,40/20
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[27,25]
 	Team_1_Field_Goal_Missed,[23]
@@ -11787,7 +11755,7 @@ Central Connecticut , Miami
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,33/14
-	Team_2_First_Down_att-succ,33/12
+	Team_2_First_Down_att-succ,27/12
 	Team_1_Field_Goal_Made,[39,20]
 	Team_2_Field_Goal_Made,[28]
 	Team_1_Field_Goal_Missed,[]
@@ -11828,7 +11796,7 @@ Central Connecticut , Miami
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,28/10
-	Team_2_First_Down_att-succ,28/10
+	Team_2_First_Down_att-succ,26/10
 	Team_1_Field_Goal_Made,[51,35,45]
 	Team_2_Field_Goal_Made,[23,30]
 	Team_1_Field_Goal_Missed,[54]
@@ -11869,7 +11837,7 @@ Central Connecticut , Miami
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,38/21
-	Team_2_First_Down_att-succ,38/16
+	Team_2_First_Down_att-succ,29/16
 	Team_1_Field_Goal_Made,[35,32,37]
 	Team_2_Field_Goal_Made,[26]
 	Team_1_Field_Goal_Missed,[]
@@ -11910,7 +11878,7 @@ Central Connecticut , Miami
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,31/14
-	Team_2_First_Down_att-succ,31/10
+	Team_2_First_Down_att-succ,32/10
 	Team_1_Field_Goal_Made,[24]
 	Team_2_Field_Goal_Made,[28,29,35]
 	Team_1_Field_Goal_Missed,[43]
@@ -11951,7 +11919,7 @@ Central Connecticut , Miami
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,26/6
-	Team_2_First_Down_att-succ,26/14
+	Team_2_First_Down_att-succ,33/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[48,36]
 	Team_1_Field_Goal_Missed,[]
@@ -11992,7 +11960,7 @@ Central Connecticut , Miami
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,39/12
-	Team_2_First_Down_att-succ,39/14
+	Team_2_First_Down_att-succ,29/14
 	Team_1_Field_Goal_Made,[42]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -12074,7 +12042,7 @@ Central Connecticut , Miami
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,32/15
-	Team_2_First_Down_att-succ,32/20
+	Team_2_First_Down_att-succ,40/20
 	Team_1_Field_Goal_Made,[50,29]
 	Team_2_Field_Goal_Made,[30]
 	Team_1_Field_Goal_Missed,[37]
@@ -12125,7 +12093,6 @@ Central Connecticut , Miami
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Arkansas State , Tulsa
 {
 	ESPN_GAME_ID,401282209
 	SHARPODDZ_GAME_ID,42021295
@@ -12157,7 +12124,7 @@ Arkansas State , Tulsa
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,26/8
-	Team_2_First_Down_att-succ,26/14
+	Team_2_First_Down_att-succ,41/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -12208,7 +12175,6 @@ Arkansas State , Tulsa
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Charleston Southern , East Carolina
 {
 	ESPN_GAME_ID,401309610
 	SHARPODDZ_GAME_ID,42021297
@@ -12240,7 +12206,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,29/9
-	Team_2_First_Down_att-succ,29/13
+	Team_2_First_Down_att-succ,34/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -12281,7 +12247,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,38/13
-	Team_2_First_Down_att-succ,38/25
+	Team_2_First_Down_att-succ,41/25
 	Team_1_Field_Goal_Made,[26,45]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -12322,7 +12288,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,34/13
-	Team_2_First_Down_att-succ,34/12
+	Team_2_First_Down_att-succ,23/12
 	Team_1_Field_Goal_Made,[43,21,27]
 	Team_2_Field_Goal_Made,[54]
 	Team_1_Field_Goal_Missed,[]
@@ -12363,7 +12329,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,35/8
-	Team_2_First_Down_att-succ,35/13
+	Team_2_First_Down_att-succ,31/13
 	Team_1_Field_Goal_Made,[33]
 	Team_2_Field_Goal_Made,[21]
 	Team_1_Field_Goal_Missed,[]
@@ -12404,7 +12370,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,24/9
-	Team_2_First_Down_att-succ,24/11
+	Team_2_First_Down_att-succ,28/11
 	Team_1_Field_Goal_Made,[30,36]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -12445,7 +12411,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,2
 	Team_1_First_Down_att-succ,21/7
-	Team_2_First_Down_att-succ,21/14
+	Team_2_First_Down_att-succ,34/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[31]
 	Team_1_Field_Goal_Missed,[]
@@ -12486,7 +12452,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,34/18
-	Team_2_First_Down_att-succ,34/12
+	Team_2_First_Down_att-succ,35/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[38]
@@ -12527,7 +12493,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,20
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,47/18
-	Team_2_First_Down_att-succ,47/17
+	Team_2_First_Down_att-succ,31/17
 	Team_1_Field_Goal_Made,[46,37,25,48]
 	Team_2_Field_Goal_Made,[34]
 	Team_1_Field_Goal_Missed,[]
@@ -12568,7 +12534,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,33/12
-	Team_2_First_Down_att-succ,33/6
+	Team_2_First_Down_att-succ,25/6
 	Team_1_Field_Goal_Made,[32]
 	Team_2_Field_Goal_Made,[26,32]
 	Team_1_Field_Goal_Missed,[]
@@ -12609,7 +12575,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,33/17
-	Team_2_First_Down_att-succ,33/12
+	Team_2_First_Down_att-succ,35/12
 	Team_1_Field_Goal_Made,[25]
 	Team_2_Field_Goal_Made,[33,20]
 	Team_1_Field_Goal_Missed,[]
@@ -12650,7 +12616,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,31/10
-	Team_2_First_Down_att-succ,31/7
+	Team_2_First_Down_att-succ,26/7
 	Team_1_Field_Goal_Made,[43,31]
 	Team_2_Field_Goal_Made,[33,44]
 	Team_1_Field_Goal_Missed,[]
@@ -12691,7 +12657,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,29/13
-	Team_2_First_Down_att-succ,29/16
+	Team_2_First_Down_att-succ,28/16
 	Team_1_Field_Goal_Made,[29]
 	Team_2_Field_Goal_Made,[32]
 	Team_1_Field_Goal_Missed,[55]
@@ -12732,7 +12698,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,16
 	Team_1_First_Down_att-succ,40/26
-	Team_2_First_Down_att-succ,40/19
+	Team_2_First_Down_att-succ,42/19
 	Team_1_Field_Goal_Made,[42]
 	Team_2_Field_Goal_Made,[26,46]
 	Team_1_Field_Goal_Missed,[]
@@ -12773,7 +12739,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,29/11
-	Team_2_First_Down_att-succ,29/18
+	Team_2_First_Down_att-succ,33/18
 	Team_1_Field_Goal_Made,[51,33]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[46]
@@ -12814,7 +12780,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,37/14
-	Team_2_First_Down_att-succ,37/12
+	Team_2_First_Down_att-succ,32/12
 	Team_1_Field_Goal_Made,[43,30]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -12855,7 +12821,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,39/11
-	Team_2_First_Down_att-succ,39/16
+	Team_2_First_Down_att-succ,29/16
 	Team_1_Field_Goal_Made,[41,38,32]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -12896,7 +12862,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,16
 	Team_1_First_Down_att-succ,32/17
-	Team_2_First_Down_att-succ,32/11
+	Team_2_First_Down_att-succ,33/11
 	Team_1_Field_Goal_Made,[49,32]
 	Team_2_Field_Goal_Made,[52,45]
 	Team_1_Field_Goal_Missed,[45]
@@ -12937,7 +12903,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,36/12
-	Team_2_First_Down_att-succ,36/7
+	Team_2_First_Down_att-succ,30/7
 	Team_1_Field_Goal_Made,[48]
 	Team_2_Field_Goal_Made,[33]
 	Team_1_Field_Goal_Missed,[45]
@@ -12978,7 +12944,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,29/14
-	Team_2_First_Down_att-succ,29/17
+	Team_2_First_Down_att-succ,35/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -13019,7 +12985,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,2
 	Team_1_First_Down_att-succ,23/6
-	Team_2_First_Down_att-succ,23/13
+	Team_2_First_Down_att-succ,31/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[46,30,37]
 	Team_1_Field_Goal_Missed,[37]
@@ -13060,7 +13026,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,36/17
-	Team_2_First_Down_att-succ,36/12
+	Team_2_First_Down_att-succ,33/12
 	Team_1_Field_Goal_Made,[22]
 	Team_2_Field_Goal_Made,[25]
 	Team_1_Field_Goal_Missed,[]
@@ -13101,7 +13067,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,25/10
-	Team_2_First_Down_att-succ,25/10
+	Team_2_First_Down_att-succ,33/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[50]
 	Team_1_Field_Goal_Missed,[]
@@ -13183,7 +13149,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,14
 	Team_1_First_Down_att-succ,33/13
-	Team_2_First_Down_att-succ,33/10
+	Team_2_First_Down_att-succ,31/10
 	Team_1_Field_Goal_Made,[23]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[30,37]
@@ -13224,7 +13190,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,36/19
-	Team_2_First_Down_att-succ,36/11
+	Team_2_First_Down_att-succ,20/11
 	Team_1_Field_Goal_Made,[51,33]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -13265,7 +13231,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,32/16
-	Team_2_First_Down_att-succ,32/10
+	Team_2_First_Down_att-succ,29/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -13306,7 +13272,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,27/5
-	Team_2_First_Down_att-succ,27/10
+	Team_2_First_Down_att-succ,23/10
 	Team_1_Field_Goal_Made,[26,47,48]
 	Team_2_Field_Goal_Made,[34]
 	Team_1_Field_Goal_Missed,[]
@@ -13347,7 +13313,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,16
 	Team_2_Explosive_passes,3
 	Team_1_First_Down_att-succ,39/15
-	Team_2_First_Down_att-succ,39/11
+	Team_2_First_Down_att-succ,24/11
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[46,49]
@@ -13388,7 +13354,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,21/7
-	Team_2_First_Down_att-succ,21/21
+	Team_2_First_Down_att-succ,38/21
 	Team_1_Field_Goal_Made,[40,30]
 	Team_2_Field_Goal_Made,[46]
 	Team_1_Field_Goal_Missed,[]
@@ -13429,7 +13395,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,17
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,42/23
-	Team_2_First_Down_att-succ,42/18
+	Team_2_First_Down_att-succ,36/18
 	Team_1_Field_Goal_Made,[37,29,35]
 	Team_2_Field_Goal_Made,[21,20]
 	Team_1_Field_Goal_Missed,[]
@@ -13470,7 +13436,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,15
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,43/23
-	Team_2_First_Down_att-succ,43/12
+	Team_2_First_Down_att-succ,34/12
 	Team_1_Field_Goal_Made,[48]
 	Team_2_Field_Goal_Made,[34,33]
 	Team_1_Field_Goal_Missed,[]
@@ -13511,7 +13477,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,23/6
-	Team_2_First_Down_att-succ,23/16
+	Team_2_First_Down_att-succ,38/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[20]
 	Team_1_Field_Goal_Missed,[]
@@ -13552,7 +13518,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,25/11
-	Team_2_First_Down_att-succ,25/17
+	Team_2_First_Down_att-succ,37/17
 	Team_1_Field_Goal_Made,[25,32]
 	Team_2_Field_Goal_Made,[48,21,26]
 	Team_1_Field_Goal_Missed,[]
@@ -13593,7 +13559,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,34/18
-	Team_2_First_Down_att-succ,34/11
+	Team_2_First_Down_att-succ,30/11
 	Team_1_Field_Goal_Made,[49]
 	Team_2_Field_Goal_Made,[33,26,51]
 	Team_1_Field_Goal_Missed,[51]
@@ -13634,7 +13600,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,15
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,38/17
-	Team_2_First_Down_att-succ,38/18
+	Team_2_First_Down_att-succ,36/18
 	Team_1_Field_Goal_Made,[21,38]
 	Team_2_Field_Goal_Made,[36,29]
 	Team_1_Field_Goal_Missed,[]
@@ -13675,7 +13641,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,37/23
-	Team_2_First_Down_att-succ,37/16
+	Team_2_First_Down_att-succ,38/16
 	Team_1_Field_Goal_Made,[42,46]
 	Team_2_Field_Goal_Made,[33,20,29]
 	Team_1_Field_Goal_Missed,[50]
@@ -13716,7 +13682,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,14
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,39/11
-	Team_2_First_Down_att-succ,39/12
+	Team_2_First_Down_att-succ,33/12
 	Team_1_Field_Goal_Made,[22,34]
 	Team_2_Field_Goal_Made,[18,40,35,42]
 	Team_1_Field_Goal_Missed,[]
@@ -13757,7 +13723,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,40/23
-	Team_2_First_Down_att-succ,40/15
+	Team_2_First_Down_att-succ,29/15
 	Team_1_Field_Goal_Made,[25,27]
 	Team_2_Field_Goal_Made,[43]
 	Team_1_Field_Goal_Missed,[]
@@ -13798,7 +13764,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,3
 	Team_1_First_Down_att-succ,25/12
-	Team_2_First_Down_att-succ,25/9
+	Team_2_First_Down_att-succ,29/9
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[29]
 	Team_1_Field_Goal_Missed,[39]
@@ -13839,7 +13805,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,15
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,38/19
-	Team_2_First_Down_att-succ,38/16
+	Team_2_First_Down_att-succ,33/16
 	Team_1_Field_Goal_Made,[46]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -13921,7 +13887,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,20/5
-	Team_2_First_Down_att-succ,20/16
+	Team_2_First_Down_att-succ,35/16
 	Team_1_Field_Goal_Made,[42,38]
 	Team_2_Field_Goal_Made,[36,24]
 	Team_1_Field_Goal_Missed,[]
@@ -13962,7 +13928,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,36/15
-	Team_2_First_Down_att-succ,36/5
+	Team_2_First_Down_att-succ,23/5
 	Team_1_Field_Goal_Made,[29]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[39]
@@ -14003,7 +13969,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,37/13
-	Team_2_First_Down_att-succ,37/11
+	Team_2_First_Down_att-succ,32/11
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -14044,7 +14010,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,37/15
-	Team_2_First_Down_att-succ,37/11
+	Team_2_First_Down_att-succ,32/11
 	Team_1_Field_Goal_Made,[26]
 	Team_2_Field_Goal_Made,[35,32]
 	Team_1_Field_Goal_Missed,[]
@@ -14085,7 +14051,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,37/19
-	Team_2_First_Down_att-succ,37/10
+	Team_2_First_Down_att-succ,24/10
 	Team_1_Field_Goal_Made,[26]
 	Team_2_Field_Goal_Made,[37]
 	Team_1_Field_Goal_Missed,[37,43]
@@ -14126,7 +14092,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,34/13
-	Team_2_First_Down_att-succ,34/14
+	Team_2_First_Down_att-succ,35/14
 	Team_1_Field_Goal_Made,[48]
 	Team_2_Field_Goal_Made,[23,32,22]
 	Team_1_Field_Goal_Missed,[]
@@ -14167,7 +14133,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,33/15
-	Team_2_First_Down_att-succ,33/7
+	Team_2_First_Down_att-succ,23/7
 	Team_1_Field_Goal_Made,[30,44,49]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -14208,7 +14174,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,2
 	Team_1_First_Down_att-succ,30/10
-	Team_2_First_Down_att-succ,30/16
+	Team_2_First_Down_att-succ,36/16
 	Team_1_Field_Goal_Made,[47,31]
 	Team_2_Field_Goal_Made,[28,26]
 	Team_1_Field_Goal_Missed,[34]
@@ -14249,7 +14215,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,29/10
-	Team_2_First_Down_att-succ,29/9
+	Team_2_First_Down_att-succ,27/9
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[23,48,37]
 	Team_1_Field_Goal_Missed,[]
@@ -14290,7 +14256,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,28/7
-	Team_2_First_Down_att-succ,28/17
+	Team_2_First_Down_att-succ,38/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -14331,7 +14297,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,30/13
-	Team_2_First_Down_att-succ,30/13
+	Team_2_First_Down_att-succ,34/13
 	Team_1_Field_Goal_Made,[24]
 	Team_2_Field_Goal_Made,[35,34]
 	Team_1_Field_Goal_Missed,[]
@@ -14372,7 +14338,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,29/11
-	Team_2_First_Down_att-succ,29/17
+	Team_2_First_Down_att-succ,31/17
 	Team_1_Field_Goal_Made,[33,29,32]
 	Team_2_Field_Goal_Made,[36,28]
 	Team_1_Field_Goal_Missed,[]
@@ -14413,7 +14379,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,1
 	Team_1_First_Down_att-succ,26/11
-	Team_2_First_Down_att-succ,26/14
+	Team_2_First_Down_att-succ,36/14
 	Team_1_Field_Goal_Made,[28]
 	Team_2_Field_Goal_Made,[24,23]
 	Team_1_Field_Goal_Missed,[]
@@ -14454,7 +14420,7 @@ Charleston Southern , East Carolina
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,30/13
-	Team_2_First_Down_att-succ,30/17
+	Team_2_First_Down_att-succ,36/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[23]
 	Team_1_Field_Goal_Missed,[]
@@ -14505,7 +14471,6 @@ Charleston Southern , East Carolina
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Central Michigan , Miami (OH)
 {
 	ESPN_GAME_ID,401309560
 	SHARPODDZ_GAME_ID,52021353
@@ -14537,7 +14502,7 @@ Central Michigan , Miami (OH)
 	Team_1_Explosive_passes,1
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,39/20
-	Team_2_First_Down_att-succ,39/15
+	Team_2_First_Down_att-succ,31/15
 	Team_1_Field_Goal_Made,[25]
 	Team_2_Field_Goal_Made,[23]
 	Team_1_Field_Goal_Missed,[]
@@ -14578,7 +14543,7 @@ Central Michigan , Miami (OH)
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,28/12
-	Team_2_First_Down_att-succ,28/17
+	Team_2_First_Down_att-succ,39/17
 	Team_1_Field_Goal_Made,[42,52]
 	Team_2_Field_Goal_Made,[32,32]
 	Team_1_Field_Goal_Missed,[]
@@ -14619,7 +14584,7 @@ Central Michigan , Miami (OH)
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,15
 	Team_1_First_Down_att-succ,33/7
-	Team_2_First_Down_att-succ,33/13
+	Team_2_First_Down_att-succ,36/13
 	Team_1_Field_Goal_Made,[38,37,33,38]
 	Team_2_Field_Goal_Made,[31]
 	Team_1_Field_Goal_Missed,[]
@@ -14660,7 +14625,7 @@ Central Michigan , Miami (OH)
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,31/14
-	Team_2_First_Down_att-succ,31/14
+	Team_2_First_Down_att-succ,37/14
 	Team_1_Field_Goal_Made,[29]
 	Team_2_Field_Goal_Made,[26,30]
 	Team_1_Field_Goal_Missed,[]
@@ -14701,7 +14666,7 @@ Central Michigan , Miami (OH)
 	Team_1_Explosive_passes,18
 	Team_2_Explosive_passes,2
 	Team_1_First_Down_att-succ,45/22
-	Team_2_First_Down_att-succ,45/19
+	Team_2_First_Down_att-succ,32/19
 	Team_1_Field_Goal_Made,[31]
 	Team_2_Field_Goal_Made,[25]
 	Team_1_Field_Goal_Missed,[37]
@@ -14742,7 +14707,7 @@ Central Michigan , Miami (OH)
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,31/11
-	Team_2_First_Down_att-succ,31/9
+	Team_2_First_Down_att-succ,24/9
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -14783,7 +14748,7 @@ Central Michigan , Miami (OH)
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,33/12
-	Team_2_First_Down_att-succ,33/14
+	Team_2_First_Down_att-succ,26/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[15]
@@ -14824,7 +14789,7 @@ Central Michigan , Miami (OH)
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,29/11
-	Team_2_First_Down_att-succ,29/13
+	Team_2_First_Down_att-succ,34/13
 	Team_1_Field_Goal_Made,[34]
 	Team_2_Field_Goal_Made,[25]
 	Team_1_Field_Goal_Missed,[]
@@ -14865,7 +14830,7 @@ Central Michigan , Miami (OH)
 	Team_1_Explosive_passes,15
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,34/15
-	Team_2_First_Down_att-succ,34/9
+	Team_2_First_Down_att-succ,27/9
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[41]
 	Team_1_Field_Goal_Missed,[33]
@@ -14906,7 +14871,7 @@ Central Michigan , Miami (OH)
 	Team_1_Explosive_passes,1
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,29/13
-	Team_2_First_Down_att-succ,29/8
+	Team_2_First_Down_att-succ,23/8
 	Team_1_Field_Goal_Made,[30]
 	Team_2_Field_Goal_Made,[49]
 	Team_1_Field_Goal_Missed,[33]
@@ -14947,7 +14912,7 @@ Central Michigan , Miami (OH)
 	Team_1_Explosive_passes,16
 	Team_2_Explosive_passes,3
 	Team_1_First_Down_att-succ,44/22
-	Team_2_First_Down_att-succ,44/12
+	Team_2_First_Down_att-succ,31/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -14988,7 +14953,7 @@ Central Michigan , Miami (OH)
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,33/15
-	Team_2_First_Down_att-succ,33/13
+	Team_2_First_Down_att-succ,31/13
 	Team_1_Field_Goal_Made,[21]
 	Team_2_Field_Goal_Made,[37]
 	Team_1_Field_Goal_Missed,[]
@@ -15029,7 +14994,7 @@ Central Michigan , Miami (OH)
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,29/13
-	Team_2_First_Down_att-succ,29/20
+	Team_2_First_Down_att-succ,33/20
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[26]
 	Team_1_Field_Goal_Missed,[]
@@ -15070,7 +15035,7 @@ Central Michigan , Miami (OH)
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,38/16
-	Team_2_First_Down_att-succ,38/13
+	Team_2_First_Down_att-succ,34/13
 	Team_1_Field_Goal_Made,[38,44,31]
 	Team_2_Field_Goal_Made,[39,27,31]
 	Team_1_Field_Goal_Missed,[22]
@@ -15111,7 +15076,7 @@ Central Michigan , Miami (OH)
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,28/11
-	Team_2_First_Down_att-succ,28/18
+	Team_2_First_Down_att-succ,31/18
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -15162,7 +15127,6 @@ Central Michigan , Miami (OH)
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Louisiana , South Alabama
 {
 	ESPN_GAME_ID,401282217
 	SHARPODDZ_GAME_ID,52021369
@@ -15194,7 +15158,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,28/12
-	Team_2_First_Down_att-succ,28/7
+	Team_2_First_Down_att-succ,27/7
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[29,40]
 	Team_1_Field_Goal_Missed,[]
@@ -15235,7 +15199,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,2
 	Team_1_First_Down_att-succ,26/7
-	Team_2_First_Down_att-succ,26/13
+	Team_2_First_Down_att-succ,28/13
 	Team_1_Field_Goal_Made,[20]
 	Team_2_Field_Goal_Made,[29,24]
 	Team_1_Field_Goal_Missed,[]
@@ -15276,7 +15240,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,33/16
-	Team_2_First_Down_att-succ,33/12
+	Team_2_First_Down_att-succ,28/12
 	Team_1_Field_Goal_Made,[25]
 	Team_2_Field_Goal_Made,[35]
 	Team_1_Field_Goal_Missed,[]
@@ -15317,7 +15281,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,34/15
-	Team_2_First_Down_att-succ,34/10
+	Team_2_First_Down_att-succ,26/10
 	Team_1_Field_Goal_Made,[19]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -15358,7 +15322,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,30/12
-	Team_2_First_Down_att-succ,30/13
+	Team_2_First_Down_att-succ,31/13
 	Team_1_Field_Goal_Made,[46,24]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -15399,7 +15363,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,27/8
-	Team_2_First_Down_att-succ,27/15
+	Team_2_First_Down_att-succ,33/15
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -15440,7 +15404,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,17
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,32/11
-	Team_2_First_Down_att-succ,32/14
+	Team_2_First_Down_att-succ,30/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -15481,7 +15445,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,16
 	Team_1_First_Down_att-succ,36/14
-	Team_2_First_Down_att-succ,36/15
+	Team_2_First_Down_att-succ,31/15
 	Team_1_Field_Goal_Made,[42]
 	Team_2_Field_Goal_Made,[26,43]
 	Team_1_Field_Goal_Missed,[]
@@ -15522,7 +15486,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,16
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,39/18
-	Team_2_First_Down_att-succ,39/18
+	Team_2_First_Down_att-succ,35/18
 	Team_1_Field_Goal_Made,[38]
 	Team_2_Field_Goal_Made,[38,28]
 	Team_1_Field_Goal_Missed,[]
@@ -15563,7 +15527,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,32/17
-	Team_2_First_Down_att-succ,32/9
+	Team_2_First_Down_att-succ,27/9
 	Team_1_Field_Goal_Made,[21]
 	Team_2_Field_Goal_Made,[24]
 	Team_1_Field_Goal_Missed,[43]
@@ -15604,7 +15568,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,36/11
-	Team_2_First_Down_att-succ,36/10
+	Team_2_First_Down_att-succ,33/10
 	Team_1_Field_Goal_Made,[32,44]
 	Team_2_Field_Goal_Made,[34,48,36]
 	Team_1_Field_Goal_Missed,[]
@@ -15645,7 +15609,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,38/21
-	Team_2_First_Down_att-succ,38/16
+	Team_2_First_Down_att-succ,32/16
 	Team_1_Field_Goal_Made,[40,35,29,26]
 	Team_2_Field_Goal_Made,[38,41]
 	Team_1_Field_Goal_Missed,[]
@@ -15686,7 +15650,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,20
 	Team_1_First_Down_att-succ,33/11
-	Team_2_First_Down_att-succ,33/16
+	Team_2_First_Down_att-succ,35/16
 	Team_1_Field_Goal_Made,[48]
 	Team_2_Field_Goal_Made,[32]
 	Team_1_Field_Goal_Missed,[]
@@ -15727,7 +15691,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,40/13
-	Team_2_First_Down_att-succ,40/10
+	Team_2_First_Down_att-succ,29/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -15768,7 +15732,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,34/12
-	Team_2_First_Down_att-succ,34/15
+	Team_2_First_Down_att-succ,33/15
 	Team_1_Field_Goal_Made,[41,28,22]
 	Team_2_Field_Goal_Made,[30]
 	Team_1_Field_Goal_Missed,[]
@@ -15809,7 +15773,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,31/11
-	Team_2_First_Down_att-succ,31/12
+	Team_2_First_Down_att-succ,35/12
 	Team_1_Field_Goal_Made,[35]
 	Team_2_Field_Goal_Made,[26,29]
 	Team_1_Field_Goal_Missed,[35]
@@ -15850,7 +15814,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,51/23
-	Team_2_First_Down_att-succ,51/13
+	Team_2_First_Down_att-succ,30/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[50]
@@ -15891,7 +15855,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,34/19
-	Team_2_First_Down_att-succ,34/9
+	Team_2_First_Down_att-succ,31/9
 	Team_1_Field_Goal_Made,[48]
 	Team_2_Field_Goal_Made,[19,52,26]
 	Team_1_Field_Goal_Missed,[]
@@ -15932,7 +15896,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,24/15
-	Team_2_First_Down_att-succ,24/19
+	Team_2_First_Down_att-succ,30/19
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -15973,7 +15937,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,31/10
-	Team_2_First_Down_att-succ,31/20
+	Team_2_First_Down_att-succ,39/20
 	Team_1_Field_Goal_Made,[22,40]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -16014,7 +15978,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,31/10
-	Team_2_First_Down_att-succ,31/12
+	Team_2_First_Down_att-succ,30/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[39,41,33]
@@ -16055,7 +16019,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,2
 	Team_1_First_Down_att-succ,35/14
-	Team_2_First_Down_att-succ,35/4
+	Team_2_First_Down_att-succ,21/4
 	Team_1_Field_Goal_Made,[37]
 	Team_2_Field_Goal_Made,[50]
 	Team_1_Field_Goal_Missed,[51]
@@ -16096,7 +16060,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,24/10
-	Team_2_First_Down_att-succ,24/7
+	Team_2_First_Down_att-succ,31/7
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[40]
 	Team_1_Field_Goal_Missed,[]
@@ -16178,7 +16142,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,36/17
-	Team_2_First_Down_att-succ,36/11
+	Team_2_First_Down_att-succ,30/11
 	Team_1_Field_Goal_Made,[29,27]
 	Team_2_Field_Goal_Made,[45]
 	Team_1_Field_Goal_Missed,[]
@@ -16219,7 +16183,7 @@ Louisiana , South Alabama
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,33/10
-	Team_2_First_Down_att-succ,33/10
+	Team_2_First_Down_att-succ,27/10
 	Team_1_Field_Goal_Made,[43,26,43,47,29]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[23]
@@ -16270,7 +16234,6 @@ Louisiana , South Alabama
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Akron , Bowling Green
 {
 	ESPN_GAME_ID,401282652
 	SHARPODDZ_GAME_ID,62021396
@@ -16302,7 +16265,7 @@ Akron , Bowling Green
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,29/10
-	Team_2_First_Down_att-succ,29/18
+	Team_2_First_Down_att-succ,44/18
 	Team_1_Field_Goal_Made,[25]
 	Team_2_Field_Goal_Made,[35,22]
 	Team_1_Field_Goal_Missed,[]
@@ -16343,7 +16306,7 @@ Akron , Bowling Green
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,17
 	Team_1_First_Down_att-succ,51/14
-	Team_2_First_Down_att-succ,51/24
+	Team_2_First_Down_att-succ,57/24
 	Team_1_Field_Goal_Made,[47,45]
 	Team_2_Field_Goal_Made,[42,22]
 	Team_1_Field_Goal_Missed,[]
@@ -16384,7 +16347,7 @@ Akron , Bowling Green
 	Team_1_Explosive_passes,18
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,38/18
-	Team_2_First_Down_att-succ,38/14
+	Team_2_First_Down_att-succ,31/14
 	Team_1_Field_Goal_Made,[25,22]
 	Team_2_Field_Goal_Made,[28,28,38,40]
 	Team_1_Field_Goal_Missed,[45]
@@ -16425,7 +16388,7 @@ Akron , Bowling Green
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,34/10
-	Team_2_First_Down_att-succ,34/9
+	Team_2_First_Down_att-succ,27/9
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[48]
 	Team_1_Field_Goal_Missed,[44]
@@ -16466,7 +16429,7 @@ Akron , Bowling Green
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,24/8
-	Team_2_First_Down_att-succ,24/17
+	Team_2_First_Down_att-succ,35/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[37]
 	Team_1_Field_Goal_Missed,[]
@@ -16507,7 +16470,7 @@ Akron , Bowling Green
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,29/11
-	Team_2_First_Down_att-succ,29/16
+	Team_2_First_Down_att-succ,35/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -16548,7 +16511,7 @@ Akron , Bowling Green
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,2
 	Team_1_First_Down_att-succ,40/20
-	Team_2_First_Down_att-succ,40/2
+	Team_2_First_Down_att-succ,18/2
 	Team_1_Field_Goal_Made,[25]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -16589,7 +16552,7 @@ Akron , Bowling Green
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,25/11
-	Team_2_First_Down_att-succ,25/14
+	Team_2_First_Down_att-succ,37/14
 	Team_1_Field_Goal_Made,[38,20]
 	Team_2_Field_Goal_Made,[21,28]
 	Team_1_Field_Goal_Missed,[53]
@@ -16630,7 +16593,7 @@ Akron , Bowling Green
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,34/10
-	Team_2_First_Down_att-succ,34/14
+	Team_2_First_Down_att-succ,28/14
 	Team_1_Field_Goal_Made,[49,40,31,44]
 	Team_2_Field_Goal_Made,[47,33]
 	Team_1_Field_Goal_Missed,[46]
@@ -16671,7 +16634,7 @@ Akron , Bowling Green
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,26/9
-	Team_2_First_Down_att-succ,26/16
+	Team_2_First_Down_att-succ,36/16
 	Team_1_Field_Goal_Made,[27]
 	Team_2_Field_Goal_Made,[20,21]
 	Team_1_Field_Goal_Missed,[34]
@@ -16753,7 +16716,7 @@ Akron , Bowling Green
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,21/12
-	Team_2_First_Down_att-succ,21/14
+	Team_2_First_Down_att-succ,34/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[28,22,21,53,38,24]
 	Team_1_Field_Goal_Missed,[]
@@ -16804,7 +16767,6 @@ Akron , Bowling Green
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-North Texas , Missouri
 {
 	ESPN_GAME_ID,401309869
 	SHARPODDZ_GAME_ID,62021409
@@ -16836,7 +16798,7 @@ North Texas , Missouri
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,16
 	Team_1_First_Down_att-succ,34/17
-	Team_2_First_Down_att-succ,34/13
+	Team_2_First_Down_att-succ,29/13
 	Team_1_Field_Goal_Made,[39]
 	Team_2_Field_Goal_Made,[30]
 	Team_1_Field_Goal_Missed,[]
@@ -16877,7 +16839,7 @@ North Texas , Missouri
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,32/14
-	Team_2_First_Down_att-succ,32/10
+	Team_2_First_Down_att-succ,28/10
 	Team_1_Field_Goal_Made,[29,23,34]
 	Team_2_Field_Goal_Made,[35,40]
 	Team_1_Field_Goal_Missed,[]
@@ -16918,7 +16880,7 @@ North Texas , Missouri
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,27/10
-	Team_2_First_Down_att-succ,27/8
+	Team_2_First_Down_att-succ,30/8
 	Team_1_Field_Goal_Made,[38]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[32]
@@ -16959,7 +16921,7 @@ North Texas , Missouri
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,21
 	Team_1_First_Down_att-succ,38/22
-	Team_2_First_Down_att-succ,38/25
+	Team_2_First_Down_att-succ,44/25
 	Team_1_Field_Goal_Made,[35]
 	Team_2_Field_Goal_Made,[34,27]
 	Team_1_Field_Goal_Missed,[]
@@ -17000,7 +16962,7 @@ North Texas , Missouri
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,27/12
-	Team_2_First_Down_att-succ,27/19
+	Team_2_First_Down_att-succ,38/19
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[38]
 	Team_1_Field_Goal_Missed,[]
@@ -17082,7 +17044,7 @@ North Texas , Missouri
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,31/13
-	Team_2_First_Down_att-succ,31/13
+	Team_2_First_Down_att-succ,32/13
 	Team_1_Field_Goal_Made,[27,42,38]
 	Team_2_Field_Goal_Made,[29,24]
 	Team_1_Field_Goal_Missed,[]
@@ -17133,7 +17095,6 @@ North Texas , Missouri
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-South Alabama , Texas State
 {
 	ESPN_GAME_ID,401310714
 	SHARPODDZ_GAME_ID,62021417
@@ -17165,7 +17126,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,25/10
-	Team_2_First_Down_att-succ,25/8
+	Team_2_First_Down_att-succ,30/8
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[26]
 	Team_1_Field_Goal_Missed,[]
@@ -17206,7 +17167,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,49/26
-	Team_2_First_Down_att-succ,49/15
+	Team_2_First_Down_att-succ,30/15
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -17247,7 +17208,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,14
 	Team_2_Explosive_passes,16
 	Team_1_First_Down_att-succ,31/13
-	Team_2_First_Down_att-succ,31/19
+	Team_2_First_Down_att-succ,37/19
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[28]
 	Team_1_Field_Goal_Missed,[]
@@ -17288,7 +17249,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,20
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,46/15
-	Team_2_First_Down_att-succ,46/17
+	Team_2_First_Down_att-succ,31/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[36,53,48]
@@ -17329,7 +17290,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,33/11
-	Team_2_First_Down_att-succ,33/13
+	Team_2_First_Down_att-succ,38/13
 	Team_1_Field_Goal_Made,[23,43]
 	Team_2_Field_Goal_Made,[28,46,46]
 	Team_1_Field_Goal_Missed,[]
@@ -17411,7 +17372,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,24/5
-	Team_2_First_Down_att-succ,24/13
+	Team_2_First_Down_att-succ,33/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -17452,7 +17413,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,26/10
-	Team_2_First_Down_att-succ,26/8
+	Team_2_First_Down_att-succ,23/8
 	Team_1_Field_Goal_Made,[36]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[55]
@@ -17493,7 +17454,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,23/2
-	Team_2_First_Down_att-succ,23/12
+	Team_2_First_Down_att-succ,32/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -17534,7 +17495,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,38/15
-	Team_2_First_Down_att-succ,38/17
+	Team_2_First_Down_att-succ,34/17
 	Team_1_Field_Goal_Made,[45]
 	Team_2_Field_Goal_Made,[49]
 	Team_1_Field_Goal_Missed,[]
@@ -17575,7 +17536,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,25/11
-	Team_2_First_Down_att-succ,25/10
+	Team_2_First_Down_att-succ,31/10
 	Team_1_Field_Goal_Made,[53,26]
 	Team_2_Field_Goal_Made,[32,48]
 	Team_1_Field_Goal_Missed,[55]
@@ -17657,7 +17618,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,34/17
-	Team_2_First_Down_att-succ,34/10
+	Team_2_First_Down_att-succ,32/10
 	Team_1_Field_Goal_Made,[40]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -17739,7 +17700,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,14
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,33/9
-	Team_2_First_Down_att-succ,33/9
+	Team_2_First_Down_att-succ,29/9
 	Team_1_Field_Goal_Made,[31]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[32]
@@ -17780,7 +17741,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,29/7
-	Team_2_First_Down_att-succ,29/15
+	Team_2_First_Down_att-succ,39/15
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -17821,7 +17782,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,32/14
-	Team_2_First_Down_att-succ,32/16
+	Team_2_First_Down_att-succ,33/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[28]
 	Team_1_Field_Goal_Missed,[]
@@ -17862,7 +17823,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,29/12
-	Team_2_First_Down_att-succ,29/17
+	Team_2_First_Down_att-succ,35/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[44,37,37]
 	Team_1_Field_Goal_Missed,[]
@@ -17903,7 +17864,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,27/8
-	Team_2_First_Down_att-succ,27/16
+	Team_2_First_Down_att-succ,37/16
 	Team_1_Field_Goal_Made,[51,49]
 	Team_2_Field_Goal_Made,[24,44,25]
 	Team_1_Field_Goal_Missed,[]
@@ -17944,7 +17905,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,39/16
-	Team_2_First_Down_att-succ,39/12
+	Team_2_First_Down_att-succ,32/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -17985,7 +17946,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,42/12
-	Team_2_First_Down_att-succ,42/20
+	Team_2_First_Down_att-succ,43/20
 	Team_1_Field_Goal_Made,[30]
 	Team_2_Field_Goal_Made,[39]
 	Team_1_Field_Goal_Missed,[44]
@@ -18026,7 +17987,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,30/13
-	Team_2_First_Down_att-succ,30/16
+	Team_2_First_Down_att-succ,40/16
 	Team_1_Field_Goal_Made,[29]
 	Team_2_Field_Goal_Made,[44]
 	Team_1_Field_Goal_Missed,[]
@@ -18067,7 +18028,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,34/12
-	Team_2_First_Down_att-succ,34/16
+	Team_2_First_Down_att-succ,37/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -18108,7 +18069,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,24/11
-	Team_2_First_Down_att-succ,24/18
+	Team_2_First_Down_att-succ,32/18
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[50]
@@ -18149,7 +18110,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,35/13
-	Team_2_First_Down_att-succ,35/15
+	Team_2_First_Down_att-succ,33/15
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -18190,7 +18151,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,27/12
-	Team_2_First_Down_att-succ,27/14
+	Team_2_First_Down_att-succ,31/14
 	Team_1_Field_Goal_Made,[50,46]
 	Team_2_Field_Goal_Made,[24]
 	Team_1_Field_Goal_Missed,[]
@@ -18231,7 +18192,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,18
 	Team_1_First_Down_att-succ,30/11
-	Team_2_First_Down_att-succ,30/18
+	Team_2_First_Down_att-succ,39/18
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[22,38]
 	Team_1_Field_Goal_Missed,[]
@@ -18272,7 +18233,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,25/11
-	Team_2_First_Down_att-succ,25/15
+	Team_2_First_Down_att-succ,33/15
 	Team_1_Field_Goal_Made,[27]
 	Team_2_Field_Goal_Made,[23]
 	Team_1_Field_Goal_Missed,[]
@@ -18313,7 +18274,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,35/19
-	Team_2_First_Down_att-succ,35/11
+	Team_2_First_Down_att-succ,32/11
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[32,35]
 	Team_1_Field_Goal_Missed,[]
@@ -18395,7 +18356,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,15
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,39/15
-	Team_2_First_Down_att-succ,39/10
+	Team_2_First_Down_att-succ,28/10
 	Team_1_Field_Goal_Made,[20,32]
 	Team_2_Field_Goal_Made,[47,21]
 	Team_1_Field_Goal_Missed,[42]
@@ -18436,7 +18397,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,37/20
-	Team_2_First_Down_att-succ,37/13
+	Team_2_First_Down_att-succ,28/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[24]
 	Team_1_Field_Goal_Missed,[]
@@ -18477,7 +18438,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,33/14
-	Team_2_First_Down_att-succ,33/13
+	Team_2_First_Down_att-succ,41/13
 	Team_1_Field_Goal_Made,[40]
 	Team_2_Field_Goal_Made,[45,30,42,34]
 	Team_1_Field_Goal_Missed,[42]
@@ -18518,7 +18479,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,3
 	Team_1_First_Down_att-succ,26/12
-	Team_2_First_Down_att-succ,26/10
+	Team_2_First_Down_att-succ,29/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[34,50,35]
 	Team_1_Field_Goal_Missed,[]
@@ -18559,7 +18520,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,26/13
-	Team_2_First_Down_att-succ,26/9
+	Team_2_First_Down_att-succ,32/9
 	Team_1_Field_Goal_Made,[32,52]
 	Team_2_Field_Goal_Made,[33,27]
 	Team_1_Field_Goal_Missed,[]
@@ -18600,7 +18561,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,25/12
-	Team_2_First_Down_att-succ,25/15
+	Team_2_First_Down_att-succ,33/15
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[28]
 	Team_1_Field_Goal_Missed,[]
@@ -18641,7 +18602,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,14
 	Team_1_First_Down_att-succ,22/9
-	Team_2_First_Down_att-succ,22/15
+	Team_2_First_Down_att-succ,43/15
 	Team_1_Field_Goal_Made,[32]
 	Team_2_Field_Goal_Made,[45]
 	Team_1_Field_Goal_Missed,[]
@@ -18682,7 +18643,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,14
 	Team_2_Explosive_passes,3
 	Team_1_First_Down_att-succ,37/17
-	Team_2_First_Down_att-succ,37/7
+	Team_2_First_Down_att-succ,20/7
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -18723,7 +18684,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,22/6
-	Team_2_First_Down_att-succ,22/17
+	Team_2_First_Down_att-succ,40/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[20,44]
 	Team_1_Field_Goal_Missed,[39]
@@ -18764,7 +18725,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,0
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,67/28
-	Team_2_First_Down_att-succ,67/12
+	Team_2_First_Down_att-succ,42/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[50]
@@ -18805,7 +18766,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,27/14
-	Team_2_First_Down_att-succ,27/17
+	Team_2_First_Down_att-succ,29/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[29]
 	Team_1_Field_Goal_Missed,[50,32]
@@ -18846,7 +18807,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,32/15
-	Team_2_First_Down_att-succ,32/13
+	Team_2_First_Down_att-succ,41/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -18887,7 +18848,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,31/14
-	Team_2_First_Down_att-succ,31/17
+	Team_2_First_Down_att-succ,35/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[55]
@@ -18928,7 +18889,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,33/20
-	Team_2_First_Down_att-succ,33/13
+	Team_2_First_Down_att-succ,36/13
 	Team_1_Field_Goal_Made,[33]
 	Team_2_Field_Goal_Made,[21]
 	Team_1_Field_Goal_Missed,[42]
@@ -18969,7 +18930,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,28/14
-	Team_2_First_Down_att-succ,28/16
+	Team_2_First_Down_att-succ,37/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -19010,7 +18971,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,25/7
-	Team_2_First_Down_att-succ,25/19
+	Team_2_First_Down_att-succ,38/19
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[32,28,31]
 	Team_1_Field_Goal_Missed,[]
@@ -19051,7 +19012,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,30/11
-	Team_2_First_Down_att-succ,30/10
+	Team_2_First_Down_att-succ,32/10
 	Team_1_Field_Goal_Made,[33,44,40]
 	Team_2_Field_Goal_Made,[22]
 	Team_1_Field_Goal_Missed,[]
@@ -19092,7 +19053,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,3
 	Team_1_First_Down_att-succ,18/6
-	Team_2_First_Down_att-succ,18/6
+	Team_2_First_Down_att-succ,25/6
 	Team_1_Field_Goal_Made,[22,51]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -19133,7 +19094,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,30/9
-	Team_2_First_Down_att-succ,30/11
+	Team_2_First_Down_att-succ,38/11
 	Team_1_Field_Goal_Made,[42]
 	Team_2_Field_Goal_Made,[44,34]
 	Team_1_Field_Goal_Missed,[]
@@ -19174,7 +19135,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,31/13
-	Team_2_First_Down_att-succ,31/12
+	Team_2_First_Down_att-succ,33/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -19215,7 +19176,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,26/9
-	Team_2_First_Down_att-succ,26/10
+	Team_2_First_Down_att-succ,31/10
 	Team_1_Field_Goal_Made,[37,23,43]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -19256,7 +19217,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,25/6
-	Team_2_First_Down_att-succ,25/20
+	Team_2_First_Down_att-succ,33/20
 	Team_1_Field_Goal_Made,[32]
 	Team_2_Field_Goal_Made,[31]
 	Team_1_Field_Goal_Missed,[37]
@@ -19297,7 +19258,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,27/6
-	Team_2_First_Down_att-succ,27/12
+	Team_2_First_Down_att-succ,31/12
 	Team_1_Field_Goal_Made,[45]
 	Team_2_Field_Goal_Made,[36]
 	Team_1_Field_Goal_Missed,[]
@@ -19338,7 +19299,7 @@ South Alabama , Texas State
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,27/12
-	Team_2_First_Down_att-succ,27/6
+	Team_2_First_Down_att-succ,24/6
 	Team_1_Field_Goal_Made,[24]
 	Team_2_Field_Goal_Made,[27]
 	Team_1_Field_Goal_Missed,[]
@@ -19389,7 +19350,6 @@ South Alabama , Texas State
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Eastern Michigan , Bowling Green
 {
 	ESPN_GAME_ID,401309577
 	SHARPODDZ_GAME_ID,82021472
@@ -19421,7 +19381,7 @@ Eastern Michigan , Bowling Green
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,35/15
-	Team_2_First_Down_att-succ,35/18
+	Team_2_First_Down_att-succ,34/18
 	Team_1_Field_Goal_Made,[26]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -19462,7 +19422,7 @@ Eastern Michigan , Bowling Green
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,33/13
-	Team_2_First_Down_att-succ,33/13
+	Team_2_First_Down_att-succ,32/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[48]
 	Team_1_Field_Goal_Missed,[19]
@@ -19503,7 +19463,7 @@ Eastern Michigan , Bowling Green
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,41/24
-	Team_2_First_Down_att-succ,41/16
+	Team_2_First_Down_att-succ,39/16
 	Team_1_Field_Goal_Made,[31,27]
 	Team_2_Field_Goal_Made,[23,20]
 	Team_1_Field_Goal_Missed,[]
@@ -19544,7 +19504,7 @@ Eastern Michigan , Bowling Green
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,40/13
-	Team_2_First_Down_att-succ,40/21
+	Team_2_First_Down_att-succ,34/21
 	Team_1_Field_Goal_Made,[42,42,31]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -19585,7 +19545,7 @@ Eastern Michigan , Bowling Green
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,29/7
-	Team_2_First_Down_att-succ,29/13
+	Team_2_First_Down_att-succ,27/13
 	Team_1_Field_Goal_Made,[27]
 	Team_2_Field_Goal_Made,[33]
 	Team_1_Field_Goal_Missed,[]
@@ -19626,7 +19586,7 @@ Eastern Michigan , Bowling Green
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,21/5
-	Team_2_First_Down_att-succ,21/20
+	Team_2_First_Down_att-succ,34/20
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[37,43]
 	Team_1_Field_Goal_Missed,[]
@@ -19667,7 +19627,7 @@ Eastern Michigan , Bowling Green
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,29/14
-	Team_2_First_Down_att-succ,29/14
+	Team_2_First_Down_att-succ,30/14
 	Team_1_Field_Goal_Made,[26]
 	Team_2_Field_Goal_Made,[29]
 	Team_1_Field_Goal_Missed,[51]
@@ -19708,7 +19668,7 @@ Eastern Michigan , Bowling Green
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,31/16
-	Team_2_First_Down_att-succ,31/11
+	Team_2_First_Down_att-succ,32/11
 	Team_1_Field_Goal_Made,[26]
 	Team_2_Field_Goal_Made,[29,33]
 	Team_1_Field_Goal_Missed,[]
@@ -19749,7 +19709,7 @@ Eastern Michigan , Bowling Green
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,35/16
-	Team_2_First_Down_att-succ,35/14
+	Team_2_First_Down_att-succ,30/14
 	Team_1_Field_Goal_Made,[23]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -19790,7 +19750,7 @@ Eastern Michigan , Bowling Green
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,18/4
-	Team_2_First_Down_att-succ,18/17
+	Team_2_First_Down_att-succ,35/17
 	Team_1_Field_Goal_Made,[33]
 	Team_2_Field_Goal_Made,[49,30,51,33]
 	Team_1_Field_Goal_Missed,[]
@@ -19831,7 +19791,7 @@ Eastern Michigan , Bowling Green
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,30/15
-	Team_2_First_Down_att-succ,30/12
+	Team_2_First_Down_att-succ,29/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[45]
@@ -19872,7 +19832,7 @@ Eastern Michigan , Bowling Green
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,23/5
-	Team_2_First_Down_att-succ,23/14
+	Team_2_First_Down_att-succ,27/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[27]
 	Team_1_Field_Goal_Missed,[30]
@@ -19913,7 +19873,7 @@ Eastern Michigan , Bowling Green
 	Team_1_Explosive_passes,17
 	Team_2_Explosive_passes,3
 	Team_1_First_Down_att-succ,40/20
-	Team_2_First_Down_att-succ,40/5
+	Team_2_First_Down_att-succ,17/5
 	Team_1_Field_Goal_Made,[36]
 	Team_2_Field_Goal_Made,[27,41]
 	Team_1_Field_Goal_Missed,[]
@@ -19954,7 +19914,7 @@ Eastern Michigan , Bowling Green
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,28/9
-	Team_2_First_Down_att-succ,28/16
+	Team_2_First_Down_att-succ,43/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -19995,7 +19955,7 @@ Eastern Michigan , Bowling Green
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,29/9
-	Team_2_First_Down_att-succ,29/15
+	Team_2_First_Down_att-succ,36/15
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -20036,7 +19996,7 @@ Eastern Michigan , Bowling Green
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,36/12
-	Team_2_First_Down_att-succ,36/12
+	Team_2_First_Down_att-succ,30/12
 	Team_1_Field_Goal_Made,[33]
 	Team_2_Field_Goal_Made,[21]
 	Team_1_Field_Goal_Missed,[]
@@ -20087,7 +20047,6 @@ Eastern Michigan , Bowling Green
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Western Kentucky , Florida International
 {
 	ESPN_GAME_ID,401301029
 	SHARPODDZ_GAME_ID,82021489
@@ -20119,7 +20078,7 @@ Western Kentucky , Florida International
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,15/5
-	Team_2_First_Down_att-succ,15/15
+	Team_2_First_Down_att-succ,40/15
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[26,52]
 	Team_1_Field_Goal_Missed,[]
@@ -20160,7 +20119,7 @@ Western Kentucky , Florida International
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,15
 	Team_1_First_Down_att-succ,30/11
-	Team_2_First_Down_att-succ,30/14
+	Team_2_First_Down_att-succ,34/14
 	Team_1_Field_Goal_Made,[28]
 	Team_2_Field_Goal_Made,[39,40]
 	Team_1_Field_Goal_Missed,[39]
@@ -20201,7 +20160,7 @@ Western Kentucky , Florida International
 	Team_1_Explosive_passes,21
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,42/18
-	Team_2_First_Down_att-succ,42/21
+	Team_2_First_Down_att-succ,36/21
 	Team_1_Field_Goal_Made,[32,38]
 	Team_2_Field_Goal_Made,[47,43]
 	Team_1_Field_Goal_Missed,[]
@@ -20283,7 +20242,7 @@ Western Kentucky , Florida International
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,34/14
-	Team_2_First_Down_att-succ,34/15
+	Team_2_First_Down_att-succ,39/15
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[37]
 	Team_1_Field_Goal_Missed,[]
@@ -20324,7 +20283,7 @@ Western Kentucky , Florida International
 	Team_1_Explosive_passes,0
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,27/10
-	Team_2_First_Down_att-succ,27/7
+	Team_2_First_Down_att-succ,25/7
 	Team_1_Field_Goal_Made,[29,46]
 	Team_2_Field_Goal_Made,[26]
 	Team_1_Field_Goal_Missed,[]
@@ -20365,7 +20324,7 @@ Western Kentucky , Florida International
 	Team_1_Explosive_passes,15
 	Team_2_Explosive_passes,16
 	Team_1_First_Down_att-succ,32/14
-	Team_2_First_Down_att-succ,32/13
+	Team_2_First_Down_att-succ,34/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[52,23,22]
 	Team_1_Field_Goal_Missed,[]
@@ -20406,7 +20365,7 @@ Western Kentucky , Florida International
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,27/13
-	Team_2_First_Down_att-succ,27/13
+	Team_2_First_Down_att-succ,36/13
 	Team_1_Field_Goal_Made,[21,42]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[46]
@@ -20447,7 +20406,7 @@ Western Kentucky , Florida International
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,26/10
-	Team_2_First_Down_att-succ,26/9
+	Team_2_First_Down_att-succ,29/9
 	Team_1_Field_Goal_Made,[27]
 	Team_2_Field_Goal_Made,[41]
 	Team_1_Field_Goal_Missed,[]
@@ -20498,7 +20457,6 @@ Western Kentucky , Florida International
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Texas Tech , Oklahoma
 {
 	ESPN_GAME_ID,401282814
 	SHARPODDZ_GAME_ID,92021499
@@ -20530,7 +20488,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,16
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,39/16
-	Team_2_First_Down_att-succ,39/14
+	Team_2_First_Down_att-succ,33/14
 	Team_1_Field_Goal_Made,[47]
 	Team_2_Field_Goal_Made,[35,23,25,26]
 	Team_1_Field_Goal_Missed,[49]
@@ -20571,7 +20529,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,39/15
-	Team_2_First_Down_att-succ,39/9
+	Team_2_First_Down_att-succ,32/9
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -20612,7 +20570,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,27/9
-	Team_2_First_Down_att-succ,27/17
+	Team_2_First_Down_att-succ,39/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -20653,7 +20611,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,23/7
-	Team_2_First_Down_att-succ,23/10
+	Team_2_First_Down_att-succ,29/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -20694,7 +20652,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,16
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,36/18
-	Team_2_First_Down_att-succ,36/20
+	Team_2_First_Down_att-succ,40/20
 	Team_1_Field_Goal_Made,[29,49]
 	Team_2_Field_Goal_Made,[28]
 	Team_1_Field_Goal_Missed,[]
@@ -20776,7 +20734,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,23/11
-	Team_2_First_Down_att-succ,23/16
+	Team_2_First_Down_att-succ,43/16
 	Team_1_Field_Goal_Made,[41]
 	Team_2_Field_Goal_Made,[27]
 	Team_1_Field_Goal_Missed,[]
@@ -20817,7 +20775,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,16
 	Team_1_First_Down_att-succ,26/8
-	Team_2_First_Down_att-succ,26/18
+	Team_2_First_Down_att-succ,41/18
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[26]
 	Team_1_Field_Goal_Missed,[40]
@@ -20858,7 +20816,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,0
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,17/6
-	Team_2_First_Down_att-succ,17/22
+	Team_2_First_Down_att-succ,41/22
 	Team_1_Field_Goal_Made,[45]
 	Team_2_Field_Goal_Made,[49,26]
 	Team_1_Field_Goal_Missed,[]
@@ -20899,7 +20857,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,30/11
-	Team_2_First_Down_att-succ,30/14
+	Team_2_First_Down_att-succ,35/14
 	Team_1_Field_Goal_Made,[27]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -20940,7 +20898,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,20
 	Team_1_First_Down_att-succ,37/17
-	Team_2_First_Down_att-succ,37/16
+	Team_2_First_Down_att-succ,43/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -20981,7 +20939,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,26/8
-	Team_2_First_Down_att-succ,26/11
+	Team_2_First_Down_att-succ,33/11
 	Team_1_Field_Goal_Made,[45]
 	Team_2_Field_Goal_Made,[50,23,30]
 	Team_1_Field_Goal_Missed,[]
@@ -21022,7 +20980,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,32/15
-	Team_2_First_Down_att-succ,32/14
+	Team_2_First_Down_att-succ,36/14
 	Team_1_Field_Goal_Made,[49,27,42]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[44]
@@ -21063,7 +21021,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,14
 	Team_1_First_Down_att-succ,26/13
-	Team_2_First_Down_att-succ,26/16
+	Team_2_First_Down_att-succ,40/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -21104,7 +21062,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,14
 	Team_2_Explosive_passes,16
 	Team_1_First_Down_att-succ,37/23
-	Team_2_First_Down_att-succ,37/26
+	Team_2_First_Down_att-succ,47/26
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[32]
 	Team_1_Field_Goal_Missed,[]
@@ -21145,7 +21103,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,3
 	Team_1_First_Down_att-succ,35/16
-	Team_2_First_Down_att-succ,35/10
+	Team_2_First_Down_att-succ,25/10
 	Team_1_Field_Goal_Made,[23,43,34,21]
 	Team_2_Field_Goal_Made,[37]
 	Team_1_Field_Goal_Missed,[53]
@@ -21186,7 +21144,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,33/16
-	Team_2_First_Down_att-succ,33/11
+	Team_2_First_Down_att-succ,22/11
 	Team_1_Field_Goal_Made,[35,25]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[46]
@@ -21227,7 +21185,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,15
 	Team_1_First_Down_att-succ,29/14
-	Team_2_First_Down_att-succ,29/12
+	Team_2_First_Down_att-succ,44/12
 	Team_1_Field_Goal_Made,[55,29]
 	Team_2_Field_Goal_Made,[41]
 	Team_1_Field_Goal_Missed,[42]
@@ -21268,7 +21226,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,27/8
-	Team_2_First_Down_att-succ,27/17
+	Team_2_First_Down_att-succ,33/17
 	Team_1_Field_Goal_Made,[38]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -21309,7 +21267,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,31/12
-	Team_2_First_Down_att-succ,31/9
+	Team_2_First_Down_att-succ,29/9
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -21350,7 +21308,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,32/14
-	Team_2_First_Down_att-succ,32/19
+	Team_2_First_Down_att-succ,63/19
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -21391,7 +21349,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,22/6
-	Team_2_First_Down_att-succ,22/17
+	Team_2_First_Down_att-succ,31/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -21432,7 +21390,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,27/8
-	Team_2_First_Down_att-succ,27/9
+	Team_2_First_Down_att-succ,37/9
 	Team_1_Field_Goal_Made,[35]
 	Team_2_Field_Goal_Made,[30]
 	Team_1_Field_Goal_Missed,[]
@@ -21473,7 +21431,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,33/16
-	Team_2_First_Down_att-succ,33/13
+	Team_2_First_Down_att-succ,30/13
 	Team_1_Field_Goal_Made,[46]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -21555,7 +21513,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,14
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,32/9
-	Team_2_First_Down_att-succ,32/14
+	Team_2_First_Down_att-succ,38/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[22,22]
 	Team_1_Field_Goal_Missed,[]
@@ -21596,7 +21554,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,28/13
-	Team_2_First_Down_att-succ,28/16
+	Team_2_First_Down_att-succ,33/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[29]
 	Team_1_Field_Goal_Missed,[44,34]
@@ -21637,7 +21595,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,26/10
-	Team_2_First_Down_att-succ,26/10
+	Team_2_First_Down_att-succ,30/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[36]
 	Team_1_Field_Goal_Missed,[50]
@@ -21678,7 +21636,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,43/10
-	Team_2_First_Down_att-succ,43/12
+	Team_2_First_Down_att-succ,27/12
 	Team_1_Field_Goal_Made,[38]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -21719,7 +21677,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,28/10
-	Team_2_First_Down_att-succ,28/11
+	Team_2_First_Down_att-succ,36/11
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[47]
 	Team_1_Field_Goal_Missed,[]
@@ -21760,7 +21718,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,3
 	Team_1_First_Down_att-succ,27/12
-	Team_2_First_Down_att-succ,27/11
+	Team_2_First_Down_att-succ,26/11
 	Team_1_Field_Goal_Made,[31,24]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -21801,7 +21759,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,31/11
-	Team_2_First_Down_att-succ,31/7
+	Team_2_First_Down_att-succ,23/7
 	Team_1_Field_Goal_Made,[26,30]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -21842,7 +21800,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,28/9
-	Team_2_First_Down_att-succ,28/14
+	Team_2_First_Down_att-succ,31/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[27]
 	Team_1_Field_Goal_Missed,[]
@@ -21883,7 +21841,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,39/16
-	Team_2_First_Down_att-succ,39/11
+	Team_2_First_Down_att-succ,31/11
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -21965,7 +21923,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,24/11
-	Team_2_First_Down_att-succ,24/18
+	Team_2_First_Down_att-succ,37/18
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[38,50]
@@ -22006,7 +21964,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,18
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,43/16
-	Team_2_First_Down_att-succ,43/28
+	Team_2_First_Down_att-succ,42/28
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[39]
 	Team_1_Field_Goal_Missed,[51]
@@ -22047,7 +22005,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,30/12
-	Team_2_First_Down_att-succ,30/11
+	Team_2_First_Down_att-succ,33/11
 	Team_1_Field_Goal_Made,[39]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -22088,7 +22046,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,23/11
-	Team_2_First_Down_att-succ,23/13
+	Team_2_First_Down_att-succ,30/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -22129,7 +22087,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,3
 	Team_1_First_Down_att-succ,34/21
-	Team_2_First_Down_att-succ,34/5
+	Team_2_First_Down_att-succ,21/5
 	Team_1_Field_Goal_Made,[29]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -22170,7 +22128,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,26/5
-	Team_2_First_Down_att-succ,26/14
+	Team_2_First_Down_att-succ,35/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[48]
@@ -22211,7 +22169,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,30/10
-	Team_2_First_Down_att-succ,30/11
+	Team_2_First_Down_att-succ,28/11
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -22252,7 +22210,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,19
 	Team_1_First_Down_att-succ,31/13
-	Team_2_First_Down_att-succ,31/15
+	Team_2_First_Down_att-succ,39/15
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[29,24,23,22]
 	Team_1_Field_Goal_Missed,[43]
@@ -22293,7 +22251,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,34/11
-	Team_2_First_Down_att-succ,34/8
+	Team_2_First_Down_att-succ,21/8
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -22334,7 +22292,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,17
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,43/16
-	Team_2_First_Down_att-succ,43/13
+	Team_2_First_Down_att-succ,29/13
 	Team_1_Field_Goal_Made,[26,46,35,46]
 	Team_2_Field_Goal_Made,[39]
 	Team_1_Field_Goal_Missed,[]
@@ -22375,7 +22333,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,39/18
-	Team_2_First_Down_att-succ,39/14
+	Team_2_First_Down_att-succ,30/14
 	Team_1_Field_Goal_Made,[35,50]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[50]
@@ -22416,7 +22374,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,24/6
-	Team_2_First_Down_att-succ,24/11
+	Team_2_First_Down_att-succ,30/11
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[34,32,34]
 	Team_1_Field_Goal_Missed,[]
@@ -22498,7 +22456,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,1
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,22/6
-	Team_2_First_Down_att-succ,22/10
+	Team_2_First_Down_att-succ,31/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -22539,7 +22497,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,30/17
-	Team_2_First_Down_att-succ,30/9
+	Team_2_First_Down_att-succ,23/9
 	Team_1_Field_Goal_Made,[34]
 	Team_2_Field_Goal_Made,[30]
 	Team_1_Field_Goal_Missed,[]
@@ -22580,7 +22538,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,20
 	Team_1_First_Down_att-succ,27/10
-	Team_2_First_Down_att-succ,27/17
+	Team_2_First_Down_att-succ,43/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[30,46,24]
 	Team_1_Field_Goal_Missed,[]
@@ -22621,7 +22579,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,29/12
-	Team_2_First_Down_att-succ,29/11
+	Team_2_First_Down_att-succ,32/11
 	Team_1_Field_Goal_Made,[32]
 	Team_2_Field_Goal_Made,[21,29,47,37]
 	Team_1_Field_Goal_Missed,[33]
@@ -22662,7 +22620,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,15
 	Team_1_First_Down_att-succ,28/9
-	Team_2_First_Down_att-succ,28/17
+	Team_2_First_Down_att-succ,37/17
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[39]
 	Team_1_Field_Goal_Missed,[]
@@ -22703,7 +22661,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,43/24
-	Team_2_First_Down_att-succ,43/18
+	Team_2_First_Down_att-succ,31/18
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[43,38]
 	Team_1_Field_Goal_Missed,[38]
@@ -22744,7 +22702,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,17
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,37/14
-	Team_2_First_Down_att-succ,37/13
+	Team_2_First_Down_att-succ,35/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[46,48,51]
 	Team_1_Field_Goal_Missed,[23,46,40]
@@ -22785,7 +22743,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,20
 	Team_1_First_Down_att-succ,25/13
-	Team_2_First_Down_att-succ,25/23
+	Team_2_First_Down_att-succ,49/23
 	Team_1_Field_Goal_Made,[43]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[35]
@@ -22826,7 +22784,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,29/9
-	Team_2_First_Down_att-succ,29/13
+	Team_2_First_Down_att-succ,31/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -22867,7 +22825,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,29/12
-	Team_2_First_Down_att-succ,29/16
+	Team_2_First_Down_att-succ,31/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -22908,7 +22866,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,37/18
-	Team_2_First_Down_att-succ,37/4
+	Team_2_First_Down_att-succ,24/4
 	Team_1_Field_Goal_Made,[29]
 	Team_2_Field_Goal_Made,[24]
 	Team_1_Field_Goal_Missed,[35]
@@ -22949,7 +22907,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,30/10
-	Team_2_First_Down_att-succ,30/9
+	Team_2_First_Down_att-succ,34/9
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -22990,7 +22948,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,37/15
-	Team_2_First_Down_att-succ,37/15
+	Team_2_First_Down_att-succ,32/15
 	Team_1_Field_Goal_Made,[47,27,32,27]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -23031,7 +22989,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,28/9
-	Team_2_First_Down_att-succ,28/9
+	Team_2_First_Down_att-succ,27/9
 	Team_1_Field_Goal_Made,[39]
 	Team_2_Field_Goal_Made,[22]
 	Team_1_Field_Goal_Missed,[53]
@@ -23072,7 +23030,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,18
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,44/20
-	Team_2_First_Down_att-succ,44/19
+	Team_2_First_Down_att-succ,41/19
 	Team_1_Field_Goal_Made,[47]
 	Team_2_Field_Goal_Made,[46,31]
 	Team_1_Field_Goal_Missed,[]
@@ -23113,7 +23071,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,18/4
-	Team_2_First_Down_att-succ,18/14
+	Team_2_First_Down_att-succ,31/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[39,30]
 	Team_1_Field_Goal_Missed,[26]
@@ -23154,7 +23112,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,38/16
-	Team_2_First_Down_att-succ,38/13
+	Team_2_First_Down_att-succ,31/13
 	Team_1_Field_Goal_Made,[21]
 	Team_2_Field_Goal_Made,[36]
 	Team_1_Field_Goal_Missed,[]
@@ -23195,7 +23153,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,31/13
-	Team_2_First_Down_att-succ,31/8
+	Team_2_First_Down_att-succ,24/8
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[40]
 	Team_1_Field_Goal_Missed,[24]
@@ -23236,7 +23194,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,16
 	Team_1_First_Down_att-succ,26/7
-	Team_2_First_Down_att-succ,26/8
+	Team_2_First_Down_att-succ,37/8
 	Team_1_Field_Goal_Made,[47]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -23277,7 +23235,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,25/6
-	Team_2_First_Down_att-succ,25/15
+	Team_2_First_Down_att-succ,35/15
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[31]
 	Team_1_Field_Goal_Missed,[50]
@@ -23318,7 +23276,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,32/13
-	Team_2_First_Down_att-succ,32/12
+	Team_2_First_Down_att-succ,35/12
 	Team_1_Field_Goal_Made,[24]
 	Team_2_Field_Goal_Made,[27]
 	Team_1_Field_Goal_Missed,[]
@@ -23359,7 +23317,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,35/10
-	Team_2_First_Down_att-succ,35/19
+	Team_2_First_Down_att-succ,42/19
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[51]
@@ -23400,7 +23358,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,16
 	Team_1_First_Down_att-succ,31/14
-	Team_2_First_Down_att-succ,31/20
+	Team_2_First_Down_att-succ,39/20
 	Team_1_Field_Goal_Made,[21,27]
 	Team_2_Field_Goal_Made,[25,55]
 	Team_1_Field_Goal_Missed,[]
@@ -23441,7 +23399,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,2
 	Team_1_First_Down_att-succ,32/20
-	Team_2_First_Down_att-succ,32/10
+	Team_2_First_Down_att-succ,30/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[47]
 	Team_1_Field_Goal_Missed,[]
@@ -23482,7 +23440,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,29/16
-	Team_2_First_Down_att-succ,29/17
+	Team_2_First_Down_att-succ,38/17
 	Team_1_Field_Goal_Made,[43,48]
 	Team_2_Field_Goal_Made,[38,38,32]
 	Team_1_Field_Goal_Missed,[24]
@@ -23523,7 +23481,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,34/17
-	Team_2_First_Down_att-succ,34/15
+	Team_2_First_Down_att-succ,37/15
 	Team_1_Field_Goal_Made,[32]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -23564,7 +23522,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,29/10
-	Team_2_First_Down_att-succ,29/15
+	Team_2_First_Down_att-succ,36/15
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -23605,7 +23563,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,37/22
-	Team_2_First_Down_att-succ,37/9
+	Team_2_First_Down_att-succ,32/9
 	Team_1_Field_Goal_Made,[27]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -23646,7 +23604,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,24/8
-	Team_2_First_Down_att-succ,24/18
+	Team_2_First_Down_att-succ,31/18
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[43,38,29]
 	Team_1_Field_Goal_Missed,[]
@@ -23687,7 +23645,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,36/20
-	Team_2_First_Down_att-succ,36/18
+	Team_2_First_Down_att-succ,35/18
 	Team_1_Field_Goal_Made,[40,26]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -23728,7 +23686,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,23/3
-	Team_2_First_Down_att-succ,23/21
+	Team_2_First_Down_att-succ,39/21
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -23769,7 +23727,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,30/11
-	Team_2_First_Down_att-succ,30/18
+	Team_2_First_Down_att-succ,36/18
 	Team_1_Field_Goal_Made,[34]
 	Team_2_Field_Goal_Made,[22]
 	Team_1_Field_Goal_Missed,[]
@@ -23810,7 +23768,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,14
 	Team_2_Explosive_passes,14
 	Team_1_First_Down_att-succ,36/20
-	Team_2_First_Down_att-succ,36/19
+	Team_2_First_Down_att-succ,38/19
 	Team_1_Field_Goal_Made,[32]
 	Team_2_Field_Goal_Made,[30]
 	Team_1_Field_Goal_Missed,[]
@@ -23851,7 +23809,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,32/8
-	Team_2_First_Down_att-succ,32/10
+	Team_2_First_Down_att-succ,31/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[42,52,31]
 	Team_1_Field_Goal_Missed,[]
@@ -23892,7 +23850,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,34/18
-	Team_2_First_Down_att-succ,34/19
+	Team_2_First_Down_att-succ,42/19
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[41]
@@ -23933,7 +23891,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,14
 	Team_1_First_Down_att-succ,48/20
-	Team_2_First_Down_att-succ,48/22
+	Team_2_First_Down_att-succ,57/22
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[51,40]
@@ -23974,7 +23932,7 @@ Texas Tech , Oklahoma
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,31/14
-	Team_2_First_Down_att-succ,31/12
+	Team_2_First_Down_att-succ,29/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -24025,7 +23983,6 @@ Texas Tech , Oklahoma
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-TCU , Oklahoma State
 {
 	ESPN_GAME_ID,401282131
 	SHARPODDZ_GAME_ID,112021585
@@ -24057,7 +24014,7 @@ TCU , Oklahoma State
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,14
 	Team_1_First_Down_att-succ,33/18
-	Team_2_First_Down_att-succ,33/21
+	Team_2_First_Down_att-succ,44/21
 	Team_1_Field_Goal_Made,[30,43]
 	Team_2_Field_Goal_Made,[33,32]
 	Team_1_Field_Goal_Missed,[]
@@ -24098,7 +24055,7 @@ TCU , Oklahoma State
 	Team_1_Explosive_passes,18
 	Team_2_Explosive_passes,15
 	Team_1_First_Down_att-succ,41/18
-	Team_2_First_Down_att-succ,41/15
+	Team_2_First_Down_att-succ,45/15
 	Team_1_Field_Goal_Made,[28,46]
 	Team_2_Field_Goal_Made,[45]
 	Team_1_Field_Goal_Missed,[33]
@@ -24139,7 +24096,7 @@ TCU , Oklahoma State
 	Team_1_Explosive_passes,17
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,45/21
-	Team_2_First_Down_att-succ,45/13
+	Team_2_First_Down_att-succ,31/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[40]
@@ -24180,7 +24137,7 @@ TCU , Oklahoma State
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,26/5
-	Team_2_First_Down_att-succ,26/18
+	Team_2_First_Down_att-succ,38/18
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[32]
@@ -24221,7 +24178,7 @@ TCU , Oklahoma State
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,33/9
-	Team_2_First_Down_att-succ,33/6
+	Team_2_First_Down_att-succ,21/6
 	Team_1_Field_Goal_Made,[20,31,29]
 	Team_2_Field_Goal_Made,[50,29]
 	Team_1_Field_Goal_Missed,[]
@@ -24262,7 +24219,7 @@ TCU , Oklahoma State
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,28/13
-	Team_2_First_Down_att-succ,28/12
+	Team_2_First_Down_att-succ,29/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[48,39,35]
 	Team_1_Field_Goal_Missed,[]
@@ -24303,7 +24260,7 @@ TCU , Oklahoma State
 	Team_1_Explosive_passes,2
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,25/7
-	Team_2_First_Down_att-succ,25/12
+	Team_2_First_Down_att-succ,27/12
 	Team_1_Field_Goal_Made,[36]
 	Team_2_Field_Goal_Made,[23,24]
 	Team_1_Field_Goal_Missed,[43]
@@ -24344,7 +24301,7 @@ TCU , Oklahoma State
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,34/13
-	Team_2_First_Down_att-succ,34/8
+	Team_2_First_Down_att-succ,24/8
 	Team_1_Field_Goal_Made,[30]
 	Team_2_Field_Goal_Made,[57,31,22]
 	Team_1_Field_Goal_Missed,[]
@@ -24385,7 +24342,7 @@ TCU , Oklahoma State
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,25/9
-	Team_2_First_Down_att-succ,25/9
+	Team_2_First_Down_att-succ,32/9
 	Team_1_Field_Goal_Made,[48,27]
 	Team_2_Field_Goal_Made,[34,45]
 	Team_1_Field_Goal_Missed,[]
@@ -24436,7 +24393,6 @@ TCU , Oklahoma State
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Samford , Florida
 {
 	ESPN_GAME_ID,401282684
 	SHARPODDZ_GAME_ID,112021595
@@ -24468,7 +24424,7 @@ Samford , Florida
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,26/9
-	Team_2_First_Down_att-succ,26/9
+	Team_2_First_Down_att-succ,43/9
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -24550,7 +24506,7 @@ Samford , Florida
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,31/13
-	Team_2_First_Down_att-succ,31/8
+	Team_2_First_Down_att-succ,32/8
 	Team_1_Field_Goal_Made,[38]
 	Team_2_Field_Goal_Made,[47]
 	Team_1_Field_Goal_Missed,[]
@@ -24591,7 +24547,7 @@ Samford , Florida
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,30/14
-	Team_2_First_Down_att-succ,30/6
+	Team_2_First_Down_att-succ,29/6
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[42]
 	Team_1_Field_Goal_Missed,[]
@@ -24632,7 +24588,7 @@ Samford , Florida
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,31/9
-	Team_2_First_Down_att-succ,31/8
+	Team_2_First_Down_att-succ,26/8
 	Team_1_Field_Goal_Made,[39]
 	Team_2_Field_Goal_Made,[32,25]
 	Team_1_Field_Goal_Missed,[47]
@@ -24673,7 +24629,7 @@ Samford , Florida
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,15
 	Team_1_First_Down_att-succ,25/12
-	Team_2_First_Down_att-succ,25/19
+	Team_2_First_Down_att-succ,44/19
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[29]
 	Team_1_Field_Goal_Missed,[43]
@@ -24714,7 +24670,7 @@ Samford , Florida
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,26/14
-	Team_2_First_Down_att-succ,26/23
+	Team_2_First_Down_att-succ,48/23
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[34,41,32]
 	Team_1_Field_Goal_Missed,[]
@@ -24755,7 +24711,7 @@ Samford , Florida
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,33/15
-	Team_2_First_Down_att-succ,33/14
+	Team_2_First_Down_att-succ,29/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -24796,7 +24752,7 @@ Samford , Florida
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,27/8
-	Team_2_First_Down_att-succ,27/5
+	Team_2_First_Down_att-succ,24/5
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -24837,7 +24793,7 @@ Samford , Florida
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,33/11
-	Team_2_First_Down_att-succ,33/12
+	Team_2_First_Down_att-succ,25/12
 	Team_1_Field_Goal_Made,[30,27]
 	Team_2_Field_Goal_Made,[32,55]
 	Team_1_Field_Goal_Missed,[41,37]
@@ -24878,7 +24834,7 @@ Samford , Florida
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,41/23
-	Team_2_First_Down_att-succ,41/18
+	Team_2_First_Down_att-succ,32/18
 	Team_1_Field_Goal_Made,[44]
 	Team_2_Field_Goal_Made,[37]
 	Team_1_Field_Goal_Missed,[]
@@ -24919,7 +24875,7 @@ Samford , Florida
 	Team_1_Explosive_passes,15
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,31/18
-	Team_2_First_Down_att-succ,31/16
+	Team_2_First_Down_att-succ,40/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[22,28,26]
 	Team_1_Field_Goal_Missed,[]
@@ -24960,7 +24916,7 @@ Samford , Florida
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,27/8
-	Team_2_First_Down_att-succ,27/8
+	Team_2_First_Down_att-succ,26/8
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[21,22]
 	Team_1_Field_Goal_Missed,[]
@@ -25052,7 +25008,6 @@ Samford , Florida
 	Team_1_Run_List,
 	Team_2_Run_list,
 }
-Southern Miss , Louisiana Tech
 {
 	ESPN_GAME_ID,401309899
 	SHARPODDZ_GAME_ID,122021610
@@ -25084,7 +25039,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,36/12
-	Team_2_First_Down_att-succ,36/10
+	Team_2_First_Down_att-succ,31/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[50]
@@ -25125,7 +25080,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,1
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,37/17
-	Team_2_First_Down_att-succ,37/13
+	Team_2_First_Down_att-succ,29/13
 	Team_1_Field_Goal_Made,[49]
 	Team_2_Field_Goal_Made,[24]
 	Team_1_Field_Goal_Missed,[]
@@ -25166,7 +25121,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,1
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,27/8
-	Team_2_First_Down_att-succ,27/14
+	Team_2_First_Down_att-succ,35/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -25207,7 +25162,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,21
 	Team_1_First_Down_att-succ,30/10
-	Team_2_First_Down_att-succ,30/18
+	Team_2_First_Down_att-succ,37/18
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[48,30]
 	Team_1_Field_Goal_Missed,[]
@@ -25248,7 +25203,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,26/12
-	Team_2_First_Down_att-succ,26/12
+	Team_2_First_Down_att-succ,34/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[41]
@@ -25289,7 +25244,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,16
 	Team_1_First_Down_att-succ,23/8
-	Team_2_First_Down_att-succ,23/24
+	Team_2_First_Down_att-succ,45/24
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[46]
@@ -25330,7 +25285,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,28/14
-	Team_2_First_Down_att-succ,28/12
+	Team_2_First_Down_att-succ,34/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -25371,7 +25326,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,37/15
-	Team_2_First_Down_att-succ,37/18
+	Team_2_First_Down_att-succ,39/18
 	Team_1_Field_Goal_Made,[39]
 	Team_2_Field_Goal_Made,[31]
 	Team_1_Field_Goal_Missed,[]
@@ -25412,7 +25367,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,24/11
-	Team_2_First_Down_att-succ,24/19
+	Team_2_First_Down_att-succ,31/19
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[41,26]
 	Team_1_Field_Goal_Missed,[47]
@@ -25453,7 +25408,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,39/17
-	Team_2_First_Down_att-succ,39/2
+	Team_2_First_Down_att-succ,24/2
 	Team_1_Field_Goal_Made,[24,33,19]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -25494,7 +25449,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,16
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,40/19
-	Team_2_First_Down_att-succ,40/18
+	Team_2_First_Down_att-succ,37/18
 	Team_1_Field_Goal_Made,[23,31]
 	Team_2_Field_Goal_Made,[50,35]
 	Team_1_Field_Goal_Missed,[]
@@ -25535,7 +25490,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,31/6
-	Team_2_First_Down_att-succ,31/11
+	Team_2_First_Down_att-succ,20/11
 	Team_1_Field_Goal_Made,[28]
 	Team_2_Field_Goal_Made,[28]
 	Team_1_Field_Goal_Missed,[]
@@ -25576,7 +25531,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,14
 	Team_1_First_Down_att-succ,40/12
-	Team_2_First_Down_att-succ,40/17
+	Team_2_First_Down_att-succ,34/17
 	Team_1_Field_Goal_Made,[49,33]
 	Team_2_Field_Goal_Made,[28]
 	Team_1_Field_Goal_Missed,[]
@@ -25617,7 +25572,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,43/17
-	Team_2_First_Down_att-succ,43/10
+	Team_2_First_Down_att-succ,26/10
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -25658,7 +25613,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,34/18
-	Team_2_First_Down_att-succ,34/15
+	Team_2_First_Down_att-succ,28/15
 	Team_1_Field_Goal_Made,[39,38]
 	Team_2_Field_Goal_Made,[38]
 	Team_1_Field_Goal_Missed,[]
@@ -25699,7 +25654,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,36/15
-	Team_2_First_Down_att-succ,36/3
+	Team_2_First_Down_att-succ,25/3
 	Team_1_Field_Goal_Made,[38]
 	Team_2_Field_Goal_Made,[35,48]
 	Team_1_Field_Goal_Missed,[]
@@ -25740,7 +25695,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,1
 	Team_1_First_Down_att-succ,32/18
-	Team_2_First_Down_att-succ,32/9
+	Team_2_First_Down_att-succ,17/9
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -25781,7 +25736,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,14
 	Team_1_First_Down_att-succ,32/12
-	Team_2_First_Down_att-succ,32/20
+	Team_2_First_Down_att-succ,43/20
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -25822,7 +25777,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,34/16
-	Team_2_First_Down_att-succ,34/13
+	Team_2_First_Down_att-succ,33/13
 	Team_1_Field_Goal_Made,[43]
 	Team_2_Field_Goal_Made,[31,26]
 	Team_1_Field_Goal_Missed,[]
@@ -25863,7 +25818,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,32/9
-	Team_2_First_Down_att-succ,32/11
+	Team_2_First_Down_att-succ,35/11
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[45]
@@ -25945,7 +25900,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,1
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,20/5
-	Team_2_First_Down_att-succ,20/10
+	Team_2_First_Down_att-succ,29/10
 	Team_1_Field_Goal_Made,[33,56]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[48]
@@ -25986,7 +25941,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,34/15
-	Team_2_First_Down_att-succ,34/19
+	Team_2_First_Down_att-succ,33/19
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -26027,7 +25982,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,35/11
-	Team_2_First_Down_att-succ,35/15
+	Team_2_First_Down_att-succ,31/15
 	Team_1_Field_Goal_Made,[22]
 	Team_2_Field_Goal_Made,[31,37]
 	Team_1_Field_Goal_Missed,[]
@@ -26068,7 +26023,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,31/11
-	Team_2_First_Down_att-succ,31/9
+	Team_2_First_Down_att-succ,24/9
 	Team_1_Field_Goal_Made,[46,49,41]
 	Team_2_Field_Goal_Made,[36,23]
 	Team_1_Field_Goal_Missed,[]
@@ -26109,7 +26064,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,24/14
-	Team_2_First_Down_att-succ,24/13
+	Team_2_First_Down_att-succ,30/13
 	Team_1_Field_Goal_Made,[51]
 	Team_2_Field_Goal_Made,[24,39,22]
 	Team_1_Field_Goal_Missed,[]
@@ -26150,7 +26105,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,29/13
-	Team_2_First_Down_att-succ,29/13
+	Team_2_First_Down_att-succ,35/13
 	Team_1_Field_Goal_Made,[50]
 	Team_2_Field_Goal_Made,[37]
 	Team_1_Field_Goal_Missed,[]
@@ -26191,7 +26146,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,3
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,23/8
-	Team_2_First_Down_att-succ,23/11
+	Team_2_First_Down_att-succ,32/11
 	Team_1_Field_Goal_Made,[22]
 	Team_2_Field_Goal_Made,[23,43,40,39]
 	Team_1_Field_Goal_Missed,[]
@@ -26232,7 +26187,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,3
 	Team_1_First_Down_att-succ,26/9
-	Team_2_First_Down_att-succ,26/9
+	Team_2_First_Down_att-succ,28/9
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[47]
@@ -26273,7 +26228,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,3
 	Team_1_First_Down_att-succ,31/13
-	Team_2_First_Down_att-succ,31/13
+	Team_2_First_Down_att-succ,29/13
 	Team_1_Field_Goal_Made,[29]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -26314,7 +26269,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,32/12
-	Team_2_First_Down_att-succ,32/7
+	Team_2_First_Down_att-succ,23/7
 	Team_1_Field_Goal_Made,[41,36]
 	Team_2_Field_Goal_Made,[32]
 	Team_1_Field_Goal_Missed,[48]
@@ -26355,7 +26310,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,34/17
-	Team_2_First_Down_att-succ,34/12
+	Team_2_First_Down_att-succ,30/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[30,33]
 	Team_1_Field_Goal_Missed,[]
@@ -26396,7 +26351,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,0
 	Team_1_First_Down_att-succ,20/3
-	Team_2_First_Down_att-succ,20/19
+	Team_2_First_Down_att-succ,34/19
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[37,38]
 	Team_1_Field_Goal_Missed,[]
@@ -26437,7 +26392,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,28/9
-	Team_2_First_Down_att-succ,28/14
+	Team_2_First_Down_att-succ,29/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[27,32]
 	Team_1_Field_Goal_Missed,[]
@@ -26478,7 +26433,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,42/20
-	Team_2_First_Down_att-succ,42/7
+	Team_2_First_Down_att-succ,19/7
 	Team_1_Field_Goal_Made,[31,25,41,39]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[48]
@@ -26519,7 +26474,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,2
 	Team_1_First_Down_att-succ,27/14
-	Team_2_First_Down_att-succ,27/5
+	Team_2_First_Down_att-succ,19/5
 	Team_1_Field_Goal_Made,[38]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -26560,7 +26515,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,17
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,32/16
-	Team_2_First_Down_att-succ,32/17
+	Team_2_First_Down_att-succ,34/17
 	Team_1_Field_Goal_Made,[31,30]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -26601,7 +26556,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,12
 	Team_2_Explosive_passes,3
 	Team_1_First_Down_att-succ,31/12
-	Team_2_First_Down_att-succ,31/4
+	Team_2_First_Down_att-succ,24/4
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -26642,7 +26597,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,39/20
-	Team_2_First_Down_att-succ,39/9
+	Team_2_First_Down_att-succ,23/9
 	Team_1_Field_Goal_Made,[36]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -26683,7 +26638,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,33/10
-	Team_2_First_Down_att-succ,33/13
+	Team_2_First_Down_att-succ,37/13
 	Team_1_Field_Goal_Made,[24]
 	Team_2_Field_Goal_Made,[27]
 	Team_1_Field_Goal_Missed,[]
@@ -26724,7 +26679,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,8
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,27/10
-	Team_2_First_Down_att-succ,27/11
+	Team_2_First_Down_att-succ,33/11
 	Team_1_Field_Goal_Made,[46]
 	Team_2_Field_Goal_Made,[28,27]
 	Team_1_Field_Goal_Missed,[]
@@ -26806,7 +26761,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,11
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,25/8
-	Team_2_First_Down_att-succ,25/11
+	Team_2_First_Down_att-succ,34/11
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[27]
@@ -26847,7 +26802,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,14
 	Team_1_First_Down_att-succ,36/14
-	Team_2_First_Down_att-succ,36/18
+	Team_2_First_Down_att-succ,37/18
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[26,33,37]
 	Team_1_Field_Goal_Missed,[]
@@ -26929,7 +26884,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,28/10
-	Team_2_First_Down_att-succ,28/14
+	Team_2_First_Down_att-succ,33/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -26970,7 +26925,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,30/16
-	Team_2_First_Down_att-succ,30/9
+	Team_2_First_Down_att-succ,24/9
 	Team_1_Field_Goal_Made,[26]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -27011,7 +26966,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,1
 	Team_1_First_Down_att-succ,31/13
-	Team_2_First_Down_att-succ,31/7
+	Team_2_First_Down_att-succ,21/7
 	Team_1_Field_Goal_Made,[45,25]
 	Team_2_Field_Goal_Made,[23]
 	Team_1_Field_Goal_Missed,[]
@@ -27052,7 +27007,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,27/12
-	Team_2_First_Down_att-succ,27/14
+	Team_2_First_Down_att-succ,35/14
 	Team_1_Field_Goal_Made,[29,27,42]
 	Team_2_Field_Goal_Made,[34]
 	Team_1_Field_Goal_Missed,[]
@@ -27093,7 +27048,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,28/12
-	Team_2_First_Down_att-succ,28/8
+	Team_2_First_Down_att-succ,24/8
 	Team_1_Field_Goal_Made,[29,47,49]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -27134,7 +27089,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,6
 	Team_1_First_Down_att-succ,31/16
-	Team_2_First_Down_att-succ,31/9
+	Team_2_First_Down_att-succ,28/9
 	Team_1_Field_Goal_Made,[23]
 	Team_2_Field_Goal_Made,[25]
 	Team_1_Field_Goal_Missed,[]
@@ -27175,7 +27130,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,27/9
-	Team_2_First_Down_att-succ,27/12
+	Team_2_First_Down_att-succ,34/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[44]
@@ -27216,7 +27171,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,24
 	Team_2_Explosive_passes,12
 	Team_1_First_Down_att-succ,36/13
-	Team_2_First_Down_att-succ,36/17
+	Team_2_First_Down_att-succ,38/17
 	Team_1_Field_Goal_Made,[33,34]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[53,53]
@@ -27257,7 +27212,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,13
 	Team_2_Explosive_passes,13
 	Team_1_First_Down_att-succ,42/18
-	Team_2_First_Down_att-succ,42/16
+	Team_2_First_Down_att-succ,35/16
 	Team_1_Field_Goal_Made,[38]
 	Team_2_Field_Goal_Made,[33,41]
 	Team_1_Field_Goal_Missed,[]
@@ -27298,7 +27253,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,30/13
-	Team_2_First_Down_att-succ,30/8
+	Team_2_First_Down_att-succ,28/8
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -27339,7 +27294,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,8
 	Team_1_First_Down_att-succ,36/13
-	Team_2_First_Down_att-succ,36/12
+	Team_2_First_Down_att-succ,23/12
 	Team_1_Field_Goal_Made,[37,46]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -27380,7 +27335,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,6
 	Team_2_Explosive_passes,11
 	Team_1_First_Down_att-succ,29/17
-	Team_2_First_Down_att-succ,29/13
+	Team_2_First_Down_att-succ,41/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[23,23,20]
 	Team_1_Field_Goal_Missed,[39]
@@ -27421,7 +27376,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,10
 	Team_2_Explosive_passes,7
 	Team_1_First_Down_att-succ,36/18
-	Team_2_First_Down_att-succ,36/13
+	Team_2_First_Down_att-succ,37/13
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[49]
@@ -27462,7 +27417,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,7
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,33/13
-	Team_2_First_Down_att-succ,33/11
+	Team_2_First_Down_att-succ,30/11
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[46,51]
@@ -27503,7 +27458,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,5
 	Team_2_Explosive_passes,9
 	Team_1_First_Down_att-succ,29/13
-	Team_2_First_Down_att-succ,29/6
+	Team_2_First_Down_att-succ,31/6
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -27544,7 +27499,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,9
 	Team_2_Explosive_passes,5
 	Team_1_First_Down_att-succ,33/15
-	Team_2_First_Down_att-succ,33/12
+	Team_2_First_Down_att-succ,35/12
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
@@ -27585,7 +27540,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,15
 	Team_2_Explosive_passes,10
 	Team_1_First_Down_att-succ,54/20
-	Team_2_First_Down_att-succ,54/16
+	Team_2_First_Down_att-succ,38/16
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[22]
 	Team_1_Field_Goal_Missed,[51,25,43]
@@ -27626,7 +27581,7 @@ Southern Miss , Louisiana Tech
 	Team_1_Explosive_passes,4
 	Team_2_Explosive_passes,4
 	Team_1_First_Down_att-succ,19/3
-	Team_2_First_Down_att-succ,19/7
+	Team_2_First_Down_att-succ,23/7
 	Team_1_Field_Goal_Made,[31,32]
 	Team_2_Field_Goal_Made,[43]
 	Team_1_Field_Goal_Missed,[]
