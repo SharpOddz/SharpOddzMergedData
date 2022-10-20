@@ -13,9 +13,9 @@
 	Team_1_4th_Att-Succ,2/2
 	Team_2_4th_Att-Succ,1/1
 	Team_1_Pass_atts-cmps-yds-ints,21/15/156/2
-	Team_2_Pass_atts-cmps-yds-ints,34/20/280/1
+	Team_2_Pass_atts-cmps-yds-ints,33/19/276/1
 	Team_1_Rush_atts-yds,48/163
-	Team_2_Rush_atts-yds,32/108
+	Team_2_Rush_atts-yds,32/107
 	Team_1_Penalties_pens-yds,8/60
 	Team_2_Penalties_pens-yds,8/86
 	Team_1_Fumbles,2
@@ -1037,7 +1037,7 @@
 	Team_1_Drives,11
 	Team_2_Drives,11
 	Team_1_Tackles_For_Loss,11
-	Team_2_Tackles_For_Loss,3
+	Team_2_Tackles_For_Loss,2
 	Team_1_Sacks,7
 	Team_2_Sacks,0
 	Team_1_First_Down_att-succ,32/13
@@ -1046,9 +1046,9 @@
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[30]
-	Team_1_Pass_List,[4,-1,5,6,5,1,0,4,3,0,7,14,-3,8,5,0,3,4,1,7,8,5,-13,2,4,8,0,8,1,0,4,4,7,4,10]
+	Team_1_Pass_List,[4,-1,5,6,5,1,0,4,3,0,7,14,-3,8,5,0,3,4,1,7,8,5,2,4,8,0,8,1,0,4,4,7,4,10]
 	Team_2_Pass_list,[9,0,-3,11,8,3,32,4,7,5,8,-2,-5,6,0,0,11,14,-4,0,0,2]
-	Team_1_Run_List,[4,-1,5,6,5,1,0,4,3,0,7,14,-3,8,5,0,3,4,1,7,8,5,-13,2,4,8,0,8,1,0,4,4,7,4,10]
+	Team_1_Run_List,[4,-1,5,6,5,1,0,4,3,0,7,14,-3,8,5,0,3,4,1,7,8,5,2,4,8,0,8,1,0,4,4,7,4,10]
 	Team_2_Run_list,[9,0,-3,11,8,3,32,4,7,5,8,-2,-5,6,0,0,11,14,-4,0,0,2]
 }
 {
@@ -1778,7 +1778,7 @@
 	Team_1_Drives,12
 	Team_2_Drives,11
 	Team_1_Tackles_For_Loss,2
-	Team_2_Tackles_For_Loss,6
+	Team_2_Tackles_For_Loss,5
 	Team_1_Sacks,0
 	Team_2_Sacks,2
 	Team_1_First_Down_att-succ,27/7
@@ -1787,9 +1787,9 @@
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[36]
 	Team_2_Field_Goal_Missed,[]
-	Team_1_Pass_List,[2,3,3,-2,4,0,-41,0,1,1,14,-1,21,3,2,1,4,9,8,0,5,3,1,1,10]
+	Team_1_Pass_List,[2,3,3,-2,4,0,0,1,1,14,-1,21,3,2,1,4,9,8,0,5,3,1,1,10]
 	Team_2_Pass_list,[9,9,8,4,13,2,6,4,6,5,9,3,6,11,27,9,5,5,24,8,4,4,7,5,17,2,8,11,-5,8,-2,7,2,13,2,7,4,7,10,15]
-	Team_1_Run_List,[2,3,3,-2,4,0,-41,0,1,1,14,-1,21,3,2,1,4,9,8,0,5,3,1,1,10]
+	Team_1_Run_List,[2,3,3,-2,4,0,0,1,1,14,-1,21,3,2,1,4,9,8,0,5,3,1,1,10]
 	Team_2_Run_list,[9,9,8,4,13,2,6,4,6,5,9,3,6,11,27,9,5,5,24,8,4,4,7,5,17,2,8,11,-5,8,-2,7,2,13,2,7,4,7,10,15]
 }
 {
@@ -2718,7 +2718,7 @@
 	Team_1_Sacks,0
 	Team_2_Sacks,1
 	Team_1_First_Down_att-succ,26/7
-	Team_2_First_Down_att-succ,35/14
+	Team_2_First_Down_att-succ,34/14
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[20]
 	Team_1_Field_Goal_Missed,[]
@@ -2831,7 +2831,7 @@
 	Team_1_Drives,11
 	Team_2_Drives,12
 	Team_1_Tackles_For_Loss,2
-	Team_2_Tackles_For_Loss,4
+	Team_2_Tackles_For_Loss,3
 	Team_1_Sacks,0
 	Team_2_Sacks,1
 	Team_1_First_Down_att-succ,28/5
@@ -2840,9 +2840,9 @@
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
-	Team_1_Pass_List,[1,6,5,3,-10,5,1,2,5,-2,4,5,0,10,2,6,2,0,-2,8,0,5,2,6,4,0,3,6,1,2]
+	Team_1_Pass_List,[1,6,5,3,5,1,2,5,-2,4,5,0,10,2,6,2,0,-2,8,0,5,2,6,4,0,3,6,1,2]
 	Team_2_Pass_list,[8,1,1,8,4,3,19,49,3,9,4,2,-1,0,6,10,1,2,8,21,4,-5,7,2,1,6,3,12,24,5,4,6,1,8,39,1,1,1,2,2]
-	Team_1_Run_List,[1,6,5,3,-10,5,1,2,5,-2,4,5,0,10,2,6,2,0,-2,8,0,5,2,6,4,0,3,6,1,2]
+	Team_1_Run_List,[1,6,5,3,5,1,2,5,-2,4,5,0,10,2,6,2,0,-2,8,0,5,2,6,4,0,3,6,1,2]
 	Team_2_Run_list,[8,1,1,8,4,3,19,49,3,9,4,2,-1,0,6,10,1,2,8,21,4,-5,7,2,1,6,3,12,24,5,4,6,1,8,39,1,1,1,2,2]
 }
 {
@@ -3220,7 +3220,7 @@
 	Team_2_Fumbles,1
 	Team_1_Drives,13
 	Team_2_Drives,15
-	Team_1_Tackles_For_Loss,7
+	Team_1_Tackles_For_Loss,6
 	Team_2_Tackles_For_Loss,4
 	Team_1_Sacks,1
 	Team_2_Sacks,1
@@ -3231,9 +3231,9 @@
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[31]
 	Team_1_Pass_List,[3,2,0,5,3,7,9,5,9,0,4,4,15,11,3,4,9,10,-1,3,7,16,8,9,5,2,-1,6,0,3]
-	Team_2_Pass_list,[3,4,3,11,6,2,13,5,4,3,-1,4,-2,15,0,1,-15,1,0,3,0,35,5,9,2,-4,6,1,0,4,15,0,2,1,-2,9,9,10,6,7,7,10,9,4,-1,3]
+	Team_2_Pass_list,[3,4,3,11,6,2,13,5,4,3,-1,4,-2,15,0,1,1,0,3,0,35,5,9,2,-4,6,1,0,4,15,0,2,1,-2,9,9,10,6,7,7,10,9,4,-1,3]
 	Team_1_Run_List,[3,2,0,5,3,7,9,5,9,0,4,4,15,11,3,4,9,10,-1,3,7,16,8,9,5,2,-1,6,0,3]
-	Team_2_Run_list,[3,4,3,11,6,2,13,5,4,3,-1,4,-2,15,0,1,-15,1,0,3,0,35,5,9,2,-4,6,1,0,4,15,0,2,1,-2,9,9,10,6,7,7,10,9,4,-1,3]
+	Team_2_Run_list,[3,4,3,11,6,2,13,5,4,3,-1,4,-2,15,0,1,1,0,3,0,35,5,9,2,-4,6,1,0,4,15,0,2,1,-2,9,9,10,6,7,7,10,9,4,-1,3]
 }
 {
 	ESPN_GAME_ID,401403970
@@ -3610,7 +3610,7 @@
 	Team_2_Fumbles,2
 	Team_1_Drives,9
 	Team_2_Drives,8
-	Team_1_Tackles_For_Loss,7
+	Team_1_Tackles_For_Loss,6
 	Team_2_Tackles_For_Loss,3
 	Team_1_Sacks,4
 	Team_2_Sacks,1
@@ -3621,9 +3621,9 @@
 	Team_1_Field_Goal_Missed,[47]
 	Team_2_Field_Goal_Missed,[30]
 	Team_1_Pass_List,[2,23,3,-3,0,1,7,7,5,3,-2,2,2,4,2,0,4,4,0,7,3,3,7,0,8,7,0,16,1,2,1,1,1,4,4,3]
-	Team_2_Pass_list,[9,9,2,-14,8,2,11,7,8,2,2,15,0,4,5,3,3,1,1,9,4,5,-1,14,24]
+	Team_2_Pass_list,[9,9,2,8,2,11,7,8,2,2,15,0,4,5,3,3,1,1,9,4,5,-1,14,24]
 	Team_1_Run_List,[2,23,3,-3,0,1,7,7,5,3,-2,2,2,4,2,0,4,4,0,7,3,3,7,0,8,7,0,16,1,2,1,1,1,4,4,3]
-	Team_2_Run_list,[9,9,2,-14,8,2,11,7,8,2,2,15,0,4,5,3,3,1,1,9,4,5,-1,14,24]
+	Team_2_Run_list,[9,9,2,8,2,11,7,8,2,2,15,0,4,5,3,3,1,1,9,4,5,-1,14,24]
 }
 {
 	ESPN_GAME_ID,401411101
@@ -3912,9 +3912,9 @@
 	Team_2_3rd_Att-Succ,10/5
 	Team_1_4th_Att-Succ,2/0
 	Team_2_4th_Att-Succ,1/1
-	Team_1_Pass_atts-cmps-yds-ints,39/30/256/1
+	Team_1_Pass_atts-cmps-yds-ints,40/31/259/1
 	Team_2_Pass_atts-cmps-yds-ints,31/22/229/1
-	Team_1_Rush_atts-yds,35/128
+	Team_1_Rush_atts-yds,34/125
 	Team_2_Rush_atts-yds,28/147
 	Team_1_Penalties_pens-yds,7/64
 	Team_2_Penalties_pens-yds,6/45
@@ -4820,7 +4820,7 @@
 	Team_1_Drives,13
 	Team_2_Drives,12
 	Team_1_Tackles_For_Loss,2
-	Team_2_Tackles_For_Loss,10
+	Team_2_Tackles_For_Loss,9
 	Team_1_Sacks,0
 	Team_2_Sacks,2
 	Team_1_First_Down_att-succ,24/6
@@ -4829,9 +4829,9 @@
 	Team_2_Field_Goal_Made,[35,37]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[31]
-	Team_1_Pass_List,[4,4,0,-3,7,-3,3,5,1,5,5,-1,6,3,4,-1,8,6,0,5,4,-14,6,9,1,-2,1]
+	Team_1_Pass_List,[4,4,0,-3,7,-3,3,5,1,5,5,-1,6,3,4,-1,8,6,0,5,4,6,9,1,-2,1]
 	Team_2_Pass_list,[2,2,3,3,5,5,1,3,4,11,7,2,2,16,3,13,-1,1,1,6,4,6,10,1,4,4,2,7,4,-1,29,2,24,6,5,9,0,2,4,1,1,28]
-	Team_1_Run_List,[4,4,0,-3,7,-3,3,5,1,5,5,-1,6,3,4,-1,8,6,0,5,4,-14,6,9,1,-2,1]
+	Team_1_Run_List,[4,4,0,-3,7,-3,3,5,1,5,5,-1,6,3,4,-1,8,6,0,5,4,6,9,1,-2,1]
 	Team_2_Run_list,[2,2,3,3,5,5,1,3,4,11,7,2,2,16,3,13,-1,1,1,6,4,6,10,1,4,4,2,7,4,-1,29,2,24,6,5,9,0,2,4,1,1,28]
 }
 {
@@ -5336,9 +5336,9 @@
 	Team_2_Field_Goal_Made,[49]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[32]
-	Team_1_Pass_List,[4,-1,-1,7,2,-2,-2,2,6,-2,5,1,1,4,4,1,1,1,4,0,0,1,9,9,7,2,0,0,0,3]
+	Team_1_Pass_List,[4,-1,-1,7,2,-2,-2,2,6,-2,5,1,1,4,4,1,1,4,0,0,1,9,9,7,2,0,0,0,3]
 	Team_2_Pass_list,[10,5,4,8,-2,7,10,1,9,3,2,10,3,28,11,6,5,3,11,5,7,7,5,25,7,4,11,0,9,5,2,7,-2,3,17,5,3,5,6,-1,9,3,0,1,20,4,7,5,4,4,-7,3]
-	Team_1_Run_List,[4,-1,-1,7,2,-2,-2,2,6,-2,5,1,1,4,4,1,1,1,4,0,0,1,9,9,7,2,0,0,0,3]
+	Team_1_Run_List,[4,-1,-1,7,2,-2,-2,2,6,-2,5,1,1,4,4,1,1,4,0,0,1,9,9,7,2,0,0,0,3]
 	Team_2_Run_list,[10,5,4,8,-2,7,10,1,9,3,2,10,3,28,11,6,5,3,11,5,7,7,5,25,7,4,11,0,9,5,2,7,-2,3,17,5,3,5,6,-1,9,3,0,1,20,4,7,5,4,4,-7,3]
 }
 {
@@ -5365,7 +5365,7 @@
 	Team_2_Fumbles,0
 	Team_1_Drives,13
 	Team_2_Drives,14
-	Team_1_Tackles_For_Loss,7
+	Team_1_Tackles_For_Loss,5
 	Team_2_Tackles_For_Loss,7
 	Team_1_Sacks,2
 	Team_2_Sacks,7
@@ -5376,9 +5376,9 @@
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
 	Team_1_Pass_List,[6,9,4,6,9,4,3,0,1,3,1,5,1,9,2,0,0,3,1,0,5]
-	Team_2_Pass_list,[8,5,1,5,-1,3,2,3,4,2,4,2,7,4,1,-2,11,6,2,3,3,5,1,6,11,6,2,3,6,7,-12,-12,4,1,-2,5,3,8,8,0,22,2,1]
+	Team_2_Pass_list,[8,5,1,5,-1,3,2,3,4,2,4,2,7,4,1,-2,11,6,2,3,3,5,1,6,11,6,2,3,6,7,4,1,-2,5,3,8,8,0,22,2,1]
 	Team_1_Run_List,[6,9,4,6,9,4,3,0,1,3,1,5,1,9,2,0,0,3,1,0,5]
-	Team_2_Run_list,[8,5,1,5,-1,3,2,3,4,2,4,2,7,4,1,-2,11,6,2,3,3,5,1,6,11,6,2,3,6,7,-12,-12,4,1,-2,5,3,8,8,0,22,2,1]
+	Team_2_Run_list,[8,5,1,5,-1,3,2,3,4,2,4,2,7,4,1,-2,11,6,2,3,3,5,1,6,11,6,2,3,6,7,4,1,-2,5,3,8,8,0,22,2,1]
 }
 {
 	ESPN_GAME_ID,401416595
@@ -5522,7 +5522,7 @@
 	Team_1_Drives,12
 	Team_2_Drives,12
 	Team_1_Tackles_For_Loss,4
-	Team_2_Tackles_For_Loss,6
+	Team_2_Tackles_For_Loss,5
 	Team_1_Sacks,0
 	Team_2_Sacks,2
 	Team_1_First_Down_att-succ,29/10
@@ -5531,9 +5531,9 @@
 	Team_2_Field_Goal_Made,[19]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
-	Team_1_Pass_List,[2,0,0,0,7,2,5,4,9,2,2,0,3,18,3,0,14,1,2,5,8,-15,6,3,3,-9,12,6,0,6,6,-1]
+	Team_1_Pass_List,[2,0,0,0,7,2,5,4,9,2,2,0,3,18,3,0,14,1,2,5,8,6,3,3,-9,12,6,0,6,6,-1]
 	Team_2_Pass_list,[3,2,5,10,5,3,2,6,0,2,0,2,19,8,8,4,15,7,13,2,-1,8,7,3,21,8,-3,7,9,5,6,6,2,9,7,6,6]
-	Team_1_Run_List,[2,0,0,0,7,2,5,4,9,2,2,0,3,18,3,0,14,1,2,5,8,-15,6,3,3,-9,12,6,0,6,6,-1]
+	Team_1_Run_List,[2,0,0,0,7,2,5,4,9,2,2,0,3,18,3,0,14,1,2,5,8,6,3,3,-9,12,6,0,6,6,-1]
 	Team_2_Run_list,[3,2,5,10,5,3,2,6,0,2,0,2,19,8,8,4,15,7,13,2,-1,8,7,3,21,8,-3,7,9,5,6,6,2,9,7,6,6]
 }
 {
@@ -5633,13 +5633,13 @@
 	Team_1_Rush_atts-yds,14/15
 	Team_2_Rush_atts-yds,47/261
 	Team_1_Penalties_pens-yds,9/85
-	Team_2_Penalties_pens-yds,7/64
+	Team_2_Penalties_pens-yds,7/63
 	Team_1_Fumbles,1
 	Team_2_Fumbles,0
 	Team_1_Drives,13
 	Team_2_Drives,14
 	Team_1_Tackles_For_Loss,9
-	Team_2_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,4
 	Team_1_Sacks,5
 	Team_2_Sacks,4
 	Team_1_First_Down_att-succ,23/8
@@ -5648,9 +5648,9 @@
 	Team_2_Field_Goal_Made,[22,22,32]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
-	Team_1_Pass_List,[-18,7,3,0,1,1,10,1,12,22]
+	Team_1_Pass_List,[7,3,0,1,1,10,1,12,22]
 	Team_2_Pass_list,[0,0,5,10,-3,3,4,0,2,5,5,5,-1,9,3,17,2,1,2,2,1,8,10,7,7,0,10,13,13,2,1,-1,0,-2,81,15,1,15,0,0,43]
-	Team_1_Run_List,[-18,7,3,0,1,1,10,1,12,22]
+	Team_1_Run_List,[7,3,0,1,1,10,1,12,22]
 	Team_2_Run_list,[0,0,5,10,-3,3,4,0,2,5,5,5,-1,9,3,17,2,1,2,2,1,8,10,7,7,0,10,13,13,2,1,-1,0,-2,81,15,1,15,0,0,43]
 }
 {
@@ -7355,7 +7355,7 @@
 	Team_1_Drives,12
 	Team_2_Drives,12
 	Team_1_Tackles_For_Loss,4
-	Team_2_Tackles_For_Loss,7
+	Team_2_Tackles_For_Loss,6
 	Team_1_Sacks,0
 	Team_2_Sacks,2
 	Team_1_First_Down_att-succ,31/11
@@ -7364,9 +7364,9 @@
 	Team_2_Field_Goal_Made,[26]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
-	Team_1_Pass_List,[3,3,-6,0,0,2,4,-1,11,1,1,6,1,-1,2,8,2,-1,6,4,-10,1,21,0,1,8]
+	Team_1_Pass_List,[3,3,-6,0,0,2,4,-1,11,1,1,6,1,-1,2,8,2,-1,6,4,1,21,0,1,8]
 	Team_2_Pass_list,[4,8,6,4,3,2,0,0,-1,10,0,2,1,5,5,5,5,0,2,5,2,1,0,0,0,2,0,3,2,1,2,30,-1,-1,-1]
-	Team_1_Run_List,[3,3,-6,0,0,2,4,-1,11,1,1,6,1,-1,2,8,2,-1,6,4,-10,1,21,0,1,8]
+	Team_1_Run_List,[3,3,-6,0,0,2,4,-1,11,1,1,6,1,-1,2,8,2,-1,6,4,1,21,0,1,8]
 	Team_2_Run_list,[4,8,6,4,3,2,0,0,-1,10,0,2,1,5,5,5,5,0,2,5,2,1,0,0,0,2,0,3,2,1,2,30,-1,-1,-1]
 }
 {
@@ -7893,7 +7893,7 @@
 	Team_1_Pass_atts-cmps-yds-ints,32/19/199/1
 	Team_2_Pass_atts-cmps-yds-ints,31/22/297/0
 	Team_1_Rush_atts-yds,27/109
-	Team_2_Rush_atts-yds,41/190
+	Team_2_Rush_atts-yds,41/191
 	Team_1_Penalties_pens-yds,1/5
 	Team_2_Penalties_pens-yds,9/85
 	Team_1_Fumbles,1
@@ -9577,7 +9577,7 @@
 	Team_2_Fumbles,0
 	Team_1_Drives,9
 	Team_2_Drives,10
-	Team_1_Tackles_For_Loss,3
+	Team_1_Tackles_For_Loss,2
 	Team_2_Tackles_For_Loss,4
 	Team_1_Sacks,1
 	Team_2_Sacks,2
@@ -9588,9 +9588,9 @@
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[43]
 	Team_1_Pass_List,[5,3,5,3,6,15,7,7,2,2,1,4,10,3,5,5,12,1,2,0,2,1,6,10,1,34,19,6,4,2,4,7,11,38,22,7,14,-1,0,0,1,1,2,-2]
-	Team_2_Pass_list,[0,-16,14,12,3,1,4,8,1,9,3,5,0,7,11,4,2,3,5,28,2,10,5,6,6,13,3,8,1,3,9,9]
+	Team_2_Pass_list,[0,14,12,3,1,4,8,1,9,3,5,0,7,11,4,2,3,5,28,2,10,5,6,6,13,3,8,1,3,9,9]
 	Team_1_Run_List,[5,3,5,3,6,15,7,7,2,2,1,4,10,3,5,5,12,1,2,0,2,1,6,10,1,34,19,6,4,2,4,7,11,38,22,7,14,-1,0,0,1,1,2,-2]
-	Team_2_Run_list,[0,-16,14,12,3,1,4,8,1,9,3,5,0,7,11,4,2,3,5,28,2,10,5,6,6,13,3,8,1,3,9,9]
+	Team_2_Run_list,[0,14,12,3,1,4,8,1,9,3,5,0,7,11,4,2,3,5,28,2,10,5,6,6,13,3,8,1,3,9,9]
 }
 {
 	ESPN_GAME_ID,401403986
@@ -11293,7 +11293,7 @@
 	Team_2_Fumbles,0
 	Team_1_Drives,15
 	Team_2_Drives,14
-	Team_1_Tackles_For_Loss,3
+	Team_1_Tackles_For_Loss,2
 	Team_2_Tackles_For_Loss,2
 	Team_1_Sacks,1
 	Team_2_Sacks,0
@@ -11304,9 +11304,9 @@
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
 	Team_1_Pass_List,[0,4,10,4,2,2,6,0,2,0,2,3,6,0,7,0,2,-3,9,1,0,3,2,0,10,0,-3,1,1]
-	Team_2_Pass_list,[1,3,6,17,6,19,0,29,1,19,3,7,2,13,1,3,4,2,11,-15,8,3,15,12,35]
+	Team_2_Pass_list,[1,3,6,17,6,19,0,29,1,19,3,7,2,13,1,3,4,2,11,8,3,15,12,35]
 	Team_1_Run_List,[0,4,10,4,2,2,6,0,2,0,2,3,6,0,7,0,2,-3,9,1,0,3,2,0,10,0,-3,1,1]
-	Team_2_Run_list,[1,3,6,17,6,19,0,29,1,19,3,7,2,13,1,3,4,2,11,-15,8,3,15,12,35]
+	Team_2_Run_list,[1,3,6,17,6,19,0,29,1,19,3,7,2,13,1,3,4,2,11,8,3,15,12,35]
 }
 {
 	ESPN_GAME_ID,401426569
@@ -11675,7 +11675,7 @@
 	Team_2_4th_Att-Succ,1/0
 	Team_1_Pass_atts-cmps-yds-ints,40/25/334/1
 	Team_2_Pass_atts-cmps-yds-ints,26/19/249/1
-	Team_1_Rush_atts-yds,25/88
+	Team_1_Rush_atts-yds,25/92
 	Team_2_Rush_atts-yds,32/178
 	Team_1_Penalties_pens-yds,3/30
 	Team_2_Penalties_pens-yds,10/110
@@ -12065,7 +12065,7 @@
 	Team_2_4th_Att-Succ,2/1
 	Team_1_Pass_atts-cmps-yds-ints,30/18/230/1
 	Team_2_Pass_atts-cmps-yds-ints,31/22/166/1
-	Team_1_Rush_atts-yds,43/189
+	Team_1_Rush_atts-yds,43/190
 	Team_2_Rush_atts-yds,36/188
 	Team_1_Penalties_pens-yds,6/77
 	Team_2_Penalties_pens-yds,5/55
@@ -12492,9 +12492,9 @@
 	Team_2_3rd_Att-Succ,13/4
 	Team_1_4th_Att-Succ,1/0
 	Team_2_4th_Att-Succ,1/1
-	Team_1_Pass_atts-cmps-yds-ints,26/13/163/2
+	Team_1_Pass_atts-cmps-yds-ints,26/13/152/2
 	Team_2_Pass_atts-cmps-yds-ints,33/24/233/1
-	Team_1_Rush_atts-yds,35/134
+	Team_1_Rush_atts-yds,35/140
 	Team_2_Rush_atts-yds,34/123
 	Team_1_Penalties_pens-yds,6/73
 	Team_2_Penalties_pens-yds,8/80
@@ -12541,7 +12541,7 @@
 	Team_2_Fumbles,0
 	Team_1_Drives,12
 	Team_2_Drives,11
-	Team_1_Tackles_For_Loss,6
+	Team_1_Tackles_For_Loss,5
 	Team_2_Tackles_For_Loss,10
 	Team_1_Sacks,2
 	Team_2_Sacks,2
@@ -12552,9 +12552,9 @@
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
 	Team_1_Pass_List,[-4,0,2,7,0,-2,1,5,9,1,3,11,-1,-5,-1,27,6,-1,3,1,6,22,1,1,12,9,6,4,4,7,-1]
-	Team_2_Pass_list,[-3,2,1,3,1,4,0,5,-10,3,63,1,1,2,-4,28,0,15,3]
+	Team_2_Pass_list,[-3,2,1,3,1,4,0,5,3,63,1,1,2,-4,28,0,15,3]
 	Team_1_Run_List,[-4,0,2,7,0,-2,1,5,9,1,3,11,-1,-5,-1,27,6,-1,3,1,6,22,1,1,12,9,6,4,4,7,-1]
-	Team_2_Run_list,[-3,2,1,3,1,4,0,5,-10,3,63,1,1,2,-4,28,0,15,3]
+	Team_2_Run_list,[-3,2,1,3,1,4,0,5,3,63,1,1,2,-4,28,0,15,3]
 }
 {
 	ESPN_GAME_ID,401403902
@@ -12581,7 +12581,7 @@
 	Team_1_Drives,15
 	Team_2_Drives,15
 	Team_1_Tackles_For_Loss,8
-	Team_2_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,4
 	Team_1_Sacks,2
 	Team_2_Sacks,1
 	Team_1_First_Down_att-succ,30/7
@@ -12590,9 +12590,9 @@
 	Team_2_Field_Goal_Made,[22,34]
 	Team_1_Field_Goal_Missed,[53]
 	Team_2_Field_Goal_Missed,[]
-	Team_1_Pass_List,[3,7,9,2,7,0,6,8,2,4,1,1,7,7,3,6,1,4,5,1,-1,0,12,6,0,2,0,-24,0,77,-2,3,72,-1,76,1,6,1,7,5]
+	Team_1_Pass_List,[3,7,9,2,7,0,6,8,2,4,1,1,7,7,3,6,1,4,5,1,-1,0,12,6,0,2,0,0,77,-2,3,72,-1,76,1,6,1,7,5]
 	Team_2_Pass_list,[4,11,6,3,2,6,1,13,2,0,0,-4,6,12,5,-2,0,26,3,5,7,3,9,3,-4,13,0,8,0,3,8,9,0,2,-1,3,11,2,0,0,-5,2,5,3,2,9]
-	Team_1_Run_List,[3,7,9,2,7,0,6,8,2,4,1,1,7,7,3,6,1,4,5,1,-1,0,12,6,0,2,0,-24,0,77,-2,3,72,-1,76,1,6,1,7,5]
+	Team_1_Run_List,[3,7,9,2,7,0,6,8,2,4,1,1,7,7,3,6,1,4,5,1,-1,0,12,6,0,2,0,0,77,-2,3,72,-1,76,1,6,1,7,5]
 	Team_2_Run_list,[4,11,6,3,2,6,1,13,2,0,0,-4,6,12,5,-2,0,26,3,5,7,3,9,3,-4,13,0,8,0,3,8,9,0,2,-1,3,11,2,0,0,-5,2,5,3,2,9]
 }
 {
@@ -13400,7 +13400,7 @@
 	Team_1_Drives,16
 	Team_2_Drives,15
 	Team_1_Tackles_For_Loss,3
-	Team_2_Tackles_For_Loss,8
+	Team_2_Tackles_For_Loss,7
 	Team_1_Sacks,1
 	Team_2_Sacks,2
 	Team_1_First_Down_att-succ,28/7
@@ -13409,9 +13409,9 @@
 	Team_2_Field_Goal_Made,[27]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
-	Team_1_Pass_List,[1,0,2,5,9,5,-4,2,-27,-1,2,-1,22,6,7,-4,13,3,2,0,7,-2,9,21,3,2,5]
+	Team_1_Pass_List,[1,0,2,5,9,5,-4,2,-1,2,-1,22,6,7,-4,13,3,2,0,7,-2,9,21,3,2,5]
 	Team_2_Pass_list,[0,1,2,5,2,1,3,1,0,5,1,-1,0,3,1,30,2,6,5,3,11,5,7,4,18,6,2,0,1,7,3,4,6,25,5,9,-4,1,0,5,3,4,2,1,1,2,4]
-	Team_1_Run_List,[1,0,2,5,9,5,-4,2,-27,-1,2,-1,22,6,7,-4,13,3,2,0,7,-2,9,21,3,2,5]
+	Team_1_Run_List,[1,0,2,5,9,5,-4,2,-1,2,-1,22,6,7,-4,13,3,2,0,7,-2,9,21,3,2,5]
 	Team_2_Run_list,[0,1,2,5,2,1,3,1,0,5,1,-1,0,3,1,30,2,6,5,3,11,5,7,4,18,6,2,0,1,7,3,4,6,25,5,9,-4,1,0,5,3,4,2,1,1,2,4]
 }
 {
@@ -13949,7 +13949,7 @@
 	Team_2_Tackles_For_Loss,4
 	Team_1_Sacks,2
 	Team_2_Sacks,1
-	Team_1_First_Down_att-succ,38/18
+	Team_1_First_Down_att-succ,37/18
 	Team_2_First_Down_att-succ,32/11
 	Team_1_Field_Goal_Made,[]
 	Team_2_Field_Goal_Made,[43]
@@ -14023,7 +14023,7 @@
 	Team_2_Fumbles,1
 	Team_1_Drives,12
 	Team_2_Drives,12
-	Team_1_Tackles_For_Loss,5
+	Team_1_Tackles_For_Loss,4
 	Team_2_Tackles_For_Loss,5
 	Team_1_Sacks,1
 	Team_2_Sacks,1
@@ -14034,9 +14034,9 @@
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[29,41]
 	Team_1_Pass_List,[1,0,1,5,3,2,4,-1,3,3,4,3,8,19,2,9,2,1,1,6,0,-1,4,1,8,0,2,4,5,6,-1,1,1,3,21]
-	Team_2_Pass_list,[55,4,-2,17,-15,5,9,6,11,6,1,1,1,2,6,4,0,2,8,12,5,4,2,5,3,7,8,2]
+	Team_2_Pass_list,[55,4,-2,17,5,9,6,11,6,1,1,1,2,6,4,0,2,8,12,5,4,2,5,3,7,8,2]
 	Team_1_Run_List,[1,0,1,5,3,2,4,-1,3,3,4,3,8,19,2,9,2,1,1,6,0,-1,4,1,8,0,2,4,5,6,-1,1,1,3,21]
-	Team_2_Run_list,[55,4,-2,17,-15,5,9,6,11,6,1,1,1,2,6,4,0,2,8,12,5,4,2,5,3,7,8,2]
+	Team_2_Run_list,[55,4,-2,17,5,9,6,11,6,1,1,1,2,6,4,0,2,8,12,5,4,2,5,3,7,8,2]
 }
 {
 	ESPN_GAME_ID,401404004
@@ -14052,9 +14052,9 @@
 	Team_2_3rd_Att-Succ,14/6
 	Team_1_4th_Att-Succ,1/0
 	Team_2_4th_Att-Succ,2/2
-	Team_1_Pass_atts-cmps-yds-ints,37/24/280/0
+	Team_1_Pass_atts-cmps-yds-ints,37/24/279/0
 	Team_2_Pass_atts-cmps-yds-ints,40/27/343/2
-	Team_1_Rush_atts-yds,24/31
+	Team_1_Rush_atts-yds,25/32
 	Team_2_Rush_atts-yds,25/72
 	Team_1_Penalties_pens-yds,7/55
 	Team_2_Penalties_pens-yds,5/35
@@ -14063,18 +14063,18 @@
 	Team_1_Drives,12
 	Team_2_Drives,13
 	Team_1_Tackles_For_Loss,4
-	Team_2_Tackles_For_Loss,8
+	Team_2_Tackles_For_Loss,7
 	Team_1_Sacks,1
 	Team_2_Sacks,4
-	Team_1_First_Down_att-succ,27/11
+	Team_1_First_Down_att-succ,26/11
 	Team_2_First_Down_att-succ,31/13
 	Team_1_Field_Goal_Made,[42]
 	Team_2_Field_Goal_Made,[]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
-	Team_1_Pass_List,[7,0,1,5,4,-2,5,13,1,0,-2,3,3,18,11,0,2,1,-10,3]
+	Team_1_Pass_List,[7,0,1,5,4,-2,5,13,1,0,-2,3,3,18,11,0,2,1,3]
 	Team_2_Pass_list,[-3,6,2,1,2,2,0,0,4,10,5,1,0,3,23,20,10,0,3,5,1]
-	Team_1_Run_List,[7,0,1,5,4,-2,5,13,1,0,-2,3,3,18,11,0,2,1,-10,3]
+	Team_1_Run_List,[7,0,1,5,4,-2,5,13,1,0,-2,3,3,18,11,0,2,1,3]
 	Team_2_Run_list,[-3,6,2,1,2,2,0,0,4,10,5,1,0,3,23,20,10,0,3,5,1]
 }
 {
@@ -14172,7 +14172,7 @@
 	Team_1_Pass_atts-cmps-yds-ints,14/10/173/0
 	Team_2_Pass_atts-cmps-yds-ints,38/21/347/1
 	Team_1_Rush_atts-yds,45/252
-	Team_2_Rush_atts-yds,27/96
+	Team_2_Rush_atts-yds,27/100
 	Team_1_Penalties_pens-yds,10/99
 	Team_2_Penalties_pens-yds,8/76
 	Team_1_Fumbles,1
@@ -14336,7 +14336,7 @@
 	Team_1_Drives,11
 	Team_2_Drives,10
 	Team_1_Tackles_For_Loss,12
-	Team_2_Tackles_For_Loss,6
+	Team_2_Tackles_For_Loss,5
 	Team_1_Sacks,2
 	Team_2_Sacks,3
 	Team_1_First_Down_att-succ,27/11
@@ -14345,9 +14345,9 @@
 	Team_2_Field_Goal_Made,[46]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
-	Team_1_Pass_List,[0,-2,17,2,9,20,3,5,4,3,9,8,4,8,-1,2,1,11,2,1,-10,11,4,6,5,7,22]
+	Team_1_Pass_List,[0,-2,17,2,9,20,3,5,4,3,9,8,4,8,-1,2,1,11,2,1,11,4,6,5,7,22]
 	Team_2_Pass_list,[2,0,23,1,2,3,-1,-1,5,-2,0,-3,2,6,3,5,4,13,-1,9,-4,0,-1,25,6,1,0,1,3,-2,0,5,0,2,-1,-7,10]
-	Team_1_Run_List,[0,-2,17,2,9,20,3,5,4,3,9,8,4,8,-1,2,1,11,2,1,-10,11,4,6,5,7,22]
+	Team_1_Run_List,[0,-2,17,2,9,20,3,5,4,3,9,8,4,8,-1,2,1,11,2,1,11,4,6,5,7,22]
 	Team_2_Run_list,[2,0,23,1,2,3,-1,-1,5,-2,0,-3,2,6,3,5,4,13,-1,9,-4,0,-1,25,6,1,0,1,3,-2,0,5,0,2,-1,-7,10]
 }
 {
@@ -14361,11 +14361,11 @@
 	Team_1_score,34
 	Team_2_score,27
 	Team_1_3rd_Att-Succ,14/5
-	Team_2_3rd_Att-Succ,16/7
+	Team_2_3rd_Att-Succ,16/8
 	Team_1_4th_Att-Succ,3/2
-	Team_2_4th_Att-Succ,5/3
+	Team_2_4th_Att-Succ,4/2
 	Team_1_Pass_atts-cmps-yds-ints,37/23/280/1
-	Team_2_Pass_atts-cmps-yds-ints,56/39/406/1
+	Team_2_Pass_atts-cmps-yds-ints,55/39/406/1
 	Team_1_Rush_atts-yds,39/135
 	Team_2_Rush_atts-yds,29/64
 	Team_1_Penalties_pens-yds,7/70
@@ -14496,15 +14496,15 @@
 	Team_1_Sacks,0
 	Team_2_Sacks,1
 	Team_1_First_Down_att-succ,14/5
-	Team_2_First_Down_att-succ,26/13
+	Team_2_First_Down_att-succ,27/14
 	Team_1_Field_Goal_Made,[34]
 	Team_2_Field_Goal_Made,[34]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
 	Team_1_Pass_List,[8,7,4,4,5,5,-7,1,5,12,15,-1,5]
-	Team_2_Pass_list,[7,6,3,9,2,1,17,5,4,2,2,2,5,4,2,1,4,10,2,11,3,8,14,6,1,5,-1,3,5,8,59,8,4]
+	Team_2_Pass_list,[7,6,3,9,2,1,17,5,4,3,2,2,5,4,2,1,4,10,2,11,3,8,14,6,1,5,-1,3,5,8,59,8,4]
 	Team_1_Run_List,[8,7,4,4,5,5,-7,1,5,12,15,-1,5]
-	Team_2_Run_list,[7,6,3,9,2,1,17,5,4,2,2,2,5,4,2,1,4,10,2,11,3,8,14,6,1,5,-1,3,5,8,59,8,4]
+	Team_2_Run_list,[7,6,3,9,2,1,17,5,4,3,2,2,5,4,2,1,4,10,2,11,3,8,14,6,1,5,-1,3,5,8,59,8,4]
 }
 {
 	ESPN_GAME_ID,401415230
@@ -14594,7 +14594,7 @@
 	Game_Week,5
 	Team_1_score,21
 	Team_2_score,7
-	Team_1_3rd_Att-Succ,11/6
+	Team_1_3rd_Att-Succ,11/5
 	Team_2_3rd_Att-Succ,14/4
 	Team_1_4th_Att-Succ,1/1
 	Team_2_4th_Att-Succ,3/2
@@ -14603,7 +14603,7 @@
 	Team_1_Rush_atts-yds,45/162
 	Team_2_Rush_atts-yds,31/82
 	Team_1_Penalties_pens-yds,5/48
-	Team_2_Penalties_pens-yds,4/30
+	Team_2_Penalties_pens-yds,4/20
 	Team_1_Fumbles,0
 	Team_2_Fumbles,0
 	Team_1_Drives,10
@@ -14725,20 +14725,20 @@
 	Team_2_Fumbles,0
 	Team_1_Drives,14
 	Team_2_Drives,13
-	Team_1_Tackles_For_Loss,5
+	Team_1_Tackles_For_Loss,4
 	Team_2_Tackles_For_Loss,7
 	Team_1_Sacks,1
 	Team_2_Sacks,1
 	Team_1_First_Down_att-succ,38/20
-	Team_2_First_Down_att-succ,33/17
+	Team_2_First_Down_att-succ,32/17
 	Team_1_Field_Goal_Made,[32,24]
 	Team_2_Field_Goal_Made,[41]
 	Team_1_Field_Goal_Missed,[]
 	Team_2_Field_Goal_Missed,[]
 	Team_1_Pass_List,[3,-1,0,1,39,9,3,-1,1,8,4,1,4,7,0,11,6,-2,5,2,0,1,-2,4,3,2,9,1,-1,2]
-	Team_2_Pass_list,[3,2,4,2,3,1,4,9,6,7,0,1,5,2,2,1,3,0,4,17,6,1,-5,1,5,6,16,7,-3,5,6,3,2,5,30,7,3,-11,2]
+	Team_2_Pass_list,[3,2,4,2,3,1,4,9,6,7,0,1,5,2,2,1,3,0,4,17,6,1,-5,1,5,6,16,7,-3,5,6,3,2,5,30,7,3,2]
 	Team_1_Run_List,[3,-1,0,1,39,9,3,-1,1,8,4,1,4,7,0,11,6,-2,5,2,0,1,-2,4,3,2,9,1,-1,2]
-	Team_2_Run_list,[3,2,4,2,3,1,4,9,6,7,0,1,5,2,2,1,3,0,4,17,6,1,-5,1,5,6,16,7,-3,5,6,3,2,5,30,7,3,-11,2]
+	Team_2_Run_list,[3,2,4,2,3,1,4,9,6,7,0,1,5,2,2,1,3,0,4,17,6,1,-5,1,5,6,16,7,-3,5,6,3,2,5,30,7,3,2]
 }
 {
 	ESPN_GAME_ID,401405111
@@ -14913,7 +14913,7 @@
 	Team_1_Pass_atts-cmps-yds-ints,47/25/253/1
 	Team_2_Pass_atts-cmps-yds-ints,19/12/111/1
 	Team_1_Rush_atts-yds,25/70
-	Team_2_Rush_atts-yds,51/288
+	Team_2_Rush_atts-yds,51/286
 	Team_1_Penalties_pens-yds,8/59
 	Team_2_Penalties_pens-yds,6/73
 	Team_1_Fumbles,0
@@ -15069,7 +15069,7 @@
 	Team_1_Pass_atts-cmps-yds-ints,31/18/220/1
 	Team_2_Pass_atts-cmps-yds-ints,42/20/220/0
 	Team_1_Rush_atts-yds,32/144
-	Team_2_Rush_atts-yds,30/34
+	Team_2_Rush_atts-yds,30/25
 	Team_1_Penalties_pens-yds,2/10
 	Team_2_Penalties_pens-yds,3/35
 	Team_1_Fumbles,0
@@ -15613,9 +15613,9 @@
 	Team_1_4th_Att-Succ,3/0
 	Team_2_4th_Att-Succ,4/3
 	Team_1_Pass_atts-cmps-yds-ints,23/10/242/2
-	Team_2_Pass_atts-cmps-yds-ints,48/31/395/0
+	Team_2_Pass_atts-cmps-yds-ints,49/32/406/0
 	Team_1_Rush_atts-yds,44/241
-	Team_2_Rush_atts-yds,37/173
+	Team_2_Rush_atts-yds,36/162
 	Team_1_Penalties_pens-yds,10/84
 	Team_2_Penalties_pens-yds,4/45
 	Team_1_Fumbles,0
@@ -15924,7 +15924,7 @@
 	Team_2_3rd_Att-Succ,7/2
 	Team_1_4th_Att-Succ,4/3
 	Team_2_4th_Att-Succ,2/1
-	Team_1_Pass_atts-cmps-yds-ints,54/43/413/1
+	Team_1_Pass_atts-cmps-yds-ints,54/43/418/1
 	Team_2_Pass_atts-cmps-yds-ints,27/24/427/0
 	Team_1_Rush_atts-yds,26/60
 	Team_2_Rush_atts-yds,31/134
@@ -15959,18 +15959,18 @@
 	Game_Week,6
 	Team_1_score,33
 	Team_2_score,41
-	Team_1_3rd_Att-Succ,14/7
+	Team_1_3rd_Att-Succ,14/8
 	Team_2_3rd_Att-Succ,14/4
 	Team_1_4th_Att-Succ,2/1
 	Team_2_4th_Att-Succ,3/3
-	Team_1_Pass_atts-cmps-yds-ints,49/30/357/4
+	Team_1_Pass_atts-cmps-yds-ints,49/30/360/4
 	Team_2_Pass_atts-cmps-yds-ints,25/16/186/1
-	Team_1_Rush_atts-yds,28/92
-	Team_2_Rush_atts-yds,54/335
+	Team_1_Rush_atts-yds,28/91
+	Team_2_Rush_atts-yds,54/336
 	Team_1_Penalties_pens-yds,7/60
 	Team_2_Penalties_pens-yds,10/108
 	Team_1_Fumbles,1
-	Team_2_Fumbles,1
+	Team_2_Fumbles,0
 	Team_1_Drives,-1
 	Team_2_Drives,-1
 	Team_1_Tackles_For_Loss,-1
@@ -16588,10 +16588,10 @@
 	Team_1_4th_Att-Succ,6/2
 	Team_2_4th_Att-Succ,0/0
 	Team_1_Pass_atts-cmps-yds-ints,53/40/395/1
-	Team_2_Pass_atts-cmps-yds-ints,35/26/281/1
+	Team_2_Pass_atts-cmps-yds-ints,36/26/281/1
 	Team_1_Rush_atts-yds,21/41
 	Team_2_Rush_atts-yds,29/53
-	Team_1_Penalties_pens-yds,11/90
+	Team_1_Penalties_pens-yds,12/105
 	Team_2_Penalties_pens-yds,5/50
 	Team_1_Fumbles,1
 	Team_2_Fumbles,0
@@ -16923,4 +16923,2071 @@
 	Team_2_Pass_list,[18,3,2,2,2,1,0,-1,12,2,2,1,4,0,5,2,0,3,4,2,8,4,11,3,3]
 	Team_1_Run_List,[3,3,5,2,7,11,-2,9,3,5,11,7,1,2,1,6,1,1,11,1,8,3,13,3,2,2,19,2,29,-3,5,-2,3,43,0]
 	Team_2_Run_list,[18,3,2,2,2,1,0,-1,12,2,2,1,4,0,5,2,0,3,4,2,8,4,11,3,3]
+}
+{
+	ESPN_GAME_ID,401426347
+	SHARPODDZ_GAME_ID,72022434
+	Adv_Data,true
+	Team_1,Louisiana
+	Team_2,Marshall
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,23
+	Team_2_score,13
+	Team_1_3rd_Att-Succ,15/5
+	Team_2_3rd_Att-Succ,11/1
+	Team_1_4th_Att-Succ,3/2
+	Team_2_4th_Att-Succ,4/2
+	Team_1_Pass_atts-cmps-yds-ints,29/17/230/0
+	Team_2_Pass_atts-cmps-yds-ints,22/16/137/1
+	Team_1_Rush_atts-yds,34/108
+	Team_2_Rush_atts-yds,44/139
+	Team_1_Penalties_pens-yds,6/52
+	Team_2_Penalties_pens-yds,6/40
+	Team_1_Fumbles,0
+	Team_2_Fumbles,1
+	Team_1_Drives,12
+	Team_2_Drives,11
+	Team_1_Tackles_For_Loss,9
+	Team_2_Tackles_For_Loss,7
+	Team_1_Sacks,5
+	Team_2_Sacks,2
+	Team_1_First_Down_att-succ,28/8
+	Team_2_First_Down_att-succ,29/16
+	Team_1_Field_Goal_Made,[42,33,52]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[45]
+	Team_1_Pass_List,[0,4,-1,7,3,2,2,1,4,2,6,4,2,10,1,6,7,5,6,15,5,-1,1,4,4,-4,2,0,11,-1]
+	Team_2_Pass_list,[2,4,-1,5,-1,5,9,6,2,2,5,12,2,7,3,5,2,3,1,6,6,3,9,0,3,9,12,-3,2,8,4,5,2,1,4,10,5,1]
+	Team_1_Run_List,[0,4,-1,7,3,2,2,1,4,2,6,4,2,10,1,6,7,5,6,15,5,-1,1,4,4,-4,2,0,11,-1]
+	Team_2_Run_list,[2,4,-1,5,-1,5,9,6,2,2,5,12,2,7,3,5,2,3,1,6,6,3,9,0,3,9,12,-3,2,8,4,5,2,1,4,10,5,1]
+}
+{
+	ESPN_GAME_ID,401404092
+	SHARPODDZ_GAME_ID,72022435
+	Adv_Data,true
+	Team_1,Baylor
+	Team_2,West Virginia
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,40
+	Team_2_score,43
+	Team_1_3rd_Att-Succ,11/4
+	Team_2_3rd_Att-Succ,13/7
+	Team_1_4th_Att-Succ,3/3
+	Team_2_4th_Att-Succ,1/0
+	Team_1_Pass_atts-cmps-yds-ints,37/21/421/1
+	Team_2_Pass_atts-cmps-yds-ints,37/24/283/1
+	Team_1_Rush_atts-yds,35/169
+	Team_2_Rush_atts-yds,37/217
+	Team_1_Penalties_pens-yds,2/12
+	Team_2_Penalties_pens-yds,5/46
+	Team_1_Fumbles,3
+	Team_2_Fumbles,0
+	Team_1_Drives,12
+	Team_2_Drives,12
+	Team_1_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,4
+	Team_1_Sacks,0
+	Team_2_Sacks,1
+	Team_1_First_Down_att-succ,36/17
+	Team_2_First_Down_att-succ,35/16
+	Team_1_Field_Goal_Made,[40,44]
+	Team_2_Field_Goal_Made,[23,22]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[2,3,5,2,4,10,2,0,18,3,1,5,5,12,5,2,2,22,1,-1,5,-1,8,4,20,3,8,2,-4]
+	Team_2_Pass_list,[12,1,7,7,1,1,6,0,5,-1,2,0,6,6,1,6,3,15,2,4,7,2,10,2,2,19,3,4,-1,3,-1,34,9,37,6,-1,-2]
+	Team_1_Run_List,[2,3,5,2,4,10,2,0,18,3,1,5,5,12,5,2,2,22,1,-1,5,-1,8,4,20,3,8,2,-4]
+	Team_2_Run_list,[12,1,7,7,1,1,6,0,5,-1,2,0,6,6,1,6,3,15,2,4,7,2,10,2,2,19,3,4,-1,3,-1,34,9,37,6,-1,-2]
+}
+{
+	ESPN_GAME_ID,401415634
+	SHARPODDZ_GAME_ID,72022436
+	Adv_Data,true
+	Team_1,Temple
+	Team_2,UCF
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,13
+	Team_2_score,70
+	Team_1_3rd_Att-Succ,17/7
+	Team_2_3rd_Att-Succ,9/8
+	Team_1_4th_Att-Succ,2/0
+	Team_2_4th_Att-Succ,0/0
+	Team_1_Pass_atts-cmps-yds-ints,44/24/234/0
+	Team_2_Pass_atts-cmps-yds-ints,28/24/433/0
+	Team_1_Rush_atts-yds,27/59
+	Team_2_Rush_atts-yds,41/304
+	Team_1_Penalties_pens-yds,5/33
+	Team_2_Penalties_pens-yds,4/36
+	Team_1_Fumbles,0
+	Team_2_Fumbles,0
+	Team_1_Drives,11
+	Team_2_Drives,11
+	Team_1_Tackles_For_Loss,3
+	Team_2_Tackles_For_Loss,4
+	Team_1_Sacks,1
+	Team_2_Sacks,0
+	Team_1_First_Down_att-succ,30/9
+	Team_2_First_Down_att-succ,33/18
+	Team_1_Field_Goal_Made,[26,49]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[3,4,5,1,0,0,8,5,2,3,3,-2,4,4,6,0,-3,4,5,6,1,1,4,1,1,-3]
+	Team_2_Pass_list,[7,6,3,13,5,9,10,61,1,-5,7,0,20,5,1,3,9,5,2,13,3,5,0,8,37,3,8,43,9,5,4,0,1]
+	Team_1_Run_List,[3,4,5,1,0,0,8,5,2,3,3,-2,4,4,6,0,-3,4,5,6,1,1,4,1,1,-3]
+	Team_2_Run_list,[7,6,3,13,5,9,10,61,1,-5,7,0,20,5,1,3,9,5,2,13,3,5,0,8,37,3,8,43,9,5,4,0,1]
+}
+{
+	ESPN_GAME_ID,401415635
+	SHARPODDZ_GAME_ID,72022437
+	Adv_Data,true
+	Team_1,Navy
+	Team_2,SMU
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,34
+	Team_2_score,40
+	Team_1_3rd_Att-Succ,22/11
+	Team_2_3rd_Att-Succ,9/4
+	Team_1_4th_Att-Succ,7/5
+	Team_2_4th_Att-Succ,0/0
+	Team_1_Pass_atts-cmps-yds-ints,24/9/138/1
+	Team_2_Pass_atts-cmps-yds-ints,27/20/336/0
+	Team_1_Rush_atts-yds,77/372
+	Team_2_Rush_atts-yds,21/105
+	Team_1_Penalties_pens-yds,6/35
+	Team_2_Penalties_pens-yds,5/55
+	Team_1_Fumbles,1
+	Team_2_Fumbles,0
+	Team_1_Drives,11
+	Team_2_Drives,12
+	Team_1_Tackles_For_Loss,9
+	Team_2_Tackles_For_Loss,5
+	Team_1_Sacks,0
+	Team_2_Sacks,1
+	Team_1_First_Down_att-succ,43/16
+	Team_2_First_Down_att-succ,24/7
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[30,46]
+	Team_1_Field_Goal_Missed,[36]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[3,19,13,-1,1,1,3,2,5,5,2,8,19,5,2,0,16,1,17,2,2,1,5,3,1,2,2,-1,5,8,4,-8,9,8,2,1,2,44,6,15,6,3,1,0,4,3,10,6,4,9,1,1,3,15,-5,0,6,1,9,19,4,6,2,7,3,1,1,3,8,8,1]
+	Team_2_Pass_list,[-1,-2,2,-1,11,1,-1,60,6,7,4,8,1,2,0,1,3,-1]
+	Team_1_Run_List,[3,19,13,-1,1,1,3,2,5,5,2,8,19,5,2,0,16,1,17,2,2,1,5,3,1,2,2,-1,5,8,4,-8,9,8,2,1,2,44,6,15,6,3,1,0,4,3,10,6,4,9,1,1,3,15,-5,0,6,1,9,19,4,6,2,7,3,1,1,3,8,8,1]
+	Team_2_Run_list,[-1,-2,2,-1,11,1,-1,60,6,7,4,8,1,2,0,1,3,-1]
+}
+{
+	ESPN_GAME_ID,401426584
+	SHARPODDZ_GAME_ID,72022438
+	Adv_Data,true
+	Team_1,UTSA
+	Team_2,Florida International
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,30
+	Team_2_score,10
+	Team_1_3rd_Att-Succ,14/6
+	Team_2_3rd_Att-Succ,16/2
+	Team_1_4th_Att-Succ,2/1
+	Team_2_4th_Att-Succ,4/1
+	Team_1_Pass_atts-cmps-yds-ints,39/24/303/0
+	Team_2_Pass_atts-cmps-yds-ints,39/20/186/1
+	Team_1_Rush_atts-yds,36/130
+	Team_2_Rush_atts-yds,36/137
+	Team_1_Penalties_pens-yds,3/30
+	Team_2_Penalties_pens-yds,7/52
+	Team_1_Fumbles,2
+	Team_2_Fumbles,0
+	Team_1_Drives,14
+	Team_2_Drives,13
+	Team_1_Tackles_For_Loss,3
+	Team_2_Tackles_For_Loss,1
+	Team_1_Sacks,3
+	Team_2_Sacks,1
+	Team_1_First_Down_att-succ,37/16
+	Team_2_First_Down_att-succ,31/12
+	Team_1_Field_Goal_Made,[44]
+	Team_2_Field_Goal_Made,[41]
+	Team_1_Field_Goal_Missed,[41]
+	Team_2_Field_Goal_Missed,[41]
+	Team_1_Pass_List,[3,1,2,9,0,2,2,4,8,2,3,4,3,11,9,5,9,5,1,12,2,3,2,2,23,4,12,7,3,4]
+	Team_2_Pass_list,[6,3,1,17,9,3,3,1,35,3,0,4,2,13,16,1,2,1,1,0,16,2,3,1,2,9,1,14,1,5,15]
+	Team_1_Run_List,[3,1,2,9,0,2,2,4,8,2,3,4,3,11,9,5,9,5,1,12,2,3,2,2,23,4,12,7,3,4]
+	Team_2_Run_list,[6,3,1,17,9,3,3,1,35,3,0,4,2,13,16,1,2,1,1,0,16,2,3,1,2,9,1,14,1,5,15]
+}
+{
+	ESPN_GAME_ID,401403918
+	SHARPODDZ_GAME_ID,72022439
+	Adv_Data,true
+	Team_1,Vanderbilt
+	Team_2,Georgia
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,0
+	Team_2_score,55
+	Team_1_3rd_Att-Succ,13/5
+	Team_2_3rd_Att-Succ,13/8
+	Team_1_4th_Att-Succ,1/0
+	Team_2_4th_Att-Succ,1/1
+	Team_1_Pass_atts-cmps-yds-ints,24/12/105/0
+	Team_2_Pass_atts-cmps-yds-ints,41/32/387/0
+	Team_1_Rush_atts-yds,23/45
+	Team_2_Rush_atts-yds,38/192
+	Team_1_Penalties_pens-yds,5/42
+	Team_2_Penalties_pens-yds,3/29
+	Team_1_Fumbles,1
+	Team_2_Fumbles,0
+	Team_1_Drives,10
+	Team_2_Drives,11
+	Team_1_Tackles_For_Loss,6
+	Team_2_Tackles_For_Loss,3
+	Team_1_Sacks,1
+	Team_2_Sacks,0
+	Team_1_First_Down_att-succ,19/4
+	Team_2_First_Down_att-succ,38/22
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[28,35]
+	Team_1_Field_Goal_Missed,[44]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[1,3,2,2,-3,1,4,3,1,-1,2,3,3,5,4,2,8,1,0]
+	Team_2_Pass_list,[8,2,8,9,4,-1,1,7,11,5,3,3,3,3,1,6,2,6,4,-1,7,5,20,5,3,0,5,3,2,-1,14,13,-2,6,3,36]
+	Team_1_Run_List,[1,3,2,2,-3,1,4,3,1,-1,2,3,3,5,4,2,8,1,0]
+	Team_2_Run_list,[8,2,8,9,4,-1,1,7,11,5,3,3,3,3,1,6,2,6,4,-1,7,5,20,5,3,0,5,3,2,-1,14,13,-2,6,3,36]
+}
+{
+	ESPN_GAME_ID,401403921
+	SHARPODDZ_GAME_ID,72022440
+	Adv_Data,true
+	Team_1,Alabama
+	Team_2,Tennessee
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,49
+	Team_2_score,52
+	Team_1_3rd_Att-Succ,13/6
+	Team_2_3rd_Att-Succ,10/5
+	Team_1_4th_Att-Succ,1/1
+	Team_2_4th_Att-Succ,2/0
+	Team_1_Pass_atts-cmps-yds-ints,52/35/455/0
+	Team_2_Pass_atts-cmps-yds-ints,31/21/385/1
+	Team_1_Rush_atts-yds,31/114
+	Team_2_Rush_atts-yds,39/182
+	Team_1_Penalties_pens-yds,17/130
+	Team_2_Penalties_pens-yds,6/39
+	Team_1_Fumbles,1
+	Team_2_Fumbles,1
+	Team_1_Drives,11
+	Team_2_Drives,14
+	Team_1_Tackles_For_Loss,2
+	Team_2_Tackles_For_Loss,5
+	Team_1_Sacks,1
+	Team_2_Sacks,1
+	Team_1_First_Down_att-succ,42/16
+	Team_2_First_Down_att-succ,39/25
+	Team_1_Field_Goal_Made,[21,43]
+	Team_2_Field_Goal_Made,[40]
+	Team_1_Field_Goal_Missed,[50]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[0,0,4,8,2,9,3,15,5,1,4,11,1,8,6,-5,-3,26,3,3,4,2,3,3,6,3,1,3,0]
+	Team_2_Pass_list,[20,5,0,7,1,2,11,5,3,0,7,2,8,4,3,6,4,9,5,-3,6,3,12,9,3,4,7,10,2,9,4,2,5,11,3,5,1]
+	Team_1_Run_List,[0,0,4,8,2,9,3,15,5,1,4,11,1,8,6,-5,-3,26,3,3,4,2,3,3,6,3,1,3,0]
+	Team_2_Run_list,[20,5,0,7,1,2,11,5,3,0,7,2,8,4,3,6,4,9,5,-3,6,3,12,9,3,4,7,10,2,9,4,2,5,11,3,5,1]
+}
+{
+	ESPN_GAME_ID,401411138
+	SHARPODDZ_GAME_ID,72022441
+	Adv_Data,true
+	Team_1,Clemson
+	Team_2,Florida State
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,34
+	Team_2_score,28
+	Team_1_3rd_Att-Succ,17/9
+	Team_2_3rd_Att-Succ,13/7
+	Team_1_4th_Att-Succ,1/1
+	Team_2_4th_Att-Succ,4/1
+	Team_1_Pass_atts-cmps-yds-ints,23/15/203/0
+	Team_2_Pass_atts-cmps-yds-ints,42/24/254/0
+	Team_1_Rush_atts-yds,44/167
+	Team_2_Rush_atts-yds,34/206
+	Team_1_Penalties_pens-yds,8/72
+	Team_2_Penalties_pens-yds,3/17
+	Team_1_Fumbles,0
+	Team_2_Fumbles,1
+	Team_1_Drives,11
+	Team_2_Drives,11
+	Team_1_Tackles_For_Loss,8
+	Team_2_Tackles_For_Loss,7
+	Team_1_Sacks,1
+	Team_2_Sacks,3
+	Team_1_First_Down_att-succ,27/10
+	Team_2_First_Down_att-succ,36/18
+	Team_1_Field_Goal_Made,[47,34]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[2,2,2,5,1,2,14,1,2,6,1,3,1,5,11,1,3,36,1,5,-1,0,7,5,2,1,3,4,2,9,11,3,5,4,2,4,11,-3,-3,-1]
+	Team_2_Pass_list,[4,3,19,-2,20,4,16,4,8,6,1,-1,5,1,5,11,20,8,19,-2,11,-5,4,0,8,6,14,-2,9,25,-2,10]
+	Team_1_Run_List,[2,2,2,5,1,2,14,1,2,6,1,3,1,5,11,1,3,36,1,5,-1,0,7,5,2,1,3,4,2,9,11,3,5,4,2,4,11,-3,-3,-1]
+	Team_2_Run_list,[4,3,19,-2,20,4,16,4,8,6,1,-1,5,1,5,11,20,8,19,-2,11,-5,4,0,8,6,14,-2,9,25,-2,10]
+}
+{
+	ESPN_GAME_ID,401405115
+	SHARPODDZ_GAME_ID,72022442
+	Adv_Data,true
+	Team_1,Penn State
+	Team_2,Michigan
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,17
+	Team_2_score,41
+	Team_1_3rd_Att-Succ,12/4
+	Team_2_3rd_Att-Succ,17/11
+	Team_1_4th_Att-Succ,4/1
+	Team_2_4th_Att-Succ,1/1
+	Team_1_Pass_atts-cmps-yds-ints,29/12/157/0
+	Team_2_Pass_atts-cmps-yds-ints,24/17/145/1
+	Team_1_Rush_atts-yds,22/111
+	Team_2_Rush_atts-yds,55/418
+	Team_1_Penalties_pens-yds,5/55
+	Team_2_Penalties_pens-yds,9/61
+	Team_1_Fumbles,0
+	Team_2_Fumbles,0
+	Team_1_Drives,9
+	Team_2_Drives,10
+	Team_1_Tackles_For_Loss,7
+	Team_2_Tackles_For_Loss,5
+	Team_1_Sacks,1
+	Team_2_Sacks,2
+	Team_1_First_Down_att-succ,21/3
+	Team_2_First_Down_att-succ,38/16
+	Team_1_Field_Goal_Made,[27]
+	Team_2_Field_Goal_Made,[29,24,23,37]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[1,-1,3,-2,62,2,1,1,-1,2,4,6,2,1,13,3,4,4,6,9]
+	Team_2_Pass_list,[6,12,5,3,1,5,9,5,5,4,-3,1,5,12,8,5,7,2,1,1,25,8,11,0,13,-2,11,3,5,0,0,8,67,61,3,4,2,6,5,3,1,4,-1,21,10,-4,28,3,4,0,12,6]
+	Team_1_Run_List,[1,-1,3,-2,62,2,1,1,-1,2,4,6,2,1,13,3,4,4,6,9]
+	Team_2_Run_list,[6,12,5,3,1,5,9,5,5,4,-3,1,5,12,8,5,7,2,1,1,25,8,11,0,13,-2,11,3,5,0,0,8,67,61,3,4,2,6,5,3,1,4,-1,21,10,-4,28,3,4,0,12,6]
+}
+{
+	ESPN_GAME_ID,401404017
+	SHARPODDZ_GAME_ID,72022443
+	Adv_Data,true
+	Team_1,USC
+	Team_2,Utah
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,42
+	Team_2_score,43
+	Team_1_3rd_Att-Succ,9/5
+	Team_2_3rd_Att-Succ,13/7
+	Team_1_4th_Att-Succ,2/0
+	Team_2_4th_Att-Succ,3/3
+	Team_1_Pass_atts-cmps-yds-ints,42/25/381/0
+	Team_2_Pass_atts-cmps-yds-ints,45/31/424/0
+	Team_1_Rush_atts-yds,27/175
+	Team_2_Rush_atts-yds,32/138
+	Team_1_Penalties_pens-yds,12/93
+	Team_2_Penalties_pens-yds,5/42
+	Team_1_Fumbles,0
+	Team_2_Fumbles,1
+	Team_1_Drives,11
+	Team_2_Drives,10
+	Team_1_Tackles_For_Loss,1
+	Team_2_Tackles_For_Loss,7
+	Team_1_Sacks,0
+	Team_2_Sacks,4
+	Team_1_First_Down_att-succ,42/17
+	Team_2_First_Down_att-succ,39/17
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[34]
+	Team_1_Pass_List,[55,10,8,17,0,1,20,2,3,17,2,2,-3,11,4,10,24,4,14,3,8,2]
+	Team_2_Pass_list,[0,-4,7,5,2,7,9,12,2,6,0,3,2,5,21,6,0,11,3,3,0,4,13,2,2,1,3,5,0,7,0,1]
+	Team_1_Run_List,[55,10,8,17,0,1,20,2,3,17,2,2,-3,11,4,10,24,4,14,3,8,2]
+	Team_2_Run_list,[0,-4,7,5,2,7,9,12,2,6,0,3,2,5,21,6,0,11,3,3,0,4,13,2,2,1,3,5,0,7,0,1]
+}
+{
+	ESPN_GAME_ID,401404095
+	SHARPODDZ_GAME_ID,72022444
+	Adv_Data,true
+	Team_1,Oklahoma State
+	Team_2,TCU
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,40
+	Team_2_score,43
+	Team_1_3rd_Att-Succ,17/6
+	Team_2_3rd_Att-Succ,13/3
+	Team_1_4th_Att-Succ,1/1
+	Team_2_4th_Att-Succ,1/0
+	Team_1_Pass_atts-cmps-yds-ints,36/16/245/1
+	Team_2_Pass_atts-cmps-yds-ints,40/23/286/0
+	Team_1_Rush_atts-yds,41/141
+	Team_2_Rush_atts-yds,43/224
+	Team_1_Penalties_pens-yds,6/49
+	Team_2_Penalties_pens-yds,4/40
+	Team_1_Fumbles,0
+	Team_2_Fumbles,1
+	Team_1_Drives,15
+	Team_2_Drives,13
+	Team_1_Tackles_For_Loss,2
+	Team_2_Tackles_For_Loss,7
+	Team_1_Sacks,1
+	Team_2_Sacks,2
+	Team_1_First_Down_att-succ,31/12
+	Team_2_First_Down_att-succ,39/18
+	Team_1_Field_Goal_Made,[35,34,32]
+	Team_2_Field_Goal_Made,[47,35,34]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[7,29,5,4,8,0,2,0,7,9,2,17,-3,3,-1,2,1,-1,5,0,1,8,1,2,6,11,3,3,2,-1,6,10,1,1,3,-1]
+	Team_2_Pass_list,[3,10,2,10,0,0,1,5,2,16,1,1,4,11,13,12,9,0,4,16,9,4,21,8,10,6,0,8,3,1,14,3,2,1]
+	Team_1_Run_List,[7,29,5,4,8,0,2,0,7,9,2,17,-3,3,-1,2,1,-1,5,0,1,8,1,2,6,11,3,3,2,-1,6,10,1,1,3,-1]
+	Team_2_Run_list,[3,10,2,10,0,0,1,5,2,16,1,1,4,11,13,12,9,0,4,16,9,4,21,8,10,6,0,8,3,1,14,3,2,1]
+}
+{
+	ESPN_GAME_ID,401403920
+	SHARPODDZ_GAME_ID,72022445
+	Adv_Data,true
+	Team_1,Auburn
+	Team_2,Ole Miss
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,34
+	Team_2_score,48
+	Team_1_3rd_Att-Succ,14/5
+	Team_2_3rd_Att-Succ,19/12
+	Team_1_4th_Att-Succ,3/2
+	Team_2_4th_Att-Succ,2/1
+	Team_1_Pass_atts-cmps-yds-ints,17/8/140/2
+	Team_2_Pass_atts-cmps-yds-ints,19/9/130/1
+	Team_1_Rush_atts-yds,48/301
+	Team_2_Rush_atts-yds,69/448
+	Team_1_Penalties_pens-yds,5/47
+	Team_2_Penalties_pens-yds,6/50
+	Team_1_Fumbles,1
+	Team_2_Fumbles,0
+	Team_1_Drives,12
+	Team_2_Drives,13
+	Team_1_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,6
+	Team_1_Sacks,1
+	Team_2_Sacks,2
+	Team_1_First_Down_att-succ,29/7
+	Team_2_First_Down_att-succ,41/18
+	Team_1_Field_Goal_Made,[42,28]
+	Team_2_Field_Goal_Made,[23,42]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[11,1,12,8,7,2,2,2,10,-3,8,2,-1,2,4,4,12,2,48,1,2,2,1,7,0,2,50,1,2,5,3,22,-1,11,50,1,20,2,-4,2,1,8,2]
+	Team_2_Pass_list,[3,6,2,5,22,8,1,-1,36,3,5,11,2,3,5,5,6,5,3,3,2,2,24,3,4,0,3,-3,15,18,15,3,6,4,3,2,2,1,5,2,22,7,5,4,9,3,2,2,11,7,1,2,2,8,6,9,2,15,41,4,4,20,-1,-1]
+	Team_1_Run_List,[11,1,12,8,7,2,2,2,10,-3,8,2,-1,2,4,4,12,2,48,1,2,2,1,7,0,2,50,1,2,5,3,22,-1,11,50,1,20,2,-4,2,1,8,2]
+	Team_2_Run_list,[3,6,2,5,22,8,1,-1,36,3,5,11,2,3,5,5,6,5,3,3,2,2,24,3,4,0,3,-3,15,18,15,3,6,4,3,2,2,1,5,2,22,7,5,4,9,3,2,2,11,7,1,2,2,8,6,9,2,15,41,4,4,20,-1,-1]
+}
+{
+	ESPN_GAME_ID,401411139
+	SHARPODDZ_GAME_ID,72022446
+	Adv_Data,true
+	Team_1,NC State
+	Team_2,Syracuse
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,9
+	Team_2_score,24
+	Team_1_3rd_Att-Succ,16/5
+	Team_2_3rd_Att-Succ,8/4
+	Team_1_4th_Att-Succ,4/3
+	Team_2_4th_Att-Succ,1/1
+	Team_1_Pass_atts-cmps-yds-ints,31/18/160/0
+	Team_2_Pass_atts-cmps-yds-ints,25/16/210/2
+	Team_1_Rush_atts-yds,38/95
+	Team_2_Rush_atts-yds,30/179
+	Team_1_Penalties_pens-yds,7/50
+	Team_2_Penalties_pens-yds,7/60
+	Team_1_Fumbles,0
+	Team_2_Fumbles,0
+	Team_1_Drives,9
+	Team_2_Drives,8
+	Team_1_Tackles_For_Loss,3
+	Team_2_Tackles_For_Loss,7
+	Team_1_Sacks,0
+	Team_2_Sacks,4
+	Team_1_First_Down_att-succ,26/9
+	Team_2_First_Down_att-succ,27/10
+	Team_1_Field_Goal_Made,[20,42,36]
+	Team_2_Field_Goal_Made,[22]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[3,4,3,6,8,3,0,-3,2,5,-5,8,1,9,6,0,13,0,3,4,7,7,5,5,4,7,1,5,1,7,2,2]
+	Team_2_Pass_list,[38,0,11,5,0,9,5,4,0,0,10,0,8,13,0,3,-1,11,4,0,2,5,4,2,2,-1,25]
+	Team_1_Run_List,[3,4,3,6,8,3,0,-3,2,5,-5,8,1,9,6,0,13,0,3,4,7,7,5,5,4,7,1,5,1,7,2,2]
+	Team_2_Run_list,[38,0,11,5,0,9,5,4,0,0,10,0,8,13,0,3,-1,11,4,0,2,5,4,2,2,-1,25]
+}
+{
+	ESPN_GAME_ID,401403919
+	SHARPODDZ_GAME_ID,72022447
+	Adv_Data,true
+	Team_1,Mississippi State
+	Team_2,Kentucky
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,17
+	Team_2_score,27
+	Team_1_3rd_Att-Succ,11/3
+	Team_2_3rd_Att-Succ,15/6
+	Team_1_4th_Att-Succ,2/1
+	Team_2_4th_Att-Succ,5/4
+	Team_1_Pass_atts-cmps-yds-ints,37/25/203/1
+	Team_2_Pass_atts-cmps-yds-ints,25/19/239/1
+	Team_1_Rush_atts-yds,10/22
+	Team_2_Rush_atts-yds,48/239
+	Team_1_Penalties_pens-yds,13/109
+	Team_2_Penalties_pens-yds,11/84
+	Team_1_Fumbles,0
+	Team_2_Fumbles,1
+	Team_1_Drives,9
+	Team_2_Drives,10
+	Team_1_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,4
+	Team_1_Sacks,1
+	Team_2_Sacks,1
+	Team_1_First_Down_att-succ,24/10
+	Team_2_First_Down_att-succ,34/14
+	Team_1_Field_Goal_Made,[48]
+	Team_2_Field_Goal_Made,[28,37]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[51]
+	Team_1_Pass_List,[16,7,2,5,0,-1,-5,0,3]
+	Team_2_Pass_list,[2,6,4,0,8,9,0,1,4,5,0,4,0,6,5,4,2,1,13,-1,6,11,-1,10,8,3,47,2,4,-1,15,4,3,2,16,2,12,6,0,7,1,4,5,0,6,-1,0]
+	Team_1_Run_List,[16,7,2,5,0,-1,-5,0,3]
+	Team_2_Run_list,[2,6,4,0,8,9,0,1,4,5,0,4,0,6,5,4,2,1,13,-1,6,11,-1,10,8,3,47,2,4,-1,15,4,3,2,16,2,12,6,0,7,1,4,5,0,6,-1,0]
+}
+{
+	ESPN_GAME_ID,401404094
+	SHARPODDZ_GAME_ID,72022448
+	Adv_Data,false
+	Team_1,Kansas
+	Team_2,Oklahoma
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,42
+	Team_2_score,52
+	Team_1_3rd_Att-Succ,11/5
+	Team_2_3rd_Att-Succ,21/16
+	Team_1_4th_Att-Succ,0/0
+	Team_2_4th_Att-Succ,1/1
+	Team_1_Pass_atts-cmps-yds-ints,27/16/265/2
+	Team_2_Pass_atts-cmps-yds-ints,43/29/403/1
+	Team_1_Rush_atts-yds,35/165
+	Team_2_Rush_atts-yds,57/298
+	Team_1_Penalties_pens-yds,5/45
+	Team_2_Penalties_pens-yds,4/45
+	Team_1_Fumbles,0
+	Team_2_Fumbles,2
+	Team_1_Drives,-1
+	Team_2_Drives,-1
+	Team_1_Tackles_For_Loss,-1
+	Team_2_Tackles_For_Loss,-1
+	Team_1_Sacks,-1
+	Team_2_Sacks,-1
+	Team_1_First_Down_att-succ,-1/-1
+	Team_2_First_Down_att-succ,-1/-1
+	Team_1_Field_Goal_Made,
+	Team_2_Field_Goal_Made,
+	Team_1_Field_Goal_Missed,
+	Team_2_Field_Goal_Missed,
+	Team_1_Pass_List,
+	Team_2_Pass_list,
+	Team_1_Run_List,
+	Team_2_Run_list,
+}
+{
+	ESPN_GAME_ID,401404093
+	SHARPODDZ_GAME_ID,72022449
+	Adv_Data,true
+	Team_1,Iowa State
+	Team_2,Texas
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,21
+	Team_2_score,24
+	Team_1_3rd_Att-Succ,15/9
+	Team_2_3rd_Att-Succ,13/6
+	Team_1_4th_Att-Succ,1/1
+	Team_2_4th_Att-Succ,2/1
+	Team_1_Pass_atts-cmps-yds-ints,36/25/329/1
+	Team_2_Pass_atts-cmps-yds-ints,26/17/172/0
+	Team_1_Rush_atts-yds,28/74
+	Team_2_Rush_atts-yds,43/191
+	Team_1_Penalties_pens-yds,6/40
+	Team_2_Penalties_pens-yds,4/30
+	Team_1_Fumbles,1
+	Team_2_Fumbles,0
+	Team_1_Drives,10
+	Team_2_Drives,10
+	Team_1_Tackles_For_Loss,6
+	Team_2_Tackles_For_Loss,3
+	Team_1_Sacks,0
+	Team_2_Sacks,1
+	Team_1_First_Down_att-succ,28/10
+	Team_2_First_Down_att-succ,32/17
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[31]
+	Team_1_Field_Goal_Missed,[46]
+	Team_2_Field_Goal_Missed,[39]
+	Team_1_Pass_List,[1,4,4,1,2,4,8,0,0,1,3,7,-3,2,3,10,1,8,1,3,3,-3,2,11,3,2]
+	Team_2_Pass_list,[0,-4,4,7,9,5,2,3,7,3,25,1,7,3,4,8,7,9,7,1,10,5,1,2,3,6,3,1,5,14,14,16,4,0,7,1,-2,4,5,2,-1,-1]
+	Team_1_Run_List,[1,4,4,1,2,4,8,0,0,1,3,7,-3,2,3,10,1,8,1,3,3,-3,2,11,3,2]
+	Team_2_Run_list,[0,-4,4,7,9,5,2,3,7,3,25,1,7,3,4,8,7,9,7,1,10,5,1,2,3,6,3,1,5,14,14,16,4,0,7,1,-2,4,5,2,-1,-1]
+}
+{
+	ESPN_GAME_ID,401405112
+	SHARPODDZ_GAME_ID,72022450
+	Adv_Data,true
+	Team_1,Minnesota
+	Team_2,Illinois
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,14
+	Team_2_score,26
+	Team_1_3rd_Att-Succ,7/2
+	Team_2_3rd_Att-Succ,17/6
+	Team_1_4th_Att-Succ,1/1
+	Team_2_4th_Att-Succ,4/4
+	Team_1_Pass_atts-cmps-yds-ints,18/6/38/3
+	Team_2_Pass_atts-cmps-yds-ints,32/25/252/0
+	Team_1_Rush_atts-yds,24/142
+	Team_2_Rush_atts-yds,54/220
+	Team_1_Penalties_pens-yds,2/20
+	Team_2_Penalties_pens-yds,6/56
+	Team_1_Fumbles,0
+	Team_2_Fumbles,0
+	Team_1_Drives,10
+	Team_2_Drives,10
+	Team_1_Tackles_For_Loss,0
+	Team_2_Tackles_For_Loss,2
+	Team_1_Sacks,0
+	Team_2_Sacks,2
+	Team_1_First_Down_att-succ,20/5
+	Team_2_First_Down_att-succ,35/12
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[31,23,23,30]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[13,3,19,3,1,7,2,1,4,44,2,9,4,21,2,6,1,7,3,6,4]
+	Team_2_Pass_list,[6,2,8,3,2,3,4,2,16,3,2,2,3,3,6,5,6,2,10,1,1,14,7,1,6,0,4,7,17,1,5,2,1,5,7,3,4,14,1,2,11,1,23,3,4,2,1,1,3,3,4,8]
+	Team_1_Run_List,[13,3,19,3,1,7,2,1,4,44,2,9,4,21,2,6,1,7,3,6,4]
+	Team_2_Run_list,[6,2,8,3,2,3,4,2,16,3,2,2,3,3,6,5,6,2,10,1,1,14,7,1,6,0,4,7,17,1,5,2,1,5,7,3,4,14,1,2,11,1,23,3,4,2,1,1,3,3,4,8]
+}
+{
+	ESPN_GAME_ID,401426349
+	SHARPODDZ_GAME_ID,72022451
+	Adv_Data,true
+	Team_1,James Madison
+	Team_2,Georgia Southern
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,38
+	Team_2_score,45
+	Team_1_3rd_Att-Succ,16/7
+	Team_2_3rd_Att-Succ,18/6
+	Team_1_4th_Att-Succ,3/1
+	Team_2_4th_Att-Succ,1/1
+	Team_1_Pass_atts-cmps-yds-ints,48/28/468/3
+	Team_2_Pass_atts-cmps-yds-ints,64/38/578/1
+	Team_1_Rush_atts-yds,40/207
+	Team_2_Rush_atts-yds,16/12
+	Team_1_Penalties_pens-yds,10/54
+	Team_2_Penalties_pens-yds,7/75
+	Team_1_Fumbles,1
+	Team_2_Fumbles,0
+	Team_1_Drives,16
+	Team_2_Drives,16
+	Team_1_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,5
+	Team_1_Sacks,0
+	Team_2_Sacks,3
+	Team_1_First_Down_att-succ,43/20
+	Team_2_First_Down_att-succ,38/15
+	Team_1_Field_Goal_Made,[26]
+	Team_2_Field_Goal_Made,[20,41,24]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[39]
+	Team_1_Pass_List,[5,2,3,6,1,17,15,3,23,2,6,0,13,0,1,7,3,3,9,2,4,5,11,8,-2,21,5,10,16,2,-5,7,2,7,9,2,1]
+	Team_2_Pass_list,[1,6,0,-2,1,1,4,-2,1,-4,-2,1,4,4,0]
+	Team_1_Run_List,[5,2,3,6,1,17,15,3,23,2,6,0,13,0,1,7,3,3,9,2,4,5,11,8,-2,21,5,10,16,2,-5,7,2,7,9,2,1]
+	Team_2_Run_list,[1,6,0,-2,1,1,4,-2,1,-4,-2,1,4,4,0]
+}
+{
+	ESPN_GAME_ID,401404139
+	SHARPODDZ_GAME_ID,72022452
+	Adv_Data,true
+	Team_1,Colgate
+	Team_2,Army
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,17
+	Team_2_score,42
+	Team_1_3rd_Att-Succ,14/7
+	Team_2_3rd_Att-Succ,10/8
+	Team_1_4th_Att-Succ,3/1
+	Team_2_4th_Att-Succ,0/0
+	Team_1_Pass_atts-cmps-yds-ints,32/18/149/1
+	Team_2_Pass_atts-cmps-yds-ints,3/0/0/0
+	Team_1_Rush_atts-yds,32/193
+	Team_2_Rush_atts-yds,55/467
+	Team_1_Penalties_pens-yds,4/30
+	Team_2_Penalties_pens-yds,8/55
+	Team_1_Fumbles,1
+	Team_2_Fumbles,1
+	Team_1_Drives,10
+	Team_2_Drives,11
+	Team_1_Tackles_For_Loss,0
+	Team_2_Tackles_For_Loss,0
+	Team_1_Sacks,0
+	Team_2_Sacks,0
+	Team_1_First_Down_att-succ,27/10
+	Team_2_First_Down_att-succ,29/15
+	Team_1_Field_Goal_Made,[49]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[52]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[23,1,2,0,12,2,1,6,10,0,7,0,7,6,0,5,4,2,13,3,27,1,12,1,6,2,0,2,2]
+	Team_2_Pass_list,[75,45,6,1,7,2,5,7,2,2,3,25,5,10,4,5,5,11,6,6,21,7,6,11,6,4,3,4,5,2,4,5,4,4,4,2,23,6,5,4,1,1,24,10,4,4,2,26,5,5,5,7,5]
+	Team_1_Run_List,[23,1,2,0,12,2,1,6,10,0,7,0,7,6,0,5,4,2,13,3,27,1,12,1,6,2,0,2,2]
+	Team_2_Run_list,[75,45,6,1,7,2,5,7,2,2,3,25,5,10,4,5,5,11,6,6,21,7,6,11,6,4,3,4,5,2,4,5,4,4,4,2,23,6,5,4,1,1,24,10,4,4,2,26,5,5,5,7,5]
+}
+{
+	ESPN_GAME_ID,401416619
+	SHARPODDZ_GAME_ID,72022453
+	Adv_Data,false
+	Team_1,Central Michigan
+	Team_2,Akron
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,28
+	Team_2_score,21
+	Team_1_3rd_Att-Succ,0/0
+	Team_2_3rd_Att-Succ,0/0
+	Team_1_4th_Att-Succ,0/1
+	Team_2_4th_Att-Succ,0/1
+	Team_1_Pass_atts-cmps-yds-ints,21/13/138/0
+	Team_2_Pass_atts-cmps-yds-ints,39/26/267/0
+	Team_1_Rush_atts-yds,44/199
+	Team_2_Rush_atts-yds,28/20
+	Team_1_Penalties_pens-yds,9/60
+	Team_2_Penalties_pens-yds,2/25
+	Team_1_Fumbles,1
+	Team_2_Fumbles,1
+	Team_1_Drives,-1
+	Team_2_Drives,-1
+	Team_1_Tackles_For_Loss,-1
+	Team_2_Tackles_For_Loss,-1
+	Team_1_Sacks,-1
+	Team_2_Sacks,-1
+	Team_1_First_Down_att-succ,-1/-1
+	Team_2_First_Down_att-succ,-1/-1
+	Team_1_Field_Goal_Made,
+	Team_2_Field_Goal_Made,
+	Team_1_Field_Goal_Missed,
+	Team_2_Field_Goal_Missed,
+	Team_1_Pass_List,
+	Team_2_Pass_list,
+	Team_1_Run_List,
+	Team_2_Run_list,
+}
+{
+	ESPN_GAME_ID,401416622
+	SHARPODDZ_GAME_ID,72022454
+	Adv_Data,true
+	Team_1,Miami (OH)
+	Team_2,Bowling Green
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,13
+	Team_2_score,17
+	Team_1_3rd_Att-Succ,15/6
+	Team_2_3rd_Att-Succ,15/6
+	Team_1_4th_Att-Succ,1/0
+	Team_2_4th_Att-Succ,2/2
+	Team_1_Pass_atts-cmps-yds-ints,17/9/91/0
+	Team_2_Pass_atts-cmps-yds-ints,29/16/149/1
+	Team_1_Rush_atts-yds,34/98
+	Team_2_Rush_atts-yds,44/176
+	Team_1_Penalties_pens-yds,6/60
+	Team_2_Penalties_pens-yds,8/85
+	Team_1_Fumbles,1
+	Team_2_Fumbles,1
+	Team_1_Drives,11
+	Team_2_Drives,11
+	Team_1_Tackles_For_Loss,3
+	Team_2_Tackles_For_Loss,3
+	Team_1_Sacks,3
+	Team_2_Sacks,3
+	Team_1_First_Down_att-succ,20/5
+	Team_2_First_Down_att-succ,29/11
+	Team_1_Field_Goal_Made,[41,39]
+	Team_2_Field_Goal_Made,[22]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[31]
+	Team_1_Pass_List,[1,3,1,3,7,2,10,5,1,3,1,3,3,16,5,2,2,5,2,1,6,2,1,26,3,5,3,3,6]
+	Team_2_Pass_list,[3,6,5,4,9,6,2,5,4,12,4,8,0,1,2,4,5,3,2,6,24,5,1,1,6,3,19,2,13,3,1,5,0,6,6]
+	Team_1_Run_List,[1,3,1,3,7,2,10,5,1,3,1,3,3,16,5,2,2,5,2,1,6,2,1,26,3,5,3,3,6]
+	Team_2_Run_list,[3,6,5,4,9,6,2,5,4,12,4,8,0,1,2,4,5,3,2,6,24,5,1,1,6,3,19,2,13,3,1,5,0,6,6]
+}
+{
+	ESPN_GAME_ID,401426348
+	SHARPODDZ_GAME_ID,72022455
+	Adv_Data,true
+	Team_1,Old Dominion
+	Team_2,Coastal Carolina
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,49
+	Team_2_score,21
+	Team_1_3rd_Att-Succ,6/3
+	Team_2_3rd_Att-Succ,17/8
+	Team_1_4th_Att-Succ,1/1
+	Team_2_4th_Att-Succ,5/2
+	Team_1_Pass_atts-cmps-yds-ints,17/13/205/0
+	Team_2_Pass_atts-cmps-yds-ints,38/27/366/0
+	Team_1_Rush_atts-yds,32/323
+	Team_2_Rush_atts-yds,43/90
+	Team_1_Penalties_pens-yds,8/88
+	Team_2_Penalties_pens-yds,6/55
+	Team_1_Fumbles,0
+	Team_2_Fumbles,1
+	Team_1_Drives,9
+	Team_2_Drives,10
+	Team_1_Tackles_For_Loss,9
+	Team_2_Tackles_For_Loss,1
+	Team_1_Sacks,9
+	Team_2_Sacks,1
+	Team_1_First_Down_att-succ,28/17
+	Team_2_First_Down_att-succ,33/11
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[46]
+	Team_1_Pass_List,[6,8,3,8,25,7,7,2,9,7,2,5,0,58,8,2,20,3,11,9,2,2,8,67,2,33,19,3,0,1]
+	Team_2_Pass_list,[6,1,5,4,3,12,4,0,12,4,0,1,2,0,2,6,6,3,1,3,5,1,1,2,6,1,2,4,3,5,6,4,6,6,15,9,6,2]
+	Team_1_Run_List,[6,8,3,8,25,7,7,2,9,7,2,5,0,58,8,2,20,3,11,9,2,2,8,67,2,33,19,3,0,1]
+	Team_2_Run_list,[6,1,5,4,3,12,4,0,12,4,0,1,2,0,2,6,6,3,1,3,5,1,1,2,6,1,2,4,3,5,6,4,6,6,15,9,6,2]
+}
+{
+	ESPN_GAME_ID,401411140
+	SHARPODDZ_GAME_ID,72022456
+	Adv_Data,true
+	Team_1,Miami
+	Team_2,Virginia Tech
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,20
+	Team_2_score,14
+	Team_1_3rd_Att-Succ,17/8
+	Team_2_3rd_Att-Succ,15/4
+	Team_1_4th_Att-Succ,0/0
+	Team_2_4th_Att-Succ,1/1
+	Team_1_Pass_atts-cmps-yds-ints,46/29/351/0
+	Team_2_Pass_atts-cmps-yds-ints,33/21/179/0
+	Team_1_Rush_atts-yds,28/107
+	Team_2_Rush_atts-yds,30/78
+	Team_1_Penalties_pens-yds,17/159
+	Team_2_Penalties_pens-yds,6/56
+	Team_1_Fumbles,0
+	Team_2_Fumbles,1
+	Team_1_Drives,11
+	Team_2_Drives,12
+	Team_1_Tackles_For_Loss,7
+	Team_2_Tackles_For_Loss,6
+	Team_1_Sacks,6
+	Team_2_Sacks,2
+	Team_1_First_Down_att-succ,34/11
+	Team_2_First_Down_att-succ,30/4
+	Team_1_Field_Goal_Made,[28,25]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[-2,-1,8,3,0,9,3,0,1,3,19,9,15,2,11,0,18,3,3,-2]
+	Team_2_Pass_list,[16,4,0,3,1,2,2,2,4,0,4,0,2,3,2,4,12,17,1,0,2]
+	Team_1_Run_List,[-2,-1,8,3,0,9,3,0,1,3,19,9,15,2,11,0,18,3,3,-2]
+	Team_2_Run_list,[16,4,0,3,1,2,2,2,4,0,4,0,2,3,2,4,12,17,1,0,2]
+}
+{
+	ESPN_GAME_ID,401414783
+	SHARPODDZ_GAME_ID,72022457
+	Adv_Data,true
+	Team_1,Buffalo
+	Team_2,UMass
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,34
+	Team_2_score,7
+	Team_1_3rd_Att-Succ,15/8
+	Team_2_3rd_Att-Succ,14/4
+	Team_1_4th_Att-Succ,1/1
+	Team_2_4th_Att-Succ,1/0
+	Team_1_Pass_atts-cmps-yds-ints,31/20/277/3
+	Team_2_Pass_atts-cmps-yds-ints,19/8/108/0
+	Team_1_Rush_atts-yds,38/203
+	Team_2_Rush_atts-yds,41/112
+	Team_1_Penalties_pens-yds,6/64
+	Team_2_Penalties_pens-yds,5/50
+	Team_1_Fumbles,0
+	Team_2_Fumbles,0
+	Team_1_Drives,12
+	Team_2_Drives,12
+	Team_1_Tackles_For_Loss,12
+	Team_2_Tackles_For_Loss,5
+	Team_1_Sacks,2
+	Team_2_Sacks,0
+	Team_1_First_Down_att-succ,30/8
+	Team_2_First_Down_att-succ,25/8
+	Team_1_Field_Goal_Made,[39,39]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[3,6,14,3,-3,5,22,3,-1,-2,84,3,0,0,0,4,6,2,3,-1,6,8,1,3,4,12,0,0,3,4,3,2,9,3]
+	Team_2_Pass_list,[-2,0,5,13,-3,2,2,1,3,2,2,12,13,-1,6,1,5,11,-3,9,13,-3,8,-2,-1,2,2,1,8,17,-1,-4,8,7,4]
+	Team_1_Run_List,[3,6,14,3,-3,5,22,3,-1,-2,84,3,0,0,0,4,6,2,3,-1,6,8,1,3,4,12,0,0,3,4,3,2,9,3]
+	Team_2_Run_list,[-2,0,5,13,-3,2,2,1,3,2,2,12,13,-1,6,1,5,11,-3,9,13,-3,8,-2,-1,2,2,1,8,17,-1,-4,8,7,4]
+}
+{
+	ESPN_GAME_ID,401404014
+	SHARPODDZ_GAME_ID,72022458
+	Adv_Data,true
+	Team_1,California
+	Team_2,Colorado
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,13
+	Team_2_score,20
+	Team_1_3rd_Att-Succ,17/5
+	Team_2_3rd_Att-Succ,17/8
+	Team_1_4th_Att-Succ,3/1
+	Team_2_4th_Att-Succ,1/0
+	Team_1_Pass_atts-cmps-yds-ints,52/29/262/1
+	Team_2_Pass_atts-cmps-yds-ints,34/22/210/1
+	Team_1_Rush_atts-yds,22/35
+	Team_2_Rush_atts-yds,35/118
+	Team_1_Penalties_pens-yds,5/40
+	Team_2_Penalties_pens-yds,6/75
+	Team_1_Fumbles,1
+	Team_2_Fumbles,2
+	Team_1_Drives,13
+	Team_2_Drives,12
+	Team_1_Tackles_For_Loss,8
+	Team_2_Tackles_For_Loss,10
+	Team_1_Sacks,1
+	Team_2_Sacks,2
+	Team_1_First_Down_att-succ,29/10
+	Team_2_First_Down_att-succ,28/12
+	Team_1_Field_Goal_Made,[27,34]
+	Team_2_Field_Goal_Made,[31,24]
+	Team_1_Field_Goal_Missed,[54,48]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[12,1,3,2,9,-1,1,0,2,5,1,-4,-5,0,3,-2,23,-1,3]
+	Team_2_Pass_list,[8,6,7,0,12,6,2,3,5,-4,0,-1,18,2,3,2,5,2,6,2,6,3,0,2,2,1,4,1,5,11,0,-3]
+	Team_1_Run_List,[12,1,3,2,9,-1,1,0,2,5,1,-4,-5,0,3,-2,23,-1,3]
+	Team_2_Run_list,[8,6,7,0,12,6,2,3,5,-4,0,-1,18,2,3,2,5,2,6,2,6,3,0,2,2,1,4,1,5,11,0,-3]
+}
+{
+	ESPN_GAME_ID,401404153
+	SHARPODDZ_GAME_ID,72022459
+	Adv_Data,true
+	Team_1,UConn
+	Team_2,Ball State
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,21
+	Team_2_score,25
+	Team_1_3rd_Att-Succ,14/5
+	Team_2_3rd_Att-Succ,19/10
+	Team_1_4th_Att-Succ,2/1
+	Team_2_4th_Att-Succ,2/1
+	Team_1_Pass_atts-cmps-yds-ints,22/18/129/1
+	Team_2_Pass_atts-cmps-yds-ints,39/19/147/1
+	Team_1_Rush_atts-yds,42/194
+	Team_2_Rush_atts-yds,44/209
+	Team_1_Penalties_pens-yds,12/110
+	Team_2_Penalties_pens-yds,2/25
+	Team_1_Fumbles,1
+	Team_2_Fumbles,0
+	Team_1_Drives,13
+	Team_2_Drives,13
+	Team_1_Tackles_For_Loss,1
+	Team_2_Tackles_For_Loss,4
+	Team_1_Sacks,1
+	Team_2_Sacks,4
+	Team_1_First_Down_att-succ,30/16
+	Team_2_First_Down_att-succ,35/11
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[38,38]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[47]
+	Team_1_Pass_List,[6,23,15,1,5,2,14,5,5,16,6,7,11,4,1,24,15,0,1,10,2,14,0,2,1,2,6,5,2,2,3,3,2,4,6]
+	Team_2_Pass_list,[4,1,4,15,2,5,3,3,1,1,13,6,6,3,12,1,7,3,1,6,1,4,2,1,7,4,1,4,1,9,13,2,7,1,25,7,17,5,7]
+	Team_1_Run_List,[6,23,15,1,5,2,14,5,5,16,6,7,11,4,1,24,15,0,1,10,2,14,0,2,1,2,6,5,2,2,3,3,2,4,6]
+	Team_2_Run_list,[4,1,4,15,2,5,3,3,1,1,13,6,6,3,12,1,7,3,1,6,1,4,2,1,7,4,1,4,1,9,13,2,7,1,25,7,17,5,7]
+}
+{
+	ESPN_GAME_ID,401403916
+	SHARPODDZ_GAME_ID,72022460
+	Adv_Data,true
+	Team_1,Arkansas
+	Team_2,BYU
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,52
+	Team_2_score,35
+	Team_1_3rd_Att-Succ,15/12
+	Team_2_3rd_Att-Succ,13/7
+	Team_1_4th_Att-Succ,1/0
+	Team_2_4th_Att-Succ,3/1
+	Team_1_Pass_atts-cmps-yds-ints,40/29/367/0
+	Team_2_Pass_atts-cmps-yds-ints,41/26/356/1
+	Team_1_Rush_atts-yds,42/277
+	Team_2_Rush_atts-yds,30/115
+	Team_1_Penalties_pens-yds,7/98
+	Team_2_Penalties_pens-yds,4/50
+	Team_1_Fumbles,1
+	Team_2_Fumbles,2
+	Team_1_Drives,11
+	Team_2_Drives,12
+	Team_1_Tackles_For_Loss,3
+	Team_2_Tackles_For_Loss,1
+	Team_1_Sacks,0
+	Team_2_Sacks,0
+	Team_1_First_Down_att-succ,41/18
+	Team_2_First_Down_att-succ,38/13
+	Team_1_Field_Goal_Made,[34]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[1,11,8,5,8,0,3,4,24,15,0,0,3,4,3,6,2,5,1,14,11,5,6,12,3,64,0,1,14,2,7,3,5,6,6,5,0,1,0,0]
+	Team_2_Pass_list,[0,3,2,5,3,5,-2,11,3,9,14,6,10,5,0,3,9,1,1,10,5,2,3,-1,2,2,0,5]
+	Team_1_Run_List,[1,11,8,5,8,0,3,4,24,15,0,0,3,4,3,6,2,5,1,14,11,5,6,12,3,64,0,1,14,2,7,3,5,6,6,5,0,1,0,0]
+	Team_2_Run_list,[0,3,2,5,3,5,-2,11,3,9,14,6,10,5,0,3,9,1,1,10,5,2,3,-1,2,2,0,5]
+}
+{
+	ESPN_GAME_ID,401404162
+	SHARPODDZ_GAME_ID,72022461
+	Adv_Data,true
+	Team_1,Gardner-Webb
+	Team_2,Liberty
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,20
+	Team_2_score,21
+	Team_1_3rd_Att-Succ,14/5
+	Team_2_3rd_Att-Succ,12/1
+	Team_1_4th_Att-Succ,0/0
+	Team_2_4th_Att-Succ,2/1
+	Team_1_Pass_atts-cmps-yds-ints,44/23/239/3
+	Team_2_Pass_atts-cmps-yds-ints,32/17/222/2
+	Team_1_Rush_atts-yds,34/86
+	Team_2_Rush_atts-yds,29/93
+	Team_1_Penalties_pens-yds,6/42
+	Team_2_Penalties_pens-yds,6/44
+	Team_1_Fumbles,0
+	Team_2_Fumbles,1
+	Team_1_Drives,15
+	Team_2_Drives,15
+	Team_1_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,13
+	Team_1_Sacks,5
+	Team_2_Sacks,5
+	Team_1_First_Down_att-succ,38/8
+	Team_2_First_Down_att-succ,28/10
+	Team_1_Field_Goal_Made,[22,41]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[6,4,0,4,1,2,18,0,1,2,0,3,3,2,-1,-1,34,-1,1,0,0,21,0,7,3,1,-2,6,3]
+	Team_2_Pass_list,[0,4,4,3,3,0,2,2,0,4,2,0,2,8,2,1,5,7,15,6,46]
+	Team_1_Run_List,[6,4,0,4,1,2,18,0,1,2,0,3,3,2,-1,-1,34,-1,1,0,0,21,0,7,3,1,-2,6,3]
+	Team_2_Run_list,[0,4,4,3,3,0,2,2,0,4,2,0,2,8,2,1,5,7,15,6,46]
+}
+{
+	ESPN_GAME_ID,401405114
+	SHARPODDZ_GAME_ID,72022462
+	Adv_Data,true
+	Team_1,Maryland
+	Team_2,Indiana
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,38
+	Team_2_score,33
+	Team_1_3rd_Att-Succ,17/8
+	Team_2_3rd_Att-Succ,13/4
+	Team_1_4th_Att-Succ,2/2
+	Team_2_4th_Att-Succ,3/3
+	Team_1_Pass_atts-cmps-yds-ints,42/25/270/0
+	Team_2_Pass_atts-cmps-yds-ints,43/30/315/2
+	Team_1_Rush_atts-yds,40/172
+	Team_2_Rush_atts-yds,32/36
+	Team_1_Penalties_pens-yds,9/94
+	Team_2_Penalties_pens-yds,3/14
+	Team_1_Fumbles,0
+	Team_2_Fumbles,1
+	Team_1_Drives,13
+	Team_2_Drives,13
+	Team_1_Tackles_For_Loss,1
+	Team_2_Tackles_For_Loss,1
+	Team_1_Sacks,1
+	Team_2_Sacks,1
+	Team_1_First_Down_att-succ,36/14
+	Team_2_First_Down_att-succ,36/14
+	Team_1_Field_Goal_Made,[36]
+	Team_2_Field_Goal_Made,[38,26]
+	Team_1_Field_Goal_Missed,[51]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[3,8,2,1,1,4,5,5,2,4,7,1,1,8,8,4,1,8,0,2,1,2,10,5,3,5,31,2,6,4,2,46,3,9,0,3]
+	Team_2_Pass_list,[1,5,3,3,2,14,14,8,1,0,2,9,3,3,2,1,2,1,1,3,5,3,3,2,4,4,0,2,0,3,2]
+	Team_1_Run_List,[3,8,2,1,1,4,5,5,2,4,7,1,1,8,8,4,1,8,0,2,1,2,10,5,3,5,31,2,6,4,2,46,3,9,0,3]
+	Team_2_Run_list,[1,5,3,3,2,14,14,8,1,0,2,9,3,3,2,1,2,1,1,3,5,3,3,2,4,4,0,2,0,3,2]
+}
+{
+	ESPN_GAME_ID,401416620
+	SHARPODDZ_GAME_ID,72022463
+	Adv_Data,true
+	Team_1,Northern Illinois
+	Team_2,Eastern Michigan
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,39
+	Team_2_score,10
+	Team_1_3rd_Att-Succ,16/9
+	Team_2_3rd_Att-Succ,13/2
+	Team_1_4th_Att-Succ,0/0
+	Team_2_4th_Att-Succ,3/1
+	Team_1_Pass_atts-cmps-yds-ints,16/12/123/0
+	Team_2_Pass_atts-cmps-yds-ints,23/11/197/1
+	Team_1_Rush_atts-yds,49/287
+	Team_2_Rush_atts-yds,27/29
+	Team_1_Penalties_pens-yds,4/35
+	Team_2_Penalties_pens-yds,6/70
+	Team_1_Fumbles,0
+	Team_2_Fumbles,1
+	Team_1_Drives,12
+	Team_2_Drives,12
+	Team_1_Tackles_For_Loss,4
+	Team_2_Tackles_For_Loss,2
+	Team_1_Sacks,4
+	Team_2_Sacks,2
+	Team_1_First_Down_att-succ,31/8
+	Team_2_First_Down_att-succ,20/7
+	Team_1_Field_Goal_Made,[41,39,28,33]
+	Team_2_Field_Goal_Made,[46]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[58]
+	Team_1_Pass_List,[13,0,7,1,2,3,5,47,4,2,0,1,1,2,13,1,14,4,24,0,7,8,5,4,6,2,1,10,0,5,4,4,5,76,5,5,1,6,4,1,4,5,1,10]
+	Team_2_Pass_list,[4,1,0,11,2,4,2,3,11,3,3,4,2,3,1,3,17,1,0,0,5,0]
+	Team_1_Run_List,[13,0,7,1,2,3,5,47,4,2,0,1,1,2,13,1,14,4,24,0,7,8,5,4,6,2,1,10,0,5,4,4,5,76,5,5,1,6,4,1,4,5,1,10]
+	Team_2_Run_list,[4,1,0,11,2,4,2,3,11,3,3,4,2,3,1,3,17,1,0,0,5,0]
+}
+{
+	ESPN_GAME_ID,401416621
+	SHARPODDZ_GAME_ID,72022464
+	Adv_Data,false
+	Team_1,Kent State
+	Team_2,Toledo
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,31
+	Team_2_score,52
+	Team_1_3rd_Att-Succ,14/5
+	Team_2_3rd_Att-Succ,12/7
+	Team_1_4th_Att-Succ,1/0
+	Team_2_4th_Att-Succ,1/1
+	Team_1_Pass_atts-cmps-yds-ints,26/13/162/1
+	Team_2_Pass_atts-cmps-yds-ints,22/16/263/0
+	Team_1_Rush_atts-yds,46/231
+	Team_2_Rush_atts-yds,49/227
+	Team_1_Penalties_pens-yds,6/55
+	Team_2_Penalties_pens-yds,5/35
+	Team_1_Fumbles,0
+	Team_2_Fumbles,1
+	Team_1_Drives,-1
+	Team_2_Drives,-1
+	Team_1_Tackles_For_Loss,-1
+	Team_2_Tackles_For_Loss,-1
+	Team_1_Sacks,-1
+	Team_2_Sacks,-1
+	Team_1_First_Down_att-succ,-1/-1
+	Team_2_First_Down_att-succ,-1/-1
+	Team_1_Field_Goal_Made,
+	Team_2_Field_Goal_Made,
+	Team_1_Field_Goal_Missed,
+	Team_2_Field_Goal_Missed,
+	Team_1_Pass_List,
+	Team_2_Pass_list,
+	Team_1_Run_List,
+	Team_2_Run_list,
+}
+{
+	ESPN_GAME_ID,401416623
+	SHARPODDZ_GAME_ID,72022465
+	Adv_Data,true
+	Team_1,Ohio
+	Team_2,Western Michigan
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,33
+	Team_2_score,14
+	Team_1_3rd_Att-Succ,13/4
+	Team_2_3rd_Att-Succ,10/4
+	Team_1_4th_Att-Succ,2/0
+	Team_2_4th_Att-Succ,3/0
+	Team_1_Pass_atts-cmps-yds-ints,34/22/264/1
+	Team_2_Pass_atts-cmps-yds-ints,31/17/249/5
+	Team_1_Rush_atts-yds,35/119
+	Team_2_Rush_atts-yds,31/84
+	Team_1_Penalties_pens-yds,5/45
+	Team_2_Penalties_pens-yds,4/30
+	Team_1_Fumbles,1
+	Team_2_Fumbles,1
+	Team_1_Drives,13
+	Team_2_Drives,13
+	Team_1_Tackles_For_Loss,4
+	Team_2_Tackles_For_Loss,1
+	Team_1_Sacks,4
+	Team_2_Sacks,1
+	Team_1_First_Down_att-succ,32/13
+	Team_2_First_Down_att-succ,32/16
+	Team_1_Field_Goal_Made,[26,55,33,35]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[33]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[6,3,5,4,18,0,0,1,5,9,4,6,19,2,2,2,1,3,3,0,10,1,6,3,1,1,5,7,1,1,4,2,3]
+	Team_2_Pass_list,[2,6,0,5,8,5,8,5,4,0,2,1,5,12,6,3,2,4,6,0,5,5,20,1,11,6]
+	Team_1_Run_List,[6,3,5,4,18,0,0,1,5,9,4,6,19,2,2,2,1,3,3,0,10,1,6,3,1,1,5,7,1,1,4,2,3]
+	Team_2_Run_list,[2,6,0,5,8,5,8,5,4,0,2,1,5,12,6,3,2,4,6,0,5,5,20,1,11,6]
+}
+{
+	ESPN_GAME_ID,401426352
+	SHARPODDZ_GAME_ID,72022466
+	Adv_Data,true
+	Team_1,Texas State
+	Team_2,Troy
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,14
+	Team_2_score,17
+	Team_1_3rd_Att-Succ,15/5
+	Team_2_3rd_Att-Succ,12/3
+	Team_1_4th_Att-Succ,1/0
+	Team_2_4th_Att-Succ,0/0
+	Team_1_Pass_atts-cmps-yds-ints,32/21/207/0
+	Team_2_Pass_atts-cmps-yds-ints,28/16/299/1
+	Team_1_Rush_atts-yds,28/86
+	Team_2_Rush_atts-yds,34/107
+	Team_1_Penalties_pens-yds,2/20
+	Team_2_Penalties_pens-yds,3/39
+	Team_1_Fumbles,0
+	Team_2_Fumbles,0
+	Team_1_Drives,12
+	Team_2_Drives,13
+	Team_1_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,3
+	Team_1_Sacks,3
+	Team_2_Sacks,0
+	Team_1_First_Down_att-succ,25/11
+	Team_2_First_Down_att-succ,28/13
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[24]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[8,1,12,4,4,3,4,0,2,5,7,2,-3,4,10,2,2,3,1,1,-1,0,6,5,5,0,-3]
+	Team_2_Pass_list,[3,4,4,9,4,0,9,2,4,3,7,4,8,-4,5,9,16,-3,3,3,4,6,4,7,2,3,7,2,2,0]
+	Team_1_Run_List,[8,1,12,4,4,3,4,0,2,5,7,2,-3,4,10,2,2,3,1,1,-1,0,6,5,5,0,-3]
+	Team_2_Run_list,[3,4,4,9,4,0,9,2,4,3,7,4,8,-4,5,9,16,-3,3,3,4,6,4,7,2,3,7,2,2,0]
+}
+{
+	ESPN_GAME_ID,401426583
+	SHARPODDZ_GAME_ID,72022467
+	Adv_Data,true
+	Team_1,Charlotte
+	Team_2,UAB
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,20
+	Team_2_score,34
+	Team_1_3rd_Att-Succ,10/3
+	Team_2_3rd_Att-Succ,13/5
+	Team_1_4th_Att-Succ,3/1
+	Team_2_4th_Att-Succ,4/3
+	Team_1_Pass_atts-cmps-yds-ints,26/15/214/2
+	Team_2_Pass_atts-cmps-yds-ints,23/15/231/1
+	Team_1_Rush_atts-yds,24/113
+	Team_2_Rush_atts-yds,53/279
+	Team_1_Penalties_pens-yds,6/41
+	Team_2_Penalties_pens-yds,2/15
+	Team_1_Fumbles,1
+	Team_2_Fumbles,0
+	Team_1_Drives,11
+	Team_2_Drives,12
+	Team_1_Tackles_For_Loss,1
+	Team_2_Tackles_For_Loss,1
+	Team_1_Sacks,1
+	Team_2_Sacks,1
+	Team_1_First_Down_att-succ,22/12
+	Team_2_First_Down_att-succ,35/18
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[20,29]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[48]
+	Team_1_Pass_List,[7,3,11,16,2,2,0,5,4,12,6,0,3,5,6,6,7,1,4,4,5,6,6]
+	Team_2_Pass_list,[8,2,0,1,4,1,5,13,11,0,9,5,2,4,0,9,10,1,4,5,0,4,0,1,8,4,2,1,26,8,6,1,6,13,1,23,3,3,13,0,7,2,1,8,3,2,61]
+	Team_1_Run_List,[7,3,11,16,2,2,0,5,4,12,6,0,3,5,6,6,7,1,4,4,5,6,6]
+	Team_2_Run_list,[8,2,0,1,4,1,5,13,11,0,9,5,2,4,0,9,10,1,4,5,0,4,0,1,8,4,2,1,26,8,6,1,6,13,1,23,3,3,13,0,7,2,1,8,3,2,61]
+}
+{
+	ESPN_GAME_ID,401426587
+	SHARPODDZ_GAME_ID,72022468
+	Adv_Data,false
+	Team_1,Western Kentucky
+	Team_2,Middle Tennessee
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,35
+	Team_2_score,17
+	Team_1_3rd_Att-Succ,17/6
+	Team_2_3rd_Att-Succ,17/3
+	Team_1_4th_Att-Succ,5/2
+	Team_2_4th_Att-Succ,3/1
+	Team_1_Pass_atts-cmps-yds-ints,49/32/278/1
+	Team_2_Pass_atts-cmps-yds-ints,51/32/228/1
+	Team_1_Rush_atts-yds,36/165
+	Team_2_Rush_atts-yds,26/63
+	Team_1_Penalties_pens-yds,7/78
+	Team_2_Penalties_pens-yds,9/75
+	Team_1_Fumbles,3
+	Team_2_Fumbles,1
+	Team_1_Drives,-1
+	Team_2_Drives,-1
+	Team_1_Tackles_For_Loss,-1
+	Team_2_Tackles_For_Loss,-1
+	Team_1_Sacks,-1
+	Team_2_Sacks,-1
+	Team_1_First_Down_att-succ,-1/-1
+	Team_2_First_Down_att-succ,-1/-1
+	Team_1_Field_Goal_Made,
+	Team_2_Field_Goal_Made,
+	Team_1_Field_Goal_Missed,
+	Team_2_Field_Goal_Missed,
+	Team_1_Pass_List,
+	Team_2_Pass_list,
+	Team_1_Run_List,
+	Team_2_Run_list,
+}
+{
+	ESPN_GAME_ID,401405116
+	SHARPODDZ_GAME_ID,72022469
+	Adv_Data,true
+	Team_1,Wisconsin
+	Team_2,Michigan State
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,28
+	Team_2_score,34
+	Team_1_3rd_Att-Succ,12/4
+	Team_2_3rd_Att-Succ,15/7
+	Team_1_4th_Att-Succ,2/2
+	Team_2_4th_Att-Succ,2/0
+	Team_1_Pass_atts-cmps-yds-ints,24/14/131/1
+	Team_2_Pass_atts-cmps-yds-ints,30/22/290/1
+	Team_1_Rush_atts-yds,39/152
+	Team_2_Rush_atts-yds,36/99
+	Team_1_Penalties_pens-yds,8/72
+	Team_2_Penalties_pens-yds,9/103
+	Team_1_Fumbles,1
+	Team_2_Fumbles,0
+	Team_1_Drives,10
+	Team_2_Drives,11
+	Team_1_Tackles_For_Loss,8
+	Team_2_Tackles_For_Loss,7
+	Team_1_Sacks,1
+	Team_2_Sacks,3
+	Team_1_First_Down_att-succ,27/9
+	Team_2_First_Down_att-succ,29/7
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[20,1,-1,2,1,1,0,34,4,-2,14,0,1,9,0,-3,3,8,0,6,6,5,9,3,2,3,2,6,7,1,27,0,5]
+	Team_2_Pass_list,[1,1,1,5,8,5,8,0,5,3,6,0,-1,12,1,5,-1,12,3,-1,6,3,2,1,1,0,0,2,3,8,3,5]
+	Team_1_Run_List,[20,1,-1,2,1,1,0,34,4,-2,14,0,1,9,0,-3,3,8,0,6,6,5,9,3,2,3,2,6,7,1,27,0,5]
+	Team_2_Run_list,[1,1,1,5,8,5,8,0,5,3,6,0,-1,12,1,5,-1,12,3,-1,6,3,2,1,1,0,0,2,3,8,3,5]
+}
+{
+	ESPN_GAME_ID,401415636
+	SHARPODDZ_GAME_ID,72022470
+	Adv_Data,true
+	Team_1,Tulane
+	Team_2,South Florida
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,45
+	Team_2_score,31
+	Team_1_3rd_Att-Succ,17/7
+	Team_2_3rd_Att-Succ,9/2
+	Team_1_4th_Att-Succ,4/3
+	Team_2_4th_Att-Succ,0/0
+	Team_1_Pass_atts-cmps-yds-ints,36/23/329/0
+	Team_2_Pass_atts-cmps-yds-ints,23/14/259/0
+	Team_1_Rush_atts-yds,51/235
+	Team_2_Rush_atts-yds,28/118
+	Team_1_Penalties_pens-yds,4/20
+	Team_2_Penalties_pens-yds,6/60
+	Team_1_Fumbles,1
+	Team_2_Fumbles,2
+	Team_1_Drives,14
+	Team_2_Drives,14
+	Team_1_Tackles_For_Loss,3
+	Team_2_Tackles_For_Loss,8
+	Team_1_Sacks,1
+	Team_2_Sacks,4
+	Team_1_First_Down_att-succ,43/21
+	Team_2_First_Down_att-succ,23/9
+	Team_1_Field_Goal_Made,[20]
+	Team_2_Field_Goal_Made,[16]
+	Team_1_Field_Goal_Missed,[31]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[5,3,7,8,3,10,-1,3,2,2,7,2,4,0,5,4,1,-6,-1,0,5,1,5,3,6,2,75,6,-2,3,4,7,15,13,3,0,1,2,4,17,4,3,4,19]
+	Team_2_Pass_list,[3,6,3,-1,9,2,7,33,8,6,2,-1,13,2,2,0,1,3,3,1,1,3,9,3]
+	Team_1_Run_List,[5,3,7,8,3,10,-1,3,2,2,7,2,4,0,5,4,1,-6,-1,0,5,1,5,3,6,2,75,6,-2,3,4,7,15,13,3,0,1,2,4,17,4,3,4,19]
+	Team_2_Run_list,[3,6,3,-1,9,2,7,33,8,6,2,-1,13,2,2,0,1,3,3,1,1,3,9,3]
+}
+{
+	ESPN_GAME_ID,401426586
+	SHARPODDZ_GAME_ID,72022471
+	Adv_Data,true
+	Team_1,Louisiana Tech
+	Team_2,North Texas
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,27
+	Team_2_score,47
+	Team_1_3rd_Att-Succ,17/8
+	Team_2_3rd_Att-Succ,12/5
+	Team_1_4th_Att-Succ,2/1
+	Team_2_4th_Att-Succ,3/3
+	Team_1_Pass_atts-cmps-yds-ints,37/26/424/0
+	Team_2_Pass_atts-cmps-yds-ints,21/11/196/1
+	Team_1_Rush_atts-yds,38/80
+	Team_2_Rush_atts-yds,47/475
+	Team_1_Penalties_pens-yds,9/86
+	Team_2_Penalties_pens-yds,8/67
+	Team_1_Fumbles,0
+	Team_2_Fumbles,0
+	Team_1_Drives,12
+	Team_2_Drives,12
+	Team_1_Tackles_For_Loss,1
+	Team_2_Tackles_For_Loss,7
+	Team_1_Sacks,0
+	Team_2_Sacks,7
+	Team_1_First_Down_att-succ,36/16
+	Team_2_First_Down_att-succ,33/14
+	Team_1_Field_Goal_Made,[46,23]
+	Team_2_Field_Goal_Made,[30,20]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[4,3,1,8,4,6,0,0,8,5,6,16,4,0,1,4,3,0,1,1,0,2,8,4,7,2,9,3,4,6]
+	Team_2_Pass_list,[42,1,6,8,16,1,5,3,10,9,92,21,2,2,3,4,12,17,14,3,4,2,1,7,3,4,11,2,5,1,3,5,2,-5,9,2,5,0,66,32,4,12,2,0,3]
+	Team_1_Run_List,[4,3,1,8,4,6,0,0,8,5,6,16,4,0,1,4,3,0,1,1,0,2,8,4,7,2,9,3,4,6]
+	Team_2_Run_list,[42,1,6,8,16,1,5,3,10,9,92,21,2,2,3,4,12,17,14,3,4,2,1,7,3,4,11,2,5,1,3,5,2,-5,9,2,5,0,66,32,4,12,2,0,3]
+}
+{
+	ESPN_GAME_ID,401404013
+	SHARPODDZ_GAME_ID,72022472
+	Adv_Data,true
+	Team_1,Arizona
+	Team_2,Washington
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,39
+	Team_2_score,49
+	Team_1_3rd_Att-Succ,11/4
+	Team_2_3rd_Att-Succ,10/6
+	Team_1_4th_Att-Succ,2/1
+	Team_2_4th_Att-Succ,2/0
+	Team_1_Pass_atts-cmps-yds-ints,35/25/400/0
+	Team_2_Pass_atts-cmps-yds-ints,44/36/516/0
+	Team_1_Rush_atts-yds,33/126
+	Team_2_Rush_atts-yds,29/79
+	Team_1_Penalties_pens-yds,7/47
+	Team_2_Penalties_pens-yds,4/43
+	Team_1_Fumbles,0
+	Team_2_Fumbles,0
+	Team_1_Drives,12
+	Team_2_Drives,12
+	Team_1_Tackles_For_Loss,0
+	Team_2_Tackles_For_Loss,4
+	Team_1_Sacks,0
+	Team_2_Sacks,4
+	Team_1_First_Down_att-succ,37/22
+	Team_2_First_Down_att-succ,41/22
+	Team_1_Field_Goal_Made,[48]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[41]
+	Team_2_Field_Goal_Missed,[47]
+	Team_1_Pass_List,[2,4,6,3,11,3,0,14,0,8,1,2,13,3,3,2,4,9,4,11,10,12,3,11,4,5,12]
+	Team_2_Pass_list,[3,9,5,7,4,2,8,2,9,3,6,1,0,1,2,3,8,3,1,4,7,8,2,4,3,0,19]
+	Team_1_Run_List,[2,4,6,3,11,3,0,14,0,8,1,2,13,3,3,2,4,9,4,11,10,12,3,11,4,5,12]
+	Team_2_Run_list,[3,9,5,7,4,2,8,2,9,3,6,1,0,1,2,3,8,3,1,4,7,8,2,4,3,0,19]
+}
+{
+	ESPN_GAME_ID,401426585
+	SHARPODDZ_GAME_ID,72022473
+	Adv_Data,false
+	Team_1,Rice
+	Team_2,Florida Atlantic
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,14
+	Team_2_score,17
+	Team_1_3rd_Att-Succ,8/1
+	Team_2_3rd_Att-Succ,17/6
+	Team_1_4th_Att-Succ,2/0
+	Team_2_4th_Att-Succ,2/1
+	Team_1_Pass_atts-cmps-yds-ints,28/10/197/3
+	Team_2_Pass_atts-cmps-yds-ints,26/14/126/0
+	Team_1_Rush_atts-yds,23/64
+	Team_2_Rush_atts-yds,53/185
+	Team_1_Penalties_pens-yds,4/55
+	Team_2_Penalties_pens-yds,9/65
+	Team_1_Fumbles,0
+	Team_2_Fumbles,1
+	Team_1_Drives,-1
+	Team_2_Drives,-1
+	Team_1_Tackles_For_Loss,-1
+	Team_2_Tackles_For_Loss,-1
+	Team_1_Sacks,-1
+	Team_2_Sacks,-1
+	Team_1_First_Down_att-succ,-1/-1
+	Team_2_First_Down_att-succ,-1/-1
+	Team_1_Field_Goal_Made,
+	Team_2_Field_Goal_Made,
+	Team_1_Field_Goal_Missed,
+	Team_2_Field_Goal_Missed,
+	Team_1_Pass_List,
+	Team_2_Pass_list,
+	Team_1_Run_List,
+	Team_2_Run_list,
+}
+{
+	ESPN_GAME_ID,401403917
+	SHARPODDZ_GAME_ID,72022474
+	Adv_Data,true
+	Team_1,LSU
+	Team_2,Florida
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,45
+	Team_2_score,35
+	Team_1_3rd_Att-Succ,12/8
+	Team_2_3rd_Att-Succ,12/7
+	Team_1_4th_Att-Succ,2/2
+	Team_2_4th_Att-Succ,3/0
+	Team_1_Pass_atts-cmps-yds-ints,32/23/349/0
+	Team_2_Pass_atts-cmps-yds-ints,26/15/185/0
+	Team_1_Rush_atts-yds,38/179
+	Team_2_Rush_atts-yds,33/210
+	Team_1_Penalties_pens-yds,5/45
+	Team_2_Penalties_pens-yds,5/50
+	Team_1_Fumbles,1
+	Team_2_Fumbles,0
+	Team_1_Drives,9
+	Team_2_Drives,10
+	Team_1_Tackles_For_Loss,3
+	Team_2_Tackles_For_Loss,5
+	Team_1_Sacks,1
+	Team_2_Sacks,1
+	Team_1_First_Down_att-succ,33/14
+	Team_2_First_Down_att-succ,26/6
+	Team_1_Field_Goal_Made,[47]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[3,-1,1,7,3,3,3,6,2,2,3,1,0,4,13,10,2,50,4,12,9,4,6,1,6,1,9,4,1,10,2,2,5,3,-2,-1,-1]
+	Team_2_Pass_list,[1,5,2,4,9,2,4,5,2,3,39,4,-1,10,0,3,4,2,0,3,4,0,2,9,81,1,6,0,9,1,7,-5]
+	Team_1_Run_List,[3,-1,1,7,3,3,3,6,2,2,3,1,0,4,13,10,2,50,4,12,9,4,6,1,6,1,9,4,1,10,2,2,5,3,-2,-1,-1]
+	Team_2_Run_list,[1,5,2,4,9,2,4,5,2,3,39,4,-1,10,0,3,4,2,0,3,4,0,2,9,81,1,6,0,9,1,7,-5]
+}
+{
+	ESPN_GAME_ID,401415238
+	SHARPODDZ_GAME_ID,72022475
+	Adv_Data,true
+	Team_1,Utah State
+	Team_2,Colorado State
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,17
+	Team_2_score,13
+	Team_1_3rd_Att-Succ,16/6
+	Team_2_3rd_Att-Succ,15/2
+	Team_1_4th_Att-Succ,0/0
+	Team_2_4th_Att-Succ,3/1
+	Team_1_Pass_atts-cmps-yds-ints,31/14/138/1
+	Team_2_Pass_atts-cmps-yds-ints,33/12/163/1
+	Team_1_Rush_atts-yds,49/252
+	Team_2_Rush_atts-yds,34/99
+	Team_1_Penalties_pens-yds,10/93
+	Team_2_Penalties_pens-yds,10/90
+	Team_1_Fumbles,1
+	Team_2_Fumbles,0
+	Team_1_Drives,15
+	Team_2_Drives,14
+	Team_1_Tackles_For_Loss,8
+	Team_2_Tackles_For_Loss,3
+	Team_1_Sacks,3
+	Team_2_Sacks,1
+	Team_1_First_Down_att-succ,40/14
+	Team_2_First_Down_att-succ,34/7
+	Team_1_Field_Goal_Made,[48]
+	Team_2_Field_Goal_Made,[23,35]
+	Team_1_Field_Goal_Missed,[45,52]
+	Team_2_Field_Goal_Missed,[39]
+	Team_1_Pass_List,[9,2,19,2,7,7,4,-1,2,9,12,3,3,3,25,4,2,12,4,15,2,4,20,3,6,19,3,4,2,5,1,8,2,3,6,5,1,3,5,3,6,2,2,3,-2,2]
+	Team_2_Pass_list,[0,4,7,5,1,2,3,8,7,26,1,2,-3,1,18,4,-1,4,4,0,7,8,1,-2,4,0,-1,0,1,7,-1]
+	Team_1_Run_List,[9,2,19,2,7,7,4,-1,2,9,12,3,3,3,25,4,2,12,4,15,2,4,20,3,6,19,3,4,2,5,1,8,2,3,6,5,1,3,5,3,6,2,2,3,-2,2]
+	Team_2_Run_list,[0,4,7,5,1,2,3,8,7,26,1,2,-3,1,18,4,-1,4,4,0,7,8,1,-2,4,0,-1,0,1,7,-1]
+}
+{
+	ESPN_GAME_ID,401426350
+	SHARPODDZ_GAME_ID,72022476
+	Adv_Data,true
+	Team_1,UL Monroe
+	Team_2,South Alabama
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,34
+	Team_2_score,41
+	Team_1_3rd_Att-Succ,12/3
+	Team_2_3rd_Att-Succ,13/6
+	Team_1_4th_Att-Succ,2/2
+	Team_2_4th_Att-Succ,1/0
+	Team_1_Pass_atts-cmps-yds-ints,27/20/371/1
+	Team_2_Pass_atts-cmps-yds-ints,33/25/420/0
+	Team_1_Rush_atts-yds,31/67
+	Team_2_Rush_atts-yds,41/195
+	Team_1_Penalties_pens-yds,3/25
+	Team_2_Penalties_pens-yds,5/62
+	Team_1_Fumbles,0
+	Team_2_Fumbles,0
+	Team_1_Drives,12
+	Team_2_Drives,13
+	Team_1_Tackles_For_Loss,1
+	Team_2_Tackles_For_Loss,3
+	Team_1_Sacks,1
+	Team_2_Sacks,3
+	Team_1_First_Down_att-succ,25/9
+	Team_2_First_Down_att-succ,34/16
+	Team_1_Field_Goal_Made,[24,40]
+	Team_2_Field_Goal_Made,[34,29]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[2,1,4,0,1,5,6,2,3,2,1,3,6,0,2,4,0,10,0,10,1,9,0,0,4,7]
+	Team_2_Pass_list,[5,7,5,14,4,2,0,11,2,0,3,44,4,4,4,4,0,0,2,0,3,8,3,12,5,2,5,4,2,11,3,32,3,2,7]
+	Team_1_Run_List,[2,1,4,0,1,5,6,2,3,2,1,3,6,0,2,4,0,10,0,10,1,9,0,0,4,7]
+	Team_2_Run_list,[5,7,5,14,4,2,0,11,2,0,3,44,4,4,4,4,0,0,2,0,3,8,3,12,5,2,5,4,2,11,3,32,3,2,7]
+}
+{
+	ESPN_GAME_ID,401426351
+	SHARPODDZ_GAME_ID,72022477
+	Adv_Data,true
+	Team_1,Arkansas State
+	Team_2,Southern Miss
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,19
+	Team_2_score,20
+	Team_1_3rd_Att-Succ,14/6
+	Team_2_3rd_Att-Succ,14/6
+	Team_1_4th_Att-Succ,1/0
+	Team_2_4th_Att-Succ,3/2
+	Team_1_Pass_atts-cmps-yds-ints,34/25/236/0
+	Team_2_Pass_atts-cmps-yds-ints,32/17/177/2
+	Team_1_Rush_atts-yds,31/50
+	Team_2_Rush_atts-yds,37/168
+	Team_1_Penalties_pens-yds,11/90
+	Team_2_Penalties_pens-yds,6/72
+	Team_1_Fumbles,0
+	Team_2_Fumbles,0
+	Team_1_Drives,11
+	Team_2_Drives,11
+	Team_1_Tackles_For_Loss,5
+	Team_2_Tackles_For_Loss,9
+	Team_1_Sacks,1
+	Team_2_Sacks,4
+	Team_1_First_Down_att-succ,31/11
+	Team_2_First_Down_att-succ,31/14
+	Team_1_Field_Goal_Made,[31]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[0,4,4,1,-7,0,-2,8,3,2,-1,1,1,8,2,4,1,7,11,8,11,6,2,7,-2,4]
+	Team_2_Pass_list,[23,3,0,5,6,4,5,-2,11,1,-2,6,2,2,6,8,13,0,4,0,0,0,-4,12,15,30,5,2,3,2,1,1,6,3]
+	Team_1_Run_List,[0,4,4,1,-7,0,-2,8,3,2,-1,1,1,8,2,4,1,7,11,8,11,6,2,7,-2,4]
+	Team_2_Run_list,[23,3,0,5,6,4,5,-2,11,1,-2,6,2,2,6,8,13,0,4,0,0,0,-4,12,15,30,5,2,3,2,1,1,6,3]
+}
+{
+	ESPN_GAME_ID,401404016
+	SHARPODDZ_GAME_ID,72022478
+	Adv_Data,true
+	Team_1,Stanford
+	Team_2,Notre Dame
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,16
+	Team_2_score,14
+	Team_1_3rd_Att-Succ,16/7
+	Team_2_3rd_Att-Succ,12/3
+	Team_1_4th_Att-Succ,2/0
+	Team_2_4th_Att-Succ,4/2
+	Team_1_Pass_atts-cmps-yds-ints,39/26/288/0
+	Team_2_Pass_atts-cmps-yds-ints,27/13/151/0
+	Team_1_Rush_atts-yds,42/97
+	Team_2_Rush_atts-yds,34/150
+	Team_1_Penalties_pens-yds,2/12
+	Team_2_Penalties_pens-yds,3/20
+	Team_1_Fumbles,0
+	Team_2_Fumbles,2
+	Team_1_Drives,12
+	Team_2_Drives,11
+	Team_1_Tackles_For_Loss,6
+	Team_2_Tackles_For_Loss,3
+	Team_1_Sacks,2
+	Team_2_Sacks,1
+	Team_1_First_Down_att-succ,32/10
+	Team_2_First_Down_att-succ,26/12
+	Team_1_Field_Goal_Made,[45,43,43]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[6,2,9,2,4,1,5,1,7,2,-2,8,2,4,2,3,0,7,2,1,0,9,5,6,4,1,7,1,6,0,1,3,0,2,0,1,1]
+	Team_2_Pass_list,[-1,11,1,7,-3,16,0,4,4,1,5,3,-8,1,6,2,26,6,10,9,4,4,2,11,6,2,6,-2,6]
+	Team_1_Run_List,[6,2,9,2,4,1,5,1,7,2,-2,8,2,4,2,3,0,7,2,1,0,9,5,6,4,1,7,1,6,0,1,3,0,2,0,1,1]
+	Team_2_Run_list,[-1,11,1,7,-3,16,0,4,4,1,5,3,-8,1,6,2,26,6,10,9,4,4,2,11,6,2,6,-2,6]
+}
+{
+	ESPN_GAME_ID,401405113
+	SHARPODDZ_GAME_ID,72022479
+	Adv_Data,true
+	Team_1,Nebraska
+	Team_2,Purdue
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,37
+	Team_2_score,43
+	Team_1_3rd_Att-Succ,9/3
+	Team_2_3rd_Att-Succ,18/9
+	Team_1_4th_Att-Succ,0/0
+	Team_2_4th_Att-Succ,2/2
+	Team_1_Pass_atts-cmps-yds-ints,29/16/354/2
+	Team_2_Pass_atts-cmps-yds-ints,54/35/391/1
+	Team_1_Rush_atts-yds,23/122
+	Team_2_Rush_atts-yds,47/217
+	Team_1_Penalties_pens-yds,4/40
+	Team_2_Penalties_pens-yds,2/14
+	Team_1_Fumbles,0
+	Team_2_Fumbles,0
+	Team_1_Drives,13
+	Team_2_Drives,13
+	Team_1_Tackles_For_Loss,3
+	Team_2_Tackles_For_Loss,5
+	Team_1_Sacks,0
+	Team_2_Sacks,4
+	Team_1_First_Down_att-succ,27/11
+	Team_2_First_Down_att-succ,47/29
+	Team_1_Field_Goal_Made,[36,43,22]
+	Team_2_Field_Goal_Made,[37,37,34]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[41]
+	Team_1_Pass_List,[6,2,0,7,3,2,5,2,1,6,5,0,17,31,9,60,-3,6,1]
+	Team_2_Pass_list,[16,2,9,5,18,9,1,-2,8,9,2,0,2,2,4,5,13,3,8,7,7,0,1,11,1,2,0,2,2,4,-3,5,4,0,17,1,9,9,4,7,9,5,3,-1]
+	Team_1_Run_List,[6,2,0,7,3,2,5,2,1,6,5,0,17,31,9,60,-3,6,1]
+	Team_2_Run_list,[16,2,9,5,18,9,1,-2,8,9,2,0,2,2,4,5,13,3,8,7,7,0,1,11,1,2,0,2,2,4,-3,5,4,0,17,1,9,9,4,7,9,5,3,-1]
+}
+{
+	ESPN_GAME_ID,401415637
+	SHARPODDZ_GAME_ID,72022480
+	Adv_Data,false
+	Team_1,Memphis
+	Team_2,East Carolina
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,45
+	Team_2_score,47
+	Team_1_3rd_Att-Succ,15/8
+	Team_2_3rd_Att-Succ,15/10
+	Team_1_4th_Att-Succ,0/0
+	Team_2_4th_Att-Succ,2/0
+	Team_1_Pass_atts-cmps-yds-ints,37/27/407/2
+	Team_2_Pass_atts-cmps-yds-ints,35/26/304/0
+	Team_1_Rush_atts-yds,35/84
+	Team_2_Rush_atts-yds,42/169
+	Team_1_Penalties_pens-yds,5/51
+	Team_2_Penalties_pens-yds,5/35
+	Team_1_Fumbles,0
+	Team_2_Fumbles,0
+	Team_1_Drives,-1
+	Team_2_Drives,-1
+	Team_1_Tackles_For_Loss,-1
+	Team_2_Tackles_For_Loss,-1
+	Team_1_Sacks,-1
+	Team_2_Sacks,-1
+	Team_1_First_Down_att-succ,-1/-1
+	Team_2_First_Down_att-succ,-1/-1
+	Team_1_Field_Goal_Made,
+	Team_2_Field_Goal_Made,
+	Team_1_Field_Goal_Missed,
+	Team_2_Field_Goal_Missed,
+	Team_1_Pass_List,
+	Team_2_Pass_list,
+	Team_1_Run_List,
+	Team_2_Run_list,
+}
+{
+	ESPN_GAME_ID,401409239
+	SHARPODDZ_GAME_ID,72022481
+	Adv_Data,true
+	Team_1,New Mexico
+	Team_2,New Mexico State
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,9
+	Team_2_score,21
+	Team_1_3rd_Att-Succ,16/3
+	Team_2_3rd_Att-Succ,10/2
+	Team_1_4th_Att-Succ,2/2
+	Team_2_4th_Att-Succ,0/0
+	Team_1_Pass_atts-cmps-yds-ints,30/19/160/1
+	Team_2_Pass_atts-cmps-yds-ints,17/10/119/0
+	Team_1_Rush_atts-yds,42/109
+	Team_2_Rush_atts-yds,31/106
+	Team_1_Penalties_pens-yds,11/64
+	Team_2_Penalties_pens-yds,9/102
+	Team_1_Fumbles,0
+	Team_2_Fumbles,0
+	Team_1_Drives,11
+	Team_2_Drives,11
+	Team_1_Tackles_For_Loss,4
+	Team_2_Tackles_For_Loss,8
+	Team_1_Sacks,0
+	Team_2_Sacks,4
+	Team_1_First_Down_att-succ,31/8
+	Team_2_First_Down_att-succ,25/5
+	Team_1_Field_Goal_Made,[44,33,41]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[43]
+	Team_1_Pass_List,[3,0,2,7,4,2,-6,3,1,0,7,5,4,3,3,6,4,1,5,4,0,2,-2,3,3,7,1,10,4,6,4,3,8,0,2,4,5,7]
+	Team_2_Pass_list,[4,2,37,-3,7,-3,4,7,1,1,4,1,3,8,-2,6,1,13,1,2,3,0,4,5,1,1,0,1]
+	Team_1_Run_List,[3,0,2,7,4,2,-6,3,1,0,7,5,4,3,3,6,4,1,5,4,0,2,-2,3,3,7,1,10,4,6,4,3,8,0,2,4,5,7]
+	Team_2_Run_list,[4,2,37,-3,7,-3,4,7,1,1,4,1,3,8,-2,6,1,13,1,2,3,0,4,5,1,1,0,1]
+}
+{
+	ESPN_GAME_ID,401411137
+	SHARPODDZ_GAME_ID,72022482
+	Adv_Data,true
+	Team_1,North Carolina
+	Team_2,Duke
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,38
+	Team_2_score,35
+	Team_1_3rd_Att-Succ,13/8
+	Team_2_3rd_Att-Succ,9/4
+	Team_1_4th_Att-Succ,1/1
+	Team_2_4th_Att-Succ,2/0
+	Team_1_Pass_atts-cmps-yds-ints,39/28/380/0
+	Team_2_Pass_atts-cmps-yds-ints,31/20/245/1
+	Team_1_Rush_atts-yds,35/156
+	Team_2_Rush_atts-yds,42/297
+	Team_1_Penalties_pens-yds,8/61
+	Team_2_Penalties_pens-yds,8/85
+	Team_1_Fumbles,2
+	Team_2_Fumbles,0
+	Team_1_Drives,12
+	Team_2_Drives,12
+	Team_1_Tackles_For_Loss,1
+	Team_2_Tackles_For_Loss,2
+	Team_1_Sacks,1
+	Team_2_Sacks,2
+	Team_1_First_Down_att-succ,39/15
+	Team_2_First_Down_att-succ,35/13
+	Team_1_Field_Goal_Made,[45]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[52]
+	Team_2_Field_Goal_Missed,[43]
+	Team_1_Pass_List,[2,6,9,11,13,2,10,5,1,4,2,16,6,8,7,5,9,0,1,5,7,20,3,2,14,0,1]
+	Team_2_Pass_list,[5,6,14,3,15,2,4,17,0,6,2,1,3,0,13,74,9,8,7,3,9,2,1,3,0,4,4,4,7,2,38,0,10,4,11,14,2,6,5]
+	Team_1_Run_List,[2,6,9,11,13,2,10,5,1,4,2,16,6,8,7,5,9,0,1,5,7,20,3,2,14,0,1]
+	Team_2_Run_list,[5,6,14,3,15,2,4,17,0,6,2,1,3,0,13,74,9,8,7,3,9,2,1,3,0,4,4,4,7,2,38,0,10,4,11,14,2,6,5]
+}
+{
+	ESPN_GAME_ID,401404015
+	SHARPODDZ_GAME_ID,72022483
+	Adv_Data,true
+	Team_1,Washington State
+	Team_2,Oregon State
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,10
+	Team_2_score,24
+	Team_1_3rd_Att-Succ,17/6
+	Team_2_3rd_Att-Succ,15/6
+	Team_1_4th_Att-Succ,4/0
+	Team_2_4th_Att-Succ,1/1
+	Team_1_Pass_atts-cmps-yds-ints,54/25/345/1
+	Team_2_Pass_atts-cmps-yds-ints,24/12/141/1
+	Team_1_Rush_atts-yds,20/23
+	Team_2_Rush_atts-yds,47/203
+	Team_1_Penalties_pens-yds,4/35
+	Team_2_Penalties_pens-yds,2/10
+	Team_1_Fumbles,0
+	Team_2_Fumbles,0
+	Team_1_Drives,12
+	Team_2_Drives,12
+	Team_1_Tackles_For_Loss,3
+	Team_2_Tackles_For_Loss,8
+	Team_1_Sacks,1
+	Team_2_Sacks,6
+	Team_1_First_Down_att-succ,31/13
+	Team_2_First_Down_att-succ,30/14
+	Team_1_Field_Goal_Made,[29]
+	Team_2_Field_Goal_Made,[26]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[35]
+	Team_1_Pass_List,[6,4,-1,5,9,10,18,3,-1,4,2,1,12]
+	Team_2_Pass_list,[4,0,1,5,4,1,0,1,1,1,5,6,9,13,3,7,4,2,5,2,4,7,5,1,10,7,6,4,5,10,50,2,2,3,-1,5,2,-4,8,2,4,3]
+	Team_1_Run_List,[6,4,-1,5,9,10,18,3,-1,4,2,1,12]
+	Team_2_Run_list,[4,0,1,5,4,1,0,1,1,1,5,6,9,13,3,7,4,2,5,2,4,7,5,1,10,7,6,4,5,10,50,2,2,3,-1,5,2,-4,8,2,4,3]
+}
+{
+	ESPN_GAME_ID,401415237
+	SHARPODDZ_GAME_ID,72022484
+	Adv_Data,true
+	Team_1,Air Force
+	Team_2,UNLV
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,42
+	Team_2_score,7
+	Team_1_3rd_Att-Succ,9/4
+	Team_2_3rd_Att-Succ,6/2
+	Team_1_4th_Att-Succ,4/3
+	Team_2_4th_Att-Succ,1/0
+	Team_1_Pass_atts-cmps-yds-ints,3/1/14/0
+	Team_2_Pass_atts-cmps-yds-ints,15/10/118/1
+	Team_1_Rush_atts-yds,76/406
+	Team_2_Rush_atts-yds,20/61
+	Team_1_Penalties_pens-yds,1/10
+	Team_2_Penalties_pens-yds,0/0
+	Team_1_Fumbles,0
+	Team_2_Fumbles,3
+	Team_1_Drives,10
+	Team_2_Drives,8
+	Team_1_Tackles_For_Loss,2
+	Team_2_Tackles_For_Loss,1
+	Team_1_Sacks,1
+	Team_2_Sacks,0
+	Team_1_First_Down_att-succ,20/8
+	Team_2_First_Down_att-succ,11/5
+	Team_1_Field_Goal_Made,[]
+	Team_2_Field_Goal_Made,[]
+	Team_1_Field_Goal_Missed,[]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[4,14,3,60,6,4,3,5,5,6,10,7,4,6,6,1,14,5,3,3,4,-1,7,8,3,1,3,5,5,3,2,4,3,2,2,4,2,2,9,9,2]
+	Team_2_Pass_list,[4,8,9,4,3,3,-1,5,3,3]
+	Team_1_Run_List,[4,14,3,60,6,4,3,5,5,6,10,7,4,6,6,1,14,5,3,3,4,-1,7,8,3,1,3,5,5,3,2,4,3,2,2,4,2,2,9,9,2]
+	Team_2_Run_list,[4,8,9,4,3,3,-1,5,3,3]
+}
+{
+	ESPN_GAME_ID,401415239
+	SHARPODDZ_GAME_ID,72022485
+	Adv_Data,true
+	Team_1,San Jose State
+	Team_2,Fresno State
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,10
+	Team_2_score,17
+	Team_1_3rd_Att-Succ,15/3
+	Team_2_3rd_Att-Succ,13/3
+	Team_1_4th_Att-Succ,1/0
+	Team_2_4th_Att-Succ,1/0
+	Team_1_Pass_atts-cmps-yds-ints,45/22/302/1
+	Team_2_Pass_atts-cmps-yds-ints,32/22/230/1
+	Team_1_Rush_atts-yds,23/37
+	Team_2_Rush_atts-yds,36/98
+	Team_1_Penalties_pens-yds,7/75
+	Team_2_Penalties_pens-yds,4/42
+	Team_1_Fumbles,0
+	Team_2_Fumbles,2
+	Team_1_Drives,15
+	Team_2_Drives,15
+	Team_1_Tackles_For_Loss,6
+	Team_2_Tackles_For_Loss,10
+	Team_1_Sacks,3
+	Team_2_Sacks,5
+	Team_1_First_Down_att-succ,31/11
+	Team_2_First_Down_att-succ,31/10
+	Team_1_Field_Goal_Made,[24]
+	Team_2_Field_Goal_Made,[28]
+	Team_1_Field_Goal_Missed,[32]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[1,19,12,12,-3,0,-1,9,1,6,5,-1,3,5,8,3]
+	Team_2_Pass_list,[4,-2,1,0,0,1,3,5,5,4,6,6,22,2,3,8,3,15,3,5,3,0,11,3,3,5,-1,4,3,-2]
+	Team_1_Run_List,[1,19,12,12,-3,0,-1,9,1,6,5,-1,3,5,8,3]
+	Team_2_Run_list,[4,-2,1,0,0,1,3,5,5,4,6,6,22,2,3,8,3,15,3,5,3,0,11,3,3,5,-1,4,3,-2]
+}
+{
+	ESPN_GAME_ID,401415240
+	SHARPODDZ_GAME_ID,72022486
+	Adv_Data,true
+	Team_1,Nevada
+	Team_2,Hawai'i
+	Game_Year,2022
+	Game_Week,7
+	Team_1_score,16
+	Team_2_score,31
+	Team_1_3rd_Att-Succ,13/3
+	Team_2_3rd_Att-Succ,17/8
+	Team_1_4th_Att-Succ,3/2
+	Team_2_4th_Att-Succ,4/4
+	Team_1_Pass_atts-cmps-yds-ints,38/22/188/0
+	Team_2_Pass_atts-cmps-yds-ints,25/13/173/1
+	Team_1_Rush_atts-yds,28/89
+	Team_2_Rush_atts-yds,46/223
+	Team_1_Penalties_pens-yds,3/34
+	Team_2_Penalties_pens-yds,8/70
+	Team_1_Fumbles,1
+	Team_2_Fumbles,0
+	Team_1_Drives,10
+	Team_2_Drives,10
+	Team_1_Tackles_For_Loss,1
+	Team_2_Tackles_For_Loss,0
+	Team_1_Sacks,1
+	Team_2_Sacks,0
+	Team_1_First_Down_att-succ,30/10
+	Team_2_First_Down_att-succ,30/15
+	Team_1_Field_Goal_Made,[36,48,20]
+	Team_2_Field_Goal_Made,[27]
+	Team_1_Field_Goal_Missed,[45]
+	Team_2_Field_Goal_Missed,[]
+	Team_1_Pass_List,[3,1,0,11,3,2,6,1,3,1,2,1,2,3,0,2,1,16,1,1,19,1,12,0,0,3]
+	Team_2_Pass_list,[3,26,8,1,7,5,30,7,3,2,9,18,6,8,4,14,4,3,2,2,2,6,1,2,4,3,10,4,14,2,2,3,6,3,2,5,1,1]
+	Team_1_Run_List,[3,1,0,11,3,2,6,1,3,1,2,1,2,3,0,2,1,16,1,1,19,1,12,0,0,3]
+	Team_2_Run_list,[3,26,8,1,7,5,30,7,3,2,9,18,6,8,4,14,4,3,2,2,2,6,1,2,4,3,10,4,14,2,2,3,6,3,2,5,1,1]
 }
